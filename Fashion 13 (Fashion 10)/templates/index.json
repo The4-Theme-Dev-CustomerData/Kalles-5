@@ -160,7 +160,7 @@
       "type": "collections-list-manual",
       "blocks": {
         "collection_manual_item_AEWjQE": {
-          "type": "collection_manual-item",
+          "type": "_collection_manual-item",
           "settings": {
             "collection": "women",
             "image": "shopify:\/\/shop_images\/young-beautiful-woman-looking-trendy-girl-casual-summer-clothes-positive-funny-model-winking_360x_1cc8fbdd-72ea-45ad-a770-dfcc52cebaec.jpg",
@@ -176,7 +176,7 @@
           "blocks": {}
         },
         "collection_manual_item_D67f4i": {
-          "type": "collection_manual-item",
+          "type": "_collection_manual-item",
           "settings": {
             "collection": "men",
             "image": "shopify:\/\/shop_images\/men_360x_2092d206-bdcd-47b0-a217-8c13780e3d95.jpg",
@@ -192,7 +192,7 @@
           "blocks": {}
         },
         "collection_manual_item_tXNANF": {
-          "type": "collection_manual-item",
+          "type": "_collection_manual-item",
           "settings": {
             "collection": "watch",
             "image": "shopify:\/\/shop_images\/p24-11_720x_003d0b29-fa3e-47d8-8fe5-d8e8f567edea.jpg",
@@ -208,7 +208,7 @@
           "blocks": {}
         },
         "collection_manual_item_3V9XVG": {
-          "type": "collection_manual-item",
+          "type": "_collection_manual-item",
           "settings": {
             "collection": "accessories",
             "image": "shopify:\/\/shop_images\/bag2_360x_903214ec-d675-4944-8ad0-25e7688ceda6.jpg",
@@ -224,7 +224,7 @@
           "blocks": {}
         },
         "collection_manual_item_CABHci": {
-          "type": "collection_manual-item",
+          "type": "_collection_manual-item",
           "settings": {
             "collection": "shoes",
             "image": "shopify:\/\/shop_images\/sho1_360x_50ba61ef-d18a-4ddd-b26e-f9a19c3b4746.jpg",
@@ -549,7 +549,7 @@
       "type": "tabs-collection",
       "blocks": {
         "tab_collection_iYbPBM": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Women",
             "collection": "women"
@@ -588,7 +588,7 @@
           ]
         },
         "tab_collection_piphPf": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Men",
             "collection": "men"
@@ -627,7 +627,7 @@
           ]
         },
         "tab_collection_CBLtFL": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Accessories",
             "collection": "accessories"
@@ -666,7 +666,7 @@
           ]
         },
         "tab_collection_RX6Btr": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Top",
             "collection": "trend-1"
@@ -705,7 +705,7 @@
           ]
         },
         "tab_collection_jpyjK3": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Bottoms",
             "collection": "trend"
@@ -744,7 +744,7 @@
           ]
         },
         "tab_collection_ExHCBd": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Shoes",
             "collection": "shoes"
@@ -783,7 +783,7 @@
           ]
         },
         "tab_collection_Daw9Pc": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Jewellry",
             "collection": "jewellry"
@@ -1006,7 +1006,7 @@
       "type": "lookbook-carousel",
       "blocks": {
         "lookbook_LWng87": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins8_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1014,7 +1014,7 @@
           },
           "blocks": {
             "pin_product_i3PHkj": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1038,7 +1038,7 @@
           ]
         },
         "lookbook_mYkjki": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins7_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1046,7 +1046,7 @@
           },
           "blocks": {
             "pin_product_8CGBBg": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1070,7 +1070,7 @@
           ]
         },
         "lookbook_VqJTGD": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins6_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1078,7 +1078,7 @@
           },
           "blocks": {
             "pin_product_LDLBTY": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1097,7 +1097,7 @@
               "blocks": {}
             },
             "pin_product_qB9d4b": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1122,7 +1122,7 @@
           ]
         },
         "lookbook_NQi7Xf": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins5_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1130,7 +1130,7 @@
           },
           "blocks": {
             "pin_product_xJHkTr": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1154,7 +1154,7 @@
           ]
         },
         "lookbook_zNfrP4": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins4_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1162,7 +1162,7 @@
           },
           "blocks": {
             "pin_product_j9TLaD": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1186,7 +1186,7 @@
           ]
         },
         "lookbook_DaNAAh": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins3_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1194,7 +1194,7 @@
           },
           "blocks": {
             "pin_product_kqzhBq": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1218,7 +1218,7 @@
           ]
         },
         "lookbook_AzchnW": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins1_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1226,7 +1226,7 @@
           },
           "blocks": {
             "pin_product_Fw6AVx": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1250,7 +1250,7 @@
           ]
         },
         "lookbook_MwHq4E": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify:\/\/shop_images\/ins2_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1258,7 +1258,7 @@
           },
           "blocks": {
             "pin_product_D3BDae": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",

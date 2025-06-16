@@ -96,12 +96,12 @@
     "predictive_search_show_price": true,
     "search_fullwidth": true,
     "products_suggest": [
-      "carissa-baby-doll-mini-dress",
-      "cord-grazer-flare",
-      "cord-hem-release-shacket",
       "crop-top-t-shirt",
-      "cuffed-chino",
-      "athlete-seamless-gym-vest"
+      "denim-shell-top-with-ruffle-front",
+      "leather-white-trainers",
+      "stan-smith-trainers",
+      "skin-sweatpans",
+      "short-sleeved-hoodie"
     ],
     "currency_type": "1",
     "currency_code_enabled": true,
@@ -347,7 +347,7 @@
         "settings": {
           "text": "#878787",
           "text2": "#878787",
-          "background": "#f6f6f8",
+          "background": "#f7fafa",
           "background_gradient": "",
           "background2": "#f2f2f2",
           "button": "#222222",

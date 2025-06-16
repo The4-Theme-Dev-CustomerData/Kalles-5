@@ -799,7 +799,6 @@
             "dis_pagination": 30,
             "btn_label": "",
             "btn_style": "hdt-btn-outline",
-            "endable_btn_icon": false,
             "size": "xl",
             "btn_fw": "medium",
             "loop": false,
@@ -1246,7 +1245,7 @@
       "type": "tabs-collection",
       "blocks": {
         "tab_collection_JcGqg6": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Best Seller",
             "collection": ""
@@ -1290,7 +1289,7 @@
           ]
         },
         "tab_collection_dWrJ6L": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Featured",
             "collection": ""
@@ -1334,7 +1333,7 @@
           ]
         },
         "tab_collection_YHenmx": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Top Rate",
             "collection": ""
@@ -1378,7 +1377,7 @@
           ]
         },
         "tab_collection_PLwMMC": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Sale",
             "collection": ""
@@ -1597,7 +1596,7 @@
       "type": "lookbook-carousel",
       "blocks": {
         "lookbook_LWng87": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins8_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1605,7 +1604,7 @@
           },
           "blocks": {
             "pin_product_i3PHkj": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1629,7 +1628,7 @@
           ]
         },
         "lookbook_mYkjki": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins7_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1637,7 +1636,7 @@
           },
           "blocks": {
             "pin_product_8CGBBg": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1661,7 +1660,7 @@
           ]
         },
         "lookbook_VqJTGD": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins6_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1669,7 +1668,7 @@
           },
           "blocks": {
             "pin_product_LDLBTY": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1688,7 +1687,7 @@
               "blocks": {}
             },
             "pin_product_qB9d4b": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1713,7 +1712,7 @@
           ]
         },
         "lookbook_NQi7Xf": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins5_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1721,7 +1720,7 @@
           },
           "blocks": {
             "pin_product_xJHkTr": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1745,7 +1744,7 @@
           ]
         },
         "lookbook_zNfrP4": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins4_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1753,7 +1752,7 @@
           },
           "blocks": {
             "pin_product_j9TLaD": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1777,7 +1776,7 @@
           ]
         },
         "lookbook_DaNAAh": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins3_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1785,7 +1784,7 @@
           },
           "blocks": {
             "pin_product_kqzhBq": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1809,7 +1808,7 @@
           ]
         },
         "lookbook_AzchnW": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins1_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1817,7 +1816,7 @@
           },
           "blocks": {
             "pin_product_Fw6AVx": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",
@@ -1841,7 +1840,7 @@
           ]
         },
         "lookbook_MwHq4E": {
-          "type": "lookbook",
+          "type": "_lookbook",
           "settings": {
             "image": "shopify://shop_images/ins2_2022-03-02.jpg",
             "img_effect": "zoom",
@@ -1849,7 +1848,7 @@
           },
           "blocks": {
             "pin_product_D3BDae": {
-              "type": "pin-product",
+              "type": "_pin-product",
               "settings": {
                 "pin_bg": "#222222",
                 "pin_text": "#ffffff",

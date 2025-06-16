@@ -6,7 +6,7 @@
       "type": "footer",
       "blocks": {
         "footer_column_C3zLBR": {
-          "type": "footer-column",
+          "type": "_footer-column",
           "settings": {
             "col_heading": "CATEGORIES",
             "only_mobile": false,
@@ -20,7 +20,7 @@
           },
           "blocks": {
             "linklist_mTLiQc": {
-              "type": "linklist",
+              "type": "_linklist",
               "settings": {
                 "menu_inline": false,
                 "align": "left",
@@ -36,7 +36,7 @@
           ]
         },
         "footer_column_3Dap6p": {
-          "type": "footer-column",
+          "type": "_footer-column",
           "settings": {
             "col_heading": "INFORMATION",
             "only_mobile": false,
@@ -50,7 +50,7 @@
           },
           "blocks": {
             "linklist_BDr677": {
-              "type": "linklist",
+              "type": "_linklist",
               "settings": {
                 "menu_inline": false,
                 "align": "left",
@@ -66,7 +66,7 @@
           ]
         },
         "footer_column_U4EkTn": {
-          "type": "footer-column",
+          "type": "_footer-column",
           "settings": {
             "col_heading": "QUICK LINKS",
             "only_mobile": false,
@@ -80,7 +80,7 @@
           },
           "blocks": {
             "linklist_cCjYzb": {
-              "type": "linklist",
+              "type": "_linklist",
               "settings": {
                 "menu_inline": false,
                 "align": "left",
@@ -96,7 +96,7 @@
           ]
         },
         "footer_column_dYTFqa": {
-          "type": "footer-column",
+          "type": "_footer-column",
           "settings": {
             "col_heading": "FOLLOW US",
             "only_mobile": false,

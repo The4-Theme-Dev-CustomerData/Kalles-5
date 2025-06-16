@@ -28,7 +28,7 @@
               "fashion-1",
               "fashion-2"
             ],
-            "collection_colors": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
+            "collection_colors": "scheme-d6d6f807-34e9-4bde-ba1d-79bd3796a24b",
             "mega_position": "bottom",
             "mega_width": "custom",
             "mega_custom_width": 1200
@@ -114,7 +114,7 @@
         "header_height": 70,
         "logo": "shopify:\/\/shop_images\/kalles.svg",
         "logo_width": 95,
-        "header_colors": "",
+        "header_colors": "scheme-1",
         "main_menu": "main-menu",
         "lazy_mn": false,
         "menu_position": "start",
@@ -142,7 +142,7 @@
         "header_mobile_colors": "",
         "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
         "header_transparent": true,
-        "header_transparent_colors": "",
+        "header_transparent_colors": "scheme-23cf8966-8e57-4acd-9bb3-bb85f222fbb9",
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
       }

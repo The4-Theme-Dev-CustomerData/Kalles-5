@@ -105,7 +105,7 @@
                 "min_height_btn": 26,
                 "icon": "arrow_right",
                 "icon_position": "after",
-                "icon_height": 15,
+                "icon_height": 20,
                 "icon_spacing": 5
               },
               "blocks": {}
@@ -219,7 +219,7 @@
                 "min_height_btn": 26,
                 "icon": "arrow_right",
                 "icon_position": "after",
-                "icon_height": 10,
+                "icon_height": 20,
                 "icon_spacing": 5
               },
               "blocks": {}
@@ -242,8 +242,8 @@
             "color_scheme": "",
             "content_position": "center-start",
             "alignment": "left",
-            "content_position_mb": "center-end",
-            "alignment_mb": "right",
+            "content_position_mb": "center-start",
+            "alignment_mb": "left",
             "background_content": false,
             "bg_opacity": 0,
             "box_square": false,
@@ -335,7 +335,7 @@
                 "min_height_btn": 26,
                 "icon": "arrow_right",
                 "icon_position": "after",
-                "icon_height": 10,
+                "icon_height": 20,
                 "icon_spacing": 5
               },
               "blocks": {}
@@ -799,7 +799,7 @@
       "type": "tabs-collection",
       "blocks": {
         "tab_collection_QPqUKm": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Best Sellers",
             "collection": ""
@@ -838,7 +838,7 @@
           ]
         },
         "tab_collection_MqAAxY": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Top Rated",
             "collection": "coats-jackets"
@@ -877,7 +877,7 @@
           ]
         },
         "tab_collection_Lxq9M4": {
-          "type": "tab-collection",
+          "type": "_tab-collection",
           "settings": {
             "title": "Sales",
             "collection": ""

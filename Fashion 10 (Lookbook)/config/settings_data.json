@@ -1,5 +1,6 @@
 {
   "current": {
+    "purchase_code": "kalles-5",
     "color_scheme_body": "scheme-1",
     "color_focus": "#56cfe1",
     "color_scheme_dialog": "scheme-1",
@@ -40,7 +41,7 @@
     "page_width": 1200,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 30,
-    "spacing_grid_vertical": 40,
+    "spacing_grid_vertical": 30,
     "button_radius": 30,
     "input_radius": 30,
     "block_radius": 0,
@@ -96,12 +97,12 @@
     "predictive_search_show_price": true,
     "search_fullwidth": true,
     "products_suggest": [
-      "carissa-baby-doll-mini-dress",
-      "cord-grazer-flare",
-      "cord-hem-release-shacket",
       "crop-top-t-shirt",
-      "cuffed-chino",
-      "athlete-seamless-gym-vest"
+      "denim-shell-top-with-ruffle-front",
+      "leather-white-trainers",
+      "stan-smith-trainers",
+      "skin-sweatpans",
+      "short-sleeved-hoodie"
     ],
     "currency_type": "1",
     "currency_code_enabled": true,
@@ -215,6 +216,28 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "sections": {
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/kalles.svg",
+          "logo_width": 100,
+          "color_scheme": ""
+        }
+      },
+      "main-password": {
+        "type": "main-password",
+        "settings": {
+          "heading": "Coming Soon!",
+          "content": "We are about to go public so be sure to root on us and check back in anytime!<br> Can't wait to have you!",
+          "newsletter_placeholder": "Your email address",
+          "newsletter_button_text": "Notify me",
+          "signup_form_success": "We will send you an email right before we open!",
+          "show_social": true,
+          "color_scheme": ""
+        }
+      }
+    },
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
@@ -284,11 +307,11 @@
         "settings": {
           "text": "#222222",
           "text2": "#878787",
-          "background": "#ffffff",
+          "background": "#f6f6f6",
           "background_gradient": "",
           "background2": "#f2f2f2",
-          "button": "#ffffff",
-          "button_label": "#222222",
+          "button": "#222222",
+          "button_label": "#ffffff",
           "button_border": "#999999",
           "secondary_button_label": "#222222",
           "accent_color": "#01bad4",
