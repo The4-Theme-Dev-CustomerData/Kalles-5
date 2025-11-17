@@ -1,4 +1,13 @@
-{
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
   "sections": {
     "banner_masonry_Wmf3UV": {
       "type": "banner-masonry",
@@ -44,7 +53,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>living room<\/p>",
+                "heading": "<p>living room</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -72,7 +81,7 @@
               "type": "button",
               "settings": {
                 "label": "view collections",
-                "link": "shopify:\/\/collections\/decor",
+                "link": "shopify://collections/decor",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -104,8 +113,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/cat10_540x_04ecf4f9-1653-416e-96ff-35db052c5e16.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/cat10_540x_04ecf4f9-1653-416e-96ff-35db052c5e16.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -169,7 +178,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>kitchen <br\/>&dining<\/p>",
+                "heading": "<p>kitchen <br/>&dining</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -197,7 +206,7 @@
               "type": "button",
               "settings": {
                 "label": "view collections",
-                "link": "shopify:\/\/collections\/decor",
+                "link": "shopify://collections/decor",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -229,8 +238,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/cat11_540x_58943e5b-455a-44b1-9ff9-5c7949ffddb6.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/cat11_540x_58943e5b-455a-44b1-9ff9-5c7949ffddb6.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -284,7 +293,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>lighting collections<\/p>",
+                "heading": "<p>lighting collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -312,7 +321,7 @@
               "type": "button",
               "settings": {
                 "label": "Explorer",
-                "link": "shopify:\/\/collections\/decor",
+                "link": "shopify://collections/decor",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -344,8 +353,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/cat12_1080x_de5e92b5-1ac1-4b4e-a245-11dcc2157f83.webp",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/cat12_1080x_de5e92b5-1ac1-4b4e-a245-11dcc2157f83.webp",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -398,7 +407,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>audio decor<\/p>",
+                "heading": "<p>audio decor</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -426,7 +435,7 @@
               "type": "button",
               "settings": {
                 "label": "view collections",
-                "link": "shopify:\/\/collections\/decor",
+                "link": "shopify://collections/decor",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -458,8 +467,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/cat13_720x_e309d4ef-d2df-425a-9a44-6ab6037e9117.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/cat13_720x_e309d4ef-d2df-425a-9a44-6ab6037e9117.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -523,7 +532,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>bottles<\/p>",
+                "heading": "<p>bottles</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -541,8 +550,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/cat14_360x_eb448ee0-22c5-4c0b-ab20-c77198abb400.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/cat14_360x_eb448ee0-22c5-4c0b-ab20-c77198abb400.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -782,7 +791,7 @@
               "type": "_sub_heading_section",
               "name": "t:blocks.section_heading.sub_heading",
               "settings": {
-                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!<\/p>",
+                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -838,13 +847,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "truck",
-            "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><path d=\"M 1 4 L 1 25 L 4.15625 25 C 4.601563 26.71875 6.148438 28 8 28 C 9.851563 28 11.398438 26.71875 11.84375 25 L 20.15625 25 C 20.601563 26.71875 22.148438 28 24 28 C 25.851563 28 27.398438 26.71875 27.84375 25 L 31 25 L 31 14.59375 L 30.71875 14.28125 L 24.71875 8.28125 L 24.40625 8 L 19 8 L 19 4 Z M 3 6 L 17 6 L 17 23 L 11.84375 23 C 11.398438 21.28125 9.851563 20 8 20 C 6.148438 20 4.601563 21.28125 4.15625 23 L 3 23 Z M 19 10 L 23.5625 10 L 29 15.4375 L 29 23 L 27.84375 23 C 27.398438 21.28125 25.851563 20 24 20 C 22.148438 20 20.601563 21.28125 20.15625 23 L 19 23 Z M 8 22 C 9.117188 22 10 22.882813 10 24 C 10 25.117188 9.117188 26 8 26 C 6.882813 26 6 25.117188 6 24 C 6 22.882813 6.882813 22 8 22 Z M 24 22 C 25.117188 22 26 22.882813 26 24 C 26 25.117188 25.117188 26 24 26 C 22.882813 26 22 25.117188 22 24 C 22 22.882813 22.882813 22 24 22 Z\"><\/path><\/svg>"
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\"><path d=\"M 1 4 L 1 25 L 4.15625 25 C 4.601563 26.71875 6.148438 28 8 28 C 9.851563 28 11.398438 26.71875 11.84375 25 L 20.15625 25 C 20.601563 26.71875 22.148438 28 24 28 C 25.851563 28 27.398438 26.71875 27.84375 25 L 31 25 L 31 14.59375 L 30.71875 14.28125 L 24.71875 8.28125 L 24.40625 8 L 19 8 L 19 4 Z M 3 6 L 17 6 L 17 23 L 11.84375 23 C 11.398438 21.28125 9.851563 20 8 20 C 6.148438 20 4.601563 21.28125 4.15625 23 L 3 23 Z M 19 10 L 23.5625 10 L 29 15.4375 L 29 23 L 27.84375 23 C 27.398438 21.28125 25.851563 20 24 20 C 22.148438 20 20.601563 21.28125 20.15625 23 L 19 23 Z M 8 22 C 9.117188 22 10 22.882813 10 24 C 10 25.117188 9.117188 26 8 26 C 6.882813 26 6 25.117188 6 24 C 6 22.882813 6.882813 22 8 22 Z M 24 22 C 25.117188 22 26 22.882813 26 24 C 26 25.117188 25.117188 26 24 26 C 22.882813 26 22 25.117188 22 24 C 22 22.882813 22.882813 22 24 22 Z\"></path></svg>"
           },
           "blocks": {
             "heading_NGyGjx": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Free shipping<\/p>",
+                "heading": "<p>Free shipping</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -870,7 +879,7 @@
             "text_Exgzmi": {
               "type": "text",
               "settings": {
-                "text": "<p>Free shipping for all US order<\/p>",
+                "text": "<p>Free shipping for all US order</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -897,13 +906,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "help",
-            "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 9.382813 4 4 9.382813 4 16 C 4 22.617188 9.382813 28 16 28 C 22.617188 28 28 22.617188 28 16 C 28 9.382813 22.617188 4 16 4 Z M 16 6 C 16.335938 6 16.671875 6.03125 17 6.0625 L 17 9.09375 C 16.671875 9.046875 16.339844 9 16 9 C 15.660156 9 15.328125 9.046875 15 9.09375 L 15 6.0625 C 15.328125 6.03125 15.664063 6 16 6 Z M 13 6.4375 L 13 9.6875 C 11.546875 10.382813 10.378906 11.546875 9.6875 13 L 6.46875 13 C 7.441406 9.875 9.882813 7.414063 13 6.4375 Z M 19 6.4375 C 22.113281 7.414063 24.585938 9.886719 25.5625 13 L 22.3125 13 C 21.621094 11.546875 20.453125 10.378906 19 9.6875 Z M 16 11 C 18.773438 11 21 13.226563 21 16 C 21 18.773438 18.773438 21 16 21 C 13.226563 21 11 18.773438 11 16 C 11 13.226563 13.226563 11 16 11 Z M 6.0625 15 L 9.0625 15 C 9.015625 15.324219 9 15.664063 9 16 C 9 16.339844 9.046875 16.671875 9.09375 17 L 6.0625 17 C 6.03125 16.671875 6 16.335938 6 16 C 6 15.664063 6.03125 15.328125 6.0625 15 Z M 22.90625 15 L 25.9375 15 C 25.96875 15.328125 26 15.664063 26 16 C 26 16.335938 25.96875 16.671875 25.9375 17 L 22.90625 17 C 22.953125 16.671875 23 16.339844 23 16 C 23 15.660156 22.953125 15.328125 22.90625 15 Z M 6.4375 19 L 9.6875 19 C 10.378906 20.453125 11.546875 21.621094 13 22.3125 L 13 25.5625 C 9.886719 24.585938 7.414063 22.113281 6.4375 19 Z M 22.3125 19 L 25.5625 19 C 24.585938 22.113281 22.113281 24.585938 19 25.5625 L 19 22.3125 C 20.453125 21.621094 21.621094 20.453125 22.3125 19 Z M 15 22.90625 C 15.328125 22.953125 15.660156 23 16 23 C 16.339844 23 16.671875 22.953125 17 22.90625 L 17 25.9375 C 16.671875 25.96875 16.335938 26 16 26 C 15.664063 26 15.328125 25.96875 15 25.9375 Z\"><\/path><\/svg>"
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 9.382813 4 4 9.382813 4 16 C 4 22.617188 9.382813 28 16 28 C 22.617188 28 28 22.617188 28 16 C 28 9.382813 22.617188 4 16 4 Z M 16 6 C 16.335938 6 16.671875 6.03125 17 6.0625 L 17 9.09375 C 16.671875 9.046875 16.339844 9 16 9 C 15.660156 9 15.328125 9.046875 15 9.09375 L 15 6.0625 C 15.328125 6.03125 15.664063 6 16 6 Z M 13 6.4375 L 13 9.6875 C 11.546875 10.382813 10.378906 11.546875 9.6875 13 L 6.46875 13 C 7.441406 9.875 9.882813 7.414063 13 6.4375 Z M 19 6.4375 C 22.113281 7.414063 24.585938 9.886719 25.5625 13 L 22.3125 13 C 21.621094 11.546875 20.453125 10.378906 19 9.6875 Z M 16 11 C 18.773438 11 21 13.226563 21 16 C 21 18.773438 18.773438 21 16 21 C 13.226563 21 11 18.773438 11 16 C 11 13.226563 13.226563 11 16 11 Z M 6.0625 15 L 9.0625 15 C 9.015625 15.324219 9 15.664063 9 16 C 9 16.339844 9.046875 16.671875 9.09375 17 L 6.0625 17 C 6.03125 16.671875 6 16.335938 6 16 C 6 15.664063 6.03125 15.328125 6.0625 15 Z M 22.90625 15 L 25.9375 15 C 25.96875 15.328125 26 15.664063 26 16 C 26 16.335938 25.96875 16.671875 25.9375 17 L 22.90625 17 C 22.953125 16.671875 23 16.339844 23 16 C 23 15.660156 22.953125 15.328125 22.90625 15 Z M 6.4375 19 L 9.6875 19 C 10.378906 20.453125 11.546875 21.621094 13 22.3125 L 13 25.5625 C 9.886719 24.585938 7.414063 22.113281 6.4375 19 Z M 22.3125 19 L 25.5625 19 C 24.585938 22.113281 22.113281 24.585938 19 25.5625 L 19 22.3125 C 20.453125 21.621094 21.621094 20.453125 22.3125 19 Z M 15 22.90625 C 15.328125 22.953125 15.660156 23 16 23 C 16.339844 23 16.671875 22.953125 17 22.90625 L 17 25.9375 C 16.671875 25.96875 16.335938 26 16 26 C 15.664063 26 15.328125 25.96875 15 25.9375 Z\"></path></svg>"
           },
           "blocks": {
             "heading_9JwAwT": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Support 24\/7<\/p>",
+                "heading": "<p>Support 24/7</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -929,7 +938,7 @@
             "text_NaWET3": {
               "type": "text",
               "settings": {
-                "text": "<p>We support 24 hours a day<\/p>",
+                "text": "<p>We support 24 hours a day</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -956,13 +965,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "refesh",
-            "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 10.886719 4 6.617188 7.160156 4.875 11.625 L 6.71875 12.375 C 8.175781 8.640625 11.710938 6 16 6 C 19.242188 6 22.132813 7.589844 23.9375 10 L 20 10 L 20 12 L 27 12 L 27 5 L 25 5 L 25 8.09375 C 22.808594 5.582031 19.570313 4 16 4 Z M 25.28125 19.625 C 23.824219 23.359375 20.289063 26 16 26 C 12.722656 26 9.84375 24.386719 8.03125 22 L 12 22 L 12 20 L 5 20 L 5 27 L 7 27 L 7 23.90625 C 9.1875 26.386719 12.394531 28 16 28 C 21.113281 28 25.382813 24.839844 27.125 20.375 Z\"><\/path><\/svg>"
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 10.886719 4 6.617188 7.160156 4.875 11.625 L 6.71875 12.375 C 8.175781 8.640625 11.710938 6 16 6 C 19.242188 6 22.132813 7.589844 23.9375 10 L 20 10 L 20 12 L 27 12 L 27 5 L 25 5 L 25 8.09375 C 22.808594 5.582031 19.570313 4 16 4 Z M 25.28125 19.625 C 23.824219 23.359375 20.289063 26 16 26 C 12.722656 26 9.84375 24.386719 8.03125 22 L 12 22 L 12 20 L 5 20 L 5 27 L 7 27 L 7 23.90625 C 9.1875 26.386719 12.394531 28 16 28 C 21.113281 28 25.382813 24.839844 27.125 20.375 Z\"></path></svg>"
           },
           "blocks": {
             "heading_DX8eWh": {
               "type": "heading",
               "settings": {
-                "heading": "<p>30 days return<\/p>",
+                "heading": "<p>30 days return</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -988,7 +997,7 @@
             "text_3BKPAP": {
               "type": "text",
               "settings": {
-                "text": "<p>You have 30 days to return<\/p>",
+                "text": "<p>You have 30 days to return</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1015,13 +1024,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "door-lock",
-            "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 13.75 4 12.234375 4.886719 10.875 5.625 C 9.515625 6.363281 8.28125 7 6 7 L 5 7 L 5 8 C 5 15.71875 7.609375 20.742188 10.25 23.78125 C 12.890625 26.820313 15.625 27.9375 15.625 27.9375 L 16 28.0625 L 16.375 27.9375 C 16.375 27.9375 19.109375 26.84375 21.75 23.8125 C 24.390625 20.78125 27 15.746094 27 8 L 27 7 L 26 7 C 23.730469 7 22.484375 6.363281 21.125 5.625 C 19.765625 4.886719 18.25 4 16 4 Z M 16 6 C 17.75 6 18.753906 6.613281 20.15625 7.375 C 21.339844 8.019531 22.910156 8.636719 24.9375 8.84375 C 24.746094 15.609375 22.507813 19.910156 20.25 22.5 C 18.203125 24.847656 16.484375 25.628906 16 25.84375 C 15.511719 25.625 13.796875 24.824219 11.75 22.46875 C 9.492188 19.871094 7.253906 15.578125 7.0625 8.84375 C 9.097656 8.636719 10.660156 8.019531 11.84375 7.375 C 13.246094 6.613281 14.25 6 16 6 Z\"><\/path><\/svg>"
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\"><path d=\"M 16 4 C 13.75 4 12.234375 4.886719 10.875 5.625 C 9.515625 6.363281 8.28125 7 6 7 L 5 7 L 5 8 C 5 15.71875 7.609375 20.742188 10.25 23.78125 C 12.890625 26.820313 15.625 27.9375 15.625 27.9375 L 16 28.0625 L 16.375 27.9375 C 16.375 27.9375 19.109375 26.84375 21.75 23.8125 C 24.390625 20.78125 27 15.746094 27 8 L 27 7 L 26 7 C 23.730469 7 22.484375 6.363281 21.125 5.625 C 19.765625 4.886719 18.25 4 16 4 Z M 16 6 C 17.75 6 18.753906 6.613281 20.15625 7.375 C 21.339844 8.019531 22.910156 8.636719 24.9375 8.84375 C 24.746094 15.609375 22.507813 19.910156 20.25 22.5 C 18.203125 24.847656 16.484375 25.628906 16 25.84375 C 15.511719 25.625 13.796875 24.824219 11.75 22.46875 C 9.492188 19.871094 7.253906 15.578125 7.0625 8.84375 C 9.097656 8.636719 10.660156 8.019531 11.84375 7.375 C 13.246094 6.613281 14.25 6 16 6 Z\"></path></svg>"
           },
           "blocks": {
             "heading_hLJVhb": {
               "type": "heading",
               "settings": {
-                "heading": "<p>100% Secure Payment<\/p>",
+                "heading": "<p>100% Secure Payment</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1047,7 +1056,7 @@
             "text_9xKXrb": {
               "type": "text",
               "settings": {
-                "text": "<p>100% Secure Payment<\/p>",
+                "text": "<p>100% Secure Payment</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1195,7 +1204,7 @@
             "sub_heading_section_X9HADG": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!<\/p>",
+                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1285,8 +1294,26 @@
                 "padding_rate_mobile": 0
               },
               "blocks": {
+                "heading_AtF4kt": {
+                  "type": "heading",
+                  "name": "t:blocks.heading.name",
+                  "settings": {
+                    "heading": "<p>subscribe our newsletter</p>",
+                    "hidden_br_mobile": false,
+                    "hidden_on_mobile": false,
+                    "line_height": "",
+                    "font_weight": "semibold",
+                    "heading_size": "h_custom",
+                    "text_color": "hdt-s-text",
+                    "font_size_heading_lg": 28,
+                    "font_size_heading": 24,
+                    "letter_spacing_heading": 0
+                  },
+                  "blocks": {}
+                },
                 "group-heading": {
                   "type": "section-heading",
+                  "disabled": true,
                   "static": true,
                   "settings": {
                     "design_heading": "3",
@@ -1314,7 +1341,7 @@
                       "type": "_sub_heading_section",
                       "name": "t:blocks.section_heading.sub_heading",
                       "settings": {
-                        "text": "<p>Sign up for our newsletter to be updated on the latest designs, exclusive offers, inspiration and tips!<\/p>",
+                        "text": "<p>Sign up for our newsletter to be updated on the latest designs, exclusive offers, inspiration and tips!</p>",
                         "hidden_br_mobile": false,
                         "hidden_on_mobile": false,
                         "text_size": "custom",
@@ -1332,7 +1359,55 @@
                   ]
                 }
               },
-              "block_order": []
+              "block_order": [
+                "heading_AtF4kt"
+              ]
+            },
+            "space_html_63xFPX": {
+              "type": "_space_html",
+              "name": "t:blocks.space_htmlx.name",
+              "settings": {
+                "color": "#000000",
+                "width": 130,
+                "height": 1,
+                "margin_bottom": 10,
+                "width_mobile": 100,
+                "height_mobile": 100,
+                "hide_on_mobile": false,
+                "margin_bottom_mobile": 0
+              },
+              "blocks": {}
+            },
+            "text_Ur6gHy": {
+              "type": "text",
+              "name": "t:blocks.text.name",
+              "settings": {
+                "text": "<p>Sign up for our newsletter to be updated on the latest designs, exclusive offers, inspiration and tips!</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "ffamily": "",
+                "text_size": "custom",
+                "line_height": "",
+                "font_weight": "normal",
+                "text_color": "hdt-s-text",
+                "countdown": "2025-12-30 15:00:00",
+                "txt_day": "days",
+                "font_size_text_lg": 15,
+                "font_size_text": 14,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "spacer_k6Dzdk": {
+              "type": "spacer",
+              "name": "t:blocks.spacer.name",
+              "settings": {
+                "direction": false,
+                "space_lg": 30,
+                "space_md": 30,
+                "space": 20
+              },
+              "blocks": {}
             },
             "newsletter_fQqJh3": {
               "type": "_newsletter",
@@ -1356,6 +1431,9 @@
           },
           "block_order": [
             "group_DGJ9qX",
+            "space_html_63xFPX",
+            "text_Ur6gHy",
+            "spacer_k6Dzdk",
             "newsletter_fQqJh3"
           ]
         }
