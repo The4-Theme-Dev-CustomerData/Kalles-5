@@ -353,7 +353,7 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify://shop_images/cat12_1080x_de5e92b5-1ac1-4b4e-a245-11dcc2157f83.webp",
+                "image": "shopify://shop_images/cat12_1080x_de5e92b5-1ac1-4b4e-a245-11dcc2157f83.jpg",
                 "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },

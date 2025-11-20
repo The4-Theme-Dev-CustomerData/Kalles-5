@@ -403,7 +403,7 @@
         "nav_size": "small",
         "nav_hide_mobile": false,
         "dotUI": true,
-        "pag_style": "default",
+        "pag_style": "elessi",
         "pag_position": "center",
         "pag_rounded": true,
         "pag_space": 10,
@@ -537,8 +537,8 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
-            "content_width": "auto",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "left",
             "alignment_mb": "center",
@@ -679,8 +679,8 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
-            "content_width": "auto",
             "content_position": "center-start",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -758,7 +758,8 @@
             "btn_style": "",
             "endable_btn_icon": false,
             "size": "m",
-            "btn_fw": "medium"
+            "btn_fw": "medium",
+            "rounded": ""
           },
           "blocks": {}
         },
@@ -988,7 +989,9 @@
                 "date": "%b %d",
                 "content_align": "start",
                 "image_ratio": "-square",
-                "image_size": true
+                "image_size": true,
+                "img_effect": "none",
+                "b_effect": "none"
               },
               "blocks": {}
             }

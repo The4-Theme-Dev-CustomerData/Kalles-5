@@ -335,6 +335,64 @@
     "footer_ziwVXA": {
       "type": "footer",
       "blocks": {
+        "footer_column_FjtR4d": {
+          "type": "_footer-column",
+          "name": "t:blocks.footer_column.name",
+          "settings": {
+            "col_heading": "",
+            "hide_on_desktop": false,
+            "hide_on_mobile": false,
+            "only_mobile": false,
+            "sec_heading_size": "lg",
+            "font_size_text_lg": 16,
+            "font_size_text": 14,
+            "font_weight_text": "normal",
+            "letter_spacing_text": 0,
+            "space": 30,
+            "alignment": "center",
+            "alignment_mb": "center",
+            "colors_by_section": false,
+            "color_scheme": "",
+            "background_opacity": 0,
+            "width_lg": 100,
+            "width_md": 100,
+            "width": 100,
+            "mg": "",
+            "mg_mb": ",,30px,",
+            "pd": "",
+            "pd_mb": ""
+          },
+          "blocks": {
+            "currency_language_gRnVrq": {
+              "type": "_currency_language",
+              "name": "t:blocks.currency_language.name",
+              "settings": {
+                "spacing": 15,
+                "alignment": "center",
+                "alignment_mb": "center"
+              },
+              "blocks": {
+                "currency_pgJTDD": {
+                  "type": "_currency",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "language_m9FJqc": {
+                  "type": "_language",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "currency_pgJTDD",
+                "language_m9FJqc"
+              ]
+            }
+          },
+          "block_order": [
+            "currency_language_gRnVrq"
+          ]
+        },
         "footer_column_87WHLF": {
           "type": "_footer-column",
           "settings": {
@@ -387,11 +445,11 @@
         }
       },
       "block_order": [
+        "footer_column_FjtR4d",
         "footer_column_87WHLF"
       ],
       "custom_css": [
-        ".hdt-footer-col-block .hdt-menu-list .hdt--menu_item:not(:hover) {color: #222222;}",
-        "@media (max-width: 768px) {.hdt-row {text-align: center; }}"
+        ".hdt-row {row-gap: 10px;}"
       ],
       "settings": {
         "collapse": true,

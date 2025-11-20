@@ -479,7 +479,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".hdt-card-product__widget .hdt-badge__wrapp .hdt-badge {font-size: 1.2rem; font-weight: 400;}"
+      ".hdt-card-product__widget .hdt-badge__wrapp .hdt-badge {font-size: 1.2rem; font-weight: 400;}",
+      ".dir--rtl .hdt-newsletter__email {border-inline: 0;}"
     ]
   }
 }
