@@ -263,6 +263,7 @@
         "spacer_CNjkFU",
         "button_bTit9U"
       ],
+      "disabled": true,
       "name": "t:sections.exit_popup.name",
       "settings": {
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
@@ -292,6 +293,7 @@
     },
     "cookies_8EMjkp": {
       "type": "cookies",
+      "disabled": true,
       "name": "t:sections.cookies.name",
       "settings": {
         "colors_by_section": false,
@@ -432,6 +434,7 @@
         "spacer_kbECBj",
         "text_kmfX9D"
       ],
+      "disabled": true,
       "name": "t:sections.newsletter_popup.name",
       "settings": {
         "colors_by_section": false,

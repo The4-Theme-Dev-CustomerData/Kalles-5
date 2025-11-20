@@ -59,7 +59,7 @@
     "use_url_collection_type": true,
     "effect_secondary_image": "opacity",
     "show_quick_add": true,
-    "show_qty": true,
+    "show_qty": false,
     "pr_card_alignment": "center",
     "show_rating": false,
     "pr_title_weight": "medium",
