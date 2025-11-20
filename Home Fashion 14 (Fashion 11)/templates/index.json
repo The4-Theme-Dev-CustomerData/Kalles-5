@@ -1,4 +1,13 @@
-{
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
   "sections": {
     "custom_section_QekGhc": {
       "type": "custom-section",
@@ -30,7 +39,7 @@
             "text_LAEKzj": {
               "type": "text",
               "settings": {
-                "text": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. <strong>HURRY UP!<\/strong><\/p>",
+                "text": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. <strong>HURRY UP!</strong></p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -80,7 +89,7 @@
         "slide_item_GJUjrM": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slide1_1950x_b228d108-4d39-49e1-9258-fe6d4fd8ae16.jpg",
+            "image": "shopify://shop_images/slide1_1950x_b228d108-4d39-49e1-9258-fe6d4fd8ae16.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
@@ -117,7 +126,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>SPRING-SUMMER 2025<\/p>",
+                "text": "<p>SPRING-SUMMER 2025</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -147,7 +156,7 @@
             "heading_MzV9Ty": {
               "type": "heading",
               "settings": {
-                "heading": "<p>CLEARANCE SALE!<\/p>",
+                "heading": "<p>CLEARANCE SALE!</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -175,7 +184,7 @@
               "type": "button",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/fashion",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -214,7 +223,7 @@
         "slide_item_WyVWt8": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slide2_1950x_e1872c67-ac92-4f23-9ea1-935670249d84.jpg",
+            "image": "shopify://shop_images/slide2_1950x_e1872c67-ac92-4f23-9ea1-935670249d84.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
@@ -251,7 +260,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>FALL -  WINTER 2025<\/p>",
+                "text": "<p>FALL -  WINTER 2025</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -281,7 +290,7 @@
             "heading_MibPJj": {
               "type": "heading",
               "settings": {
-                "heading": "<p>SAVE UP TO 70%<\/p>",
+                "heading": "<p>SAVE UP TO 70%</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -309,7 +318,7 @@
               "type": "button",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/fashion",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -442,7 +451,7 @@
             "text_47MNDm": {
               "type": "text",
               "settings": {
-                "text": "<p>Mindfully crafted, our pieces sit on the crosswalk of style and comfort<\/p>",
+                "text": "<p>Mindfully crafted, our pieces sit on the crosswalk of style and comfort</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -497,7 +506,7 @@
             "colors_by_section": true,
             "color_scheme": "scheme-90936d6d-7023-4588-802f-54d25da91989",
             "background_opacity": 0,
-            "banner_url": "shopify:\/\/collections\/women",
+            "banner_url": "shopify://collections/women",
             "banner_target": true,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
@@ -532,7 +541,7 @@
               "type": "button",
               "settings": {
                 "label": "WOMEN",
-                "link": "shopify:\/\/collections\/women",
+                "link": "shopify://collections/women",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -616,7 +625,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>BLACK FRIDAY<\/p>",
+                "text": "<p>BLACK FRIDAY</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -636,7 +645,7 @@
               "type": "heading",
               "name": "Heading",
               "settings": {
-                "heading": "<p>BUY 2 GET 1 <br\/>FREE<\/p>",
+                "heading": "<p>BUY 2 GET 1 <br/>FREE</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -672,7 +681,7 @@
             "colors_by_section": true,
             "color_scheme": "scheme-90936d6d-7023-4588-802f-54d25da91989",
             "background_opacity": 0,
-            "banner_url": "shopify:\/\/collections\/men",
+            "banner_url": "shopify://collections/men",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
@@ -707,7 +716,7 @@
               "type": "button",
               "settings": {
                 "label": "MEN",
-                "link": "shopify:\/\/collections\/men",
+                "link": "shopify://collections/men",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -857,7 +866,7 @@
             "sub_heading_section_URb48x": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>flash sale more special deal off to 70% and free shipping<\/p>",
+                "text": "<p>flash sale more special deal off to 70% and free shipping</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -899,7 +908,7 @@
         "heading_p3RiQx": {
           "type": "heading",
           "settings": {
-            "heading": "<p>DEAL OF THE DAY<\/p>",
+            "heading": "<p>DEAL OF THE DAY</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "line_height": "hdt-lh-1",
@@ -925,7 +934,7 @@
         "text_FHkkEd": {
           "type": "text",
           "settings": {
-            "text": "<p>Years of experience brought about by our skilled craftsmen could ensure that every piece<\/p>",
+            "text": "<p>Years of experience brought about by our skilled craftsmen could ensure that every piece</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "ffamily": "",
@@ -956,7 +965,7 @@
           "name": "Button",
           "settings": {
             "label": "shop now",
-            "link": "shopify:\/\/collections\/women",
+            "link": "shopify://collections/women",
             "open_in_new_tab": false,
             "full_width": false,
             "btn_style": "",
@@ -1008,7 +1017,7 @@
       ],
       "name": "t:sections.hero-image.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/deal-of-the-day_1950x_6967c451-9a64-42a8-a85b-1588f710b9e7.jpg",
+        "image": "shopify://shop_images/deal-of-the-day_1950x_6967c451-9a64-42a8-a85b-1588f710b9e7.jpg",
         "link_img": "",
         "target": false,
         "image_height": "fixed",
@@ -1112,7 +1121,7 @@
             "sub_heading_section_FzxA8Y": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>most trending items for all days view<\/p>",
+                "text": "<p>most trending items for all days view</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -1151,7 +1160,7 @@
         "banner_item_KCEnPW": {
           "type": "_banner-item",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/women",
+            "banner_url": "shopify://collections/women",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
@@ -1193,7 +1202,7 @@
             "text_ghpgmW": {
               "type": "text",
               "settings": {
-                "text": "<p>The latest on-trend styles<\/p>",
+                "text": "<p>The latest on-trend styles</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1212,7 +1221,7 @@
             "text_QYWhLe": {
               "type": "text",
               "settings": {
-                "text": "<p>Check out our latest<br\/>range<\/p>",
+                "text": "<p>Check out our latest<br/>range</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "--f_family_3",
@@ -1243,7 +1252,7 @@
               "type": "button",
               "settings": {
                 "label": "shop now",
-                "link": "shopify:\/\/collections\/fashion",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -1292,7 +1301,7 @@
         "banner_item_PN3y4p": {
           "type": "_banner-item",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/young-fashion",
+            "banner_url": "shopify://collections/young-fashion",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
@@ -1334,7 +1343,7 @@
             "text_RLMMbV": {
               "type": "text",
               "settings": {
-                "text": "<p>Shop our most popular products<\/p>",
+                "text": "<p>Shop our most popular products</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1353,7 +1362,7 @@
             "text_zcppKj": {
               "type": "text",
               "settings": {
-                "text": "<p>Lookbook <br\/>Collections<\/p>",
+                "text": "<p>Lookbook <br/>Collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "--f_family_3",
@@ -1384,7 +1393,7 @@
               "type": "button",
               "settings": {
                 "label": "shop now",
-                "link": "shopify:\/\/collections\/fashion",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -1538,7 +1547,7 @@
             "sub_heading_section_NHVBX8": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>most trending items for all days view<\/p>",
+                "text": "<p>most trending items for all days view</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -1649,7 +1658,7 @@
             "sub_heading_section_W6n6Q4": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>The freshest and most exciting news<\/p>",
+                "text": "<p>The freshest and most exciting news</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -1728,7 +1737,7 @@
             "text_zk79G3": {
               "type": "text",
               "settings": {
-                "text": "<p>Sign up for emails and receive early access to new arrivals, sales, events + more.<\/p>",
+                "text": "<p>Sign up for emails and receive early access to new arrivals, sales, events + more.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "--f_family_1",

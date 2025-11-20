@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
+ {
   "sections": {
     "slideshow_EVrUzi": {
       "type": "slideshow",
@@ -51,8 +51,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -105,7 +103,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -167,8 +165,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -221,7 +217,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -283,8 +279,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -335,7 +329,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -390,9 +384,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
+        "pd": ",,50px,",
+        "pd_mb": ",,37px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "banner_masonry_hUKCFj": {
@@ -440,7 +435,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -511,7 +506,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -582,7 +577,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -653,7 +648,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -724,7 +719,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -771,9 +766,10 @@
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
+        "pd": ",,80px,",
+        "pd_mb": ",,60px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "featured_collection_UjCUJ6": {
@@ -799,8 +795,14 @@
             "dis_pagination": 30,
             "btn_label": "",
             "btn_style": "hdt-btn-outline",
+            "icon": "none",
             "size": "xl",
             "btn_fw": "medium",
+            "font_size_btn": 14,
+            "padding_btn": 30,
+            "min_width_btn": 100,
+            "min_width_dt_btn": 100,
+            "min_height_btn": 40,
             "loop": false,
             "autoplay": 0,
             "pauseOnHover": false,
@@ -872,9 +874,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 30,
-        "padding_bottom": 100,
-        "padding_rate": 75
+        "pd": "30px,,100px,",
+        "pd_mb": "22px,,75px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "banners_3CAnrV": {
@@ -912,8 +915,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 1
@@ -949,8 +950,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -1032,8 +1031,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -1058,7 +1055,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
-                "font_size": "m",
+                "size": "m",
                 "font_weight": "normal",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -1168,7 +1165,7 @@
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-outline",
-                "font_size": "xl",
+                "size": "xl",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
@@ -1236,9 +1233,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 49
+        "pd": ",,100px,",
+        "pd_mb": ",,49px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "tabs_collection_RL8MrL": {
@@ -1480,9 +1478,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 75
+        "pd": ",,100px,",
+        "pd_mb": ",,75px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "blog_post_DcUjga": {
@@ -1501,8 +1500,8 @@
             "pauseOnHover": false,
             "navUI": true,
             "nav_position": "default",
-            "nav_visible": "always",
-            "nav_style": "default",
+            "nav_visible": "hover",
+            "nav_style": "outline",
             "nav_shape": "rounded",
             "nav_size": "small",
             "nav_hide_mobile": false,
@@ -1518,7 +1517,6 @@
               "type": "_article-card",
               "static": true,
               "settings": {
-                "article": "{{ closest.article }}",
                 "article_des": "1",
                 "show_cate": false,
                 "show_content": true,
@@ -1587,9 +1585,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 75
+        "pd": ",,100px,",
+        "pd_mb": ",,75px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "lookbook_carousel_VeWgrg": {
@@ -1921,7 +1920,7 @@
         "navUI": true,
         "nav_position": "default",
         "nav_visible": "hover",
-        "nav_style": "default",
+        "nav_style": "outline",
         "nav_shape": "rounded",
         "nav_size": "small",
         "nav_hide_mobile": false,
@@ -1935,9 +1934,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
+        "pd": "",
+        "pd_mb": "",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "shipping_9pXycT": {
@@ -1989,8 +1989,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -2050,8 +2048,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -2111,8 +2107,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -2172,8 +2166,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -2212,11 +2204,30 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 100
+        "pd": "40px,,40px,",
+        "pd_mb": "40px,,40px,",
+        "mg": "",
+        "mg_mb": ""
+      }
+    },
+    "1755067183c661e3bf": {
+      "type": "apps",
+      "blocks": {
+        "ecomrise_shoppable_video_app_block_Wceyxa": {
+          "type": "shopify://apps/ecomrise/blocks/shoppable-video-app-block/acb8bab5-decc-4989-8fb5-41075963cdef",
+          "settings": {
+            "gallery_id": "689c34122a57efdb1b0128a2"
+          }
+        }
+      },
+      "block_order": [
+        "ecomrise_shoppable_video_app_block_Wceyxa"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
+
   },
   "order": [
     "slideshow_EVrUzi",
@@ -2226,6 +2237,7 @@
     "tabs_collection_RL8MrL",
     "blog_post_DcUjga",
     "lookbook_carousel_VeWgrg",
-    "shipping_9pXycT"
+    "shipping_9pXycT",
+    "1755067183c661e3bf"
   ]
 }
