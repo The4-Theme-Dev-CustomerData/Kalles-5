@@ -43,7 +43,7 @@
           "type": "img_trust",
           "settings": {
             "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "svg": "visa,paypal,master,american_express,amazon",
             "height": 25
           }
         }
