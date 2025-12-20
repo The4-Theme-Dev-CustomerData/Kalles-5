@@ -10,7 +10,7 @@
             "icon_svg": "none",
             "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"><\/circle>\n<\/svg>",
             "icon_width": 6,
-            "icon_width_mb": 20
+            "icon_width_mb": 6
           }
         },
         "item_Y8FbBw": {
@@ -408,7 +408,7 @@
         "collection_item_awcrjz": {
           "type": "_collection_item",
           "settings": {
-            "collection": "fashion-2",
+            "collection": "jewelry-2",
             "image": "shopify:\/\/shop_images\/collection7.png",
             "title": "Jewelry",
             "collection_link": ""

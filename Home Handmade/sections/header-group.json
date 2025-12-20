@@ -18,7 +18,7 @@
         "text_yBAEgJ": {
           "type": "text",
           "settings": {
-            "text1": "Free shipping for orders over <strong>$59<\/strong>",
+            "text1": "Free shipping for orders over <strong>$59</strong>",
             "text2": "",
             "text3": "",
             "adding_border": false,
@@ -37,7 +37,7 @@
             "show_language": false,
             "use_location": false,
             "txt_location": "Location",
-            "url_location": "shopify:\/\/pages\/contact",
+            "url_location": "shopify://pages/contact",
             "open_link": "_self",
             "hide": true
           }
@@ -63,57 +63,93 @@
       }
     },
     "header_inline_xePFbC": {
-      "type": "header-inline",
+      "type": "header-inline-blocks",
       "blocks": {
         "html_7DJYPE": {
-          "type": "html",
+          "type": "_mega_block",
+          "name": "Mega Block",
           "settings": {
-            "title": "Home",
             "html": "",
             "page": "demos",
+            "blog": "",
+            "product_list": [],
+            "collection_list": [],
+            "limit": 8,
+            "image_ratio": "adapt_image",
+            "image_size": true,
+            "navUI": true,
+            "collection_colors": "",
+            "product_list_title": "BEST SELLER",
+            "child_menu": "",
+            "title": "Home",
             "mega_menu_colors": "",
             "mega_width": "full",
             "mega_position": "bottom",
-            "mega_custom_width": 1200
-          }
+            "mega_custom_width": 1200,
+            "mega_presets": "html"
+          },
+          "blocks": {}
         },
         "mega_shop_PKdDaN": {
-          "type": "mega_shop",
+          "type": "_mega_block",
+          "name": "Mega Block",
           "settings": {
-            "title": "Shop",
-            "image_ratio": "asos",
-            "image_size": true,
-            "mega_menu_colors": "scheme-1",
+            "html": "",
+            "page": "",
+            "blog": "",
+            "product_list": [],
             "collection_list": [
               "handmade",
               "handmade-2"
             ],
+            "limit": 8,
+            "image_ratio": "asos",
+            "image_size": true,
+            "navUI": true,
             "collection_colors": "scheme-1",
+            "product_list_title": "BEST SELLER",
+            "child_menu": "",
+            "title": "Shop",
+            "mega_menu_colors": "scheme-1",
             "mega_width": "custom",
             "mega_position": "center_on_screen",
-            "mega_custom_width": 1200
-          }
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_shop"
+          },
+          "blocks": {}
         },
         "mega_product_ntakNQ": {
-          "type": "mega_product",
+          "type": "_mega_block",
+          "name": "Mega Block",
           "settings": {
-            "title": "Products",
-            "product_list_title": "BEST SELLER",
+            "html": "",
+            "page": "",
+            "blog": "",
             "product_list": [],
+            "collection_list": [],
+            "limit": 8,
             "image_ratio": "adapt_image",
             "image_size": true,
             "navUI": true,
+            "collection_colors": "",
+            "product_list_title": "BEST SELLER",
+            "child_menu": "",
+            "title": "Products",
             "mega_menu_colors": "",
             "mega_width": "custom",
             "mega_position": "center_on_screen",
-            "mega_custom_width": 1200
-          }
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_product"
+          },
+          "blocks": {}
         },
         "mega_sale_7qDM6U": {
-          "type": "mega_sale",
+          "type": "_mega_block",
+          "name": "Mega Block",
           "settings": {
-            "title": "Sale",
-            "product_list_title": "",
+            "html": "",
+            "page": "",
+            "blog": "",
             "product_list": [
               "menu-bottle-grinders-ash-carbon",
               "menu-carrie-led-lamp",
@@ -123,39 +159,72 @@
               "menu-monuments-magazine-2",
               "menu-norm-wall-clock"
             ],
+            "collection_list": [],
+            "limit": 8,
             "image_ratio": "asos",
             "image_size": true,
             "navUI": true,
-            "mega_menu_colors": "scheme-1",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200
-          }
-        },
-        "mega_page_MtwFkx": {
-          "type": "mega_page",
-          "settings": {
-            "title": "Pages",
-            "mega_menu_colors": "",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200
-          }
-        },
-        "mega_blog_Jbe4K9": {
-          "type": "mega_blog",
-          "settings": {
-            "title": "Blog",
-            "blog": "handmade",
-            "limit": 8,
-            "image_ratio": "landscape",
-            "image_size": true,
+            "collection_colors": "",
+            "product_list_title": "",
+            "child_menu": "",
+            "title": "Sale",
             "mega_menu_colors": "scheme-1",
             "mega_width": "custom",
             "mega_position": "center_on_screen",
             "mega_custom_width": 1200,
-            "navUI": true
-          }
+            "mega_presets": "mega_sale"
+          },
+          "blocks": {}
+        },
+        "mega_page_MtwFkx": {
+          "type": "_mega_block",
+          "name": "Mega Block",
+          "settings": {
+            "html": "",
+            "page": "",
+            "blog": "",
+            "product_list": [],
+            "collection_list": [],
+            "limit": 8,
+            "image_ratio": "adapt_image",
+            "image_size": true,
+            "navUI": true,
+            "collection_colors": "",
+            "product_list_title": "BEST SELLER",
+            "child_menu": "",
+            "title": "Pages",
+            "mega_menu_colors": "",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_page"
+          },
+          "blocks": {}
+        },
+        "mega_blog_Jbe4K9": {
+          "type": "_mega_block",
+          "name": "Mega Block",
+          "settings": {
+            "html": "",
+            "page": "",
+            "blog": "handmade",
+            "product_list": [],
+            "collection_list": [],
+            "limit": 8,
+            "image_ratio": "landscape",
+            "image_size": true,
+            "navUI": true,
+            "collection_colors": "",
+            "product_list_title": "BEST SELLER",
+            "child_menu": "",
+            "title": "Blog",
+            "mega_menu_colors": "scheme-1",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_blog"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -171,7 +240,7 @@
         "header_layout": "logo_center",
         "header_fullwidth": true,
         "header_height": 70,
-        "logo": "shopify:\/\/shop_images\/kalles.svg",
+        "logo": "shopify://shop_images/kalles.svg",
         "logo_width": 95,
         "header_colors": "",
         "main_menu": "main-menu",
@@ -197,7 +266,7 @@
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-sm hdt-text-secondary\" style=\"line-height: 24px;\"><span>Email: <b class=\"hdt-font-medium\">info@fashionshop.com<\/b><\/span><span>Phone: <b class=\"hdt-font-medium\">(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-sm hdt-text-secondary\" style=\"line-height: 24px;\"><span>Email: <b class=\"hdt-font-medium\">info@fashionshop.com</b></span><span>Phone: <b class=\"hdt-font-medium\">(212) 555-1234</b></span></span>",
         "header_transparent": false,
         "header_transparent_colors": "",
         "sticky_type": "on_scroll_up",

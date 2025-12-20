@@ -109,7 +109,7 @@
     "round_currency": true,
     "favicon": "shopify:\/\/shop_images\/k-fav.jpg",
     "color_style": "style-2",
-    "pr_price_size": 14,
+    "pr_price_size": "base",
     "animations_hover_elements": "none",
     "color_loading_bar": "#56cfe1",
     "type_header_font": "poppins_n4",
