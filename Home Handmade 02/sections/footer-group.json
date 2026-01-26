@@ -9,6 +9,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "ABOUT",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": true,
             "sec_heading_size": "lg",
@@ -54,6 +55,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "HELP",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": true,
             "sec_heading_size": "lg",
@@ -99,6 +101,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "QUICK LINKS",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": true,
             "sec_heading_size": "lg",
@@ -144,6 +147,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "FOLLOW US",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": true,
             "sec_heading_size": "lg",
@@ -200,7 +204,7 @@
             "text_Mh6Yzg": {
               "type": "text",
               "settings": {
-                "text": "<p>Subscribe to our newsletter and get 10% off your first purchase<\/p>",
+                "text": "<p>Subscribe to our newsletter and get 10% off your first purchase</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -290,13 +294,13 @@
       "settings": {
         "collapse": true,
         "full_width": false,
-        "background_image": "shopify:\/\/shop_images\/bg-ft.jpg",
+        "background_image": "shopify://shop_images/bg-ft.jpg",
         "mg": "",
         "mg_mb": "",
         "pd": "75px,,75px,",
         "pd_mb": "55px,,55px,",
         "colors_by_section": true,
-        "color_scheme": "scheme-c4e30b13-8ad7-42f6-9c53-efa179aa46de",
+        "color_scheme": "scheme-9e2cc102-90c2-4a1b-a0d3-f49d7a694d9a",
         "background_opacity": 0
       }
     },
@@ -307,6 +311,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": false,
             "sec_heading_size": "h4",
@@ -318,7 +323,7 @@
             "alignment": "left",
             "alignment_mb": "center",
             "colors_by_section": true,
-            "color_scheme": "scheme-c4e30b13-8ad7-42f6-9c53-efa179aa46de",
+            "color_scheme": "scheme-9e2cc102-90c2-4a1b-a0d3-f49d7a694d9a",
             "background_opacity": 0,
             "width_lg": 50,
             "width_md": 50,
@@ -334,7 +339,7 @@
               "settings": {
                 "option_type": "liquid",
                 "page": "",
-                "text": "<span class=\"hdt-text-secondary\">All Rights Reserved © 2025 <a href=\"https:\/\/1.envato.market\/Eamba9\" aria-describedby=\"a11y-external-message\" style=\"text-decoration: none;\"><span style=\"color: rgb(var(--color-accent)) !important\">Kalles<\/span><\/a> - Developed by <a class=\"t4s-secondary\" href=\"https:\/\/the4.co\/?utm_source=Kalles-Demo&amp;utm_medium=Copyright\" aria-describedby=\"a11y-external-message\" style=\"color: rgb(var(--color-foreground));text-decoration: none;\"> The4 <\/a><\/span>",
+                "text": "<span class=\"hdt-text-secondary\">All Rights Reserved © 2025 <a href=\"https://1.envato.market/Eamba9\" aria-describedby=\"a11y-external-message\" style=\"text-decoration: none;\"><span style=\"color: rgb(var(--color-accent)) !important\">Kalles</span></a> - Developed by <a class=\"t4s-secondary\" href=\"https://the4.co/?utm_source=Kalles-Demo&amp;utm_medium=Copyright\" aria-describedby=\"a11y-external-message\" style=\"color: rgb(var(--color-foreground));text-decoration: none;\"> The4 </a></span>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -356,6 +361,7 @@
           "type": "_footer-column",
           "settings": {
             "col_heading": "",
+            "hide_on_desktop": false,
             "hide_on_mobile": false,
             "only_mobile": false,
             "sec_heading_size": "h4",
@@ -412,8 +418,8 @@
         "mg_mb": "",
         "pd": "20px,,20px,",
         "pd_mb": "15px,,15px,",
-        "colors_by_section": false,
-        "color_scheme": "scheme-1",
+        "colors_by_section": true,
+        "color_scheme": "scheme-9e2cc102-90c2-4a1b-a0d3-f49d7a694d9a",
         "background_opacity": 0
       }
     }

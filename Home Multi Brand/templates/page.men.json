@@ -26,13 +26,14 @@
       "disabled": true,
       "settings": {
         "use_dynamic_source": false,
-        "image": "shopify:\/\/shop_images\/shop-category.jpg",
+        "image": "shopify://shop_images/shop-category.jpg",
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
         "bg_overlay": 57,
         "space_item": 0,
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 62
+        "mg": "",
+        "mg_mb": "",
+        "pd": "50px,,50px,",
+        "pd_mb": "31px,,31px,"
       }
     },
     "main": {
@@ -41,9 +42,10 @@
       "settings": {
         "full_width": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 60,
-        "padding_rate": 75
+        "mg": "",
+        "mg_mb": "",
+        "pd": "50px,,60px,",
+        "pd_mb": "37px,,45px,"
       }
     },
     "banners_UApbff": {
@@ -52,7 +54,7 @@
         "banner_item_gAJfqB": {
           "type": "_banner-item",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/men",
+            "banner_url": "shopify://collections/men",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "overlay",
@@ -72,7 +74,7 @@
               "type": "button",
               "settings": {
                 "label": "ACTIVEWEAR COLLECTION",
-                "link": "shopify:\/\/collections\/men",
+                "link": "shopify://collections/men",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -95,8 +97,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/pexels-blitzboy-1040945.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/pexels-blitzboy-1040945.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
@@ -108,7 +110,7 @@
         "banner_item_TYL3LU": {
           "type": "_banner-item",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/men",
+            "banner_url": "shopify://collections/men",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "overlay",
@@ -128,7 +130,7 @@
               "type": "button",
               "settings": {
                 "label": "BUSINESS COLLECTION",
-                "link": "shopify:\/\/collections\/men",
+                "link": "shopify://collections/men",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -151,8 +153,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/pexels-reneterp-resize.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/pexels-reneterp-resize.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
@@ -198,9 +200,10 @@
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 0
+        "mg": "",
+        "mg_mb": "",
+        "pd": "",
+        "pd_mb": ""
       }
     },
     "collections_list_FCjErc": {
@@ -210,7 +213,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-men",
-            "image": "shopify:\/\/shop_images\/young-handsome-hipster-man-standing.jpg",
+            "image": "shopify://shop_images/young-handsome-hipster-man-standing.jpg",
             "title": "New Arrivals",
             "collection_link": ""
           },
@@ -220,7 +223,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "men",
-            "image": "shopify:\/\/shop_images\/model-man-blue-suit-cloth-lifestyle-street.jpg",
+            "image": "shopify://shop_images/high-fashion-look-young-stylish-confident-happy-handsome-businessman-model-man-blue-suit-cloth-lifestyle-street.jpg",
             "title": "Suitcase",
             "collection_link": ""
           },
@@ -230,7 +233,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "shoe",
-            "image": "shopify:\/\/shop_images\/image_9.jpg",
+            "image": "shopify://shop_images/image_9.jpg",
             "title": "Shoes",
             "collection_link": ""
           },
@@ -240,7 +243,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "watch",
-            "image": "shopify:\/\/shop_images\/22121ec5fc4e28e4b691b4a9efe12023.jpg",
+            "image": "shopify://shop_images/22121ec5fc4e28e4b691b4a9efe12023.jpg",
             "title": "Watches",
             "collection_link": ""
           },
@@ -310,9 +313,10 @@
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 90,
-        "padding_bottom": 90,
-        "padding_rate": 16
+        "mg": "",
+        "mg_mb": "",
+        "pd": "90px,,90px,",
+        "pd_mb": "14px,,14px,"
       }
     },
     "featured_collection_hNEfrF": {
@@ -394,7 +398,7 @@
             "sub_heading_section_7DVbY9": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -423,9 +427,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 41
+        "mg": "",
+        "mg_mb": "",
+        "pd": "60px,,60px,",
+        "pd_mb": "24px,,24px,"
       }
     },
     "hero_image_rAaEAD": {
@@ -435,7 +440,7 @@
           "type": "heading",
           "name": "t:blocks.heading.name",
           "settings": {
-            "heading": "<p>HURRY UP!<\/p>",
+            "heading": "<p>HURRY UP!</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "line_height": "hdt-lh-1",
@@ -463,7 +468,7 @@
           "type": "heading",
           "name": "t:blocks.heading.name",
           "settings": {
-            "heading": "<p>Special Deal<\/p>",
+            "heading": "<p>Special Deal</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "line_height": "hdt-lh-1",
@@ -491,7 +496,7 @@
           "type": "text",
           "name": "t:blocks.text.name",
           "settings": {
-            "text": "<p>Offers You Can't Miss: These deals won't last forever<\/p>",
+            "text": "<p>Offers You Can't Miss: These deals won't last forever</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "ffamily": "",
@@ -556,7 +561,7 @@
           "name": "t:blocks.button.name",
           "settings": {
             "label": "Shop Now",
-            "link": "shopify:\/\/collections\/men",
+            "link": "shopify://collections/men",
             "open_in_new_tab": false,
             "full_width": false,
             "btn_style": "",
@@ -594,7 +599,7 @@
       ],
       "name": "t:sections.hero-image.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hero_image.jpg",
+        "image": "shopify://shop_images/hero_image.jpg",
         "link_img": "",
         "target": false,
         "image_height": "adapt_image",
@@ -602,19 +607,16 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
         "content_position": "center-start",
-        "content_align": "left",
         "content_position_mb": "center",
-        "content_align_mb": "center",
         "colors_by_section": false,
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 90,
-        "padding_bottom": 90,
-        "padding_rate": 16
+        "mg": "",
+        "mg_mb": "",
+        "pd": "90px,,90px,",
+        "pd_mb": "14px,,14px,"
       }
     },
     "tabs_collection_xqpgWp": {
@@ -790,9 +792,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 41
+        "mg": "",
+        "mg_mb": "",
+        "pd": "60px,,60px,",
+        "pd_mb": "24px,,24px,"
       }
     },
     "lookbook_product_UcVfCp": {
@@ -876,7 +879,7 @@
       ],
       "name": "Lookbook product",
       "settings": {
-        "image": "shopify:\/\/shop_images\/10598281-4.jpg",
+        "image": "shopify://shop_images/10598281-4.jpg",
         "image_height": "fixed",
         "fixed_height": 820,
         "image_height_mb": "fixed",
@@ -906,9 +909,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 90,
-        "padding_bottom": 90,
-        "padding_rate": 16
+        "mg": "",
+        "mg_mb": "",
+        "pd": "90px,,90px,",
+        "pd_mb": "14px,,14px,"
       }
     },
     "custom_liquid_xRHM7A": {
@@ -920,9 +924,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 30,
-        "padding_rate": 0
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,30px,",
+        "pd_mb": ",,30px,"
       }
     }
   },

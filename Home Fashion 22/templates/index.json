@@ -6,9 +6,9 @@
         "item_FWaQ7A": {
           "type": "item",
           "settings": {
-            "text": "<p>END YEAR SALE UP TO 50% OFF<\/p>",
+            "text": "<p>END YEAR SALE UP TO 50% OFF</p>",
             "icon_svg": "none",
-            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"><\/circle>\n<\/svg>",
+            "custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"></circle>\n</svg>",
             "icon_width": 6,
             "icon_width_mb": 6
           }
@@ -16,9 +16,9 @@
         "item_Y8FbBw": {
           "type": "item",
           "settings": {
-            "text": "<p>SIGN UP AND GET 10% OFF YOUR FIRST ORDER<\/p>",
+            "text": "<p>SIGN UP AND GET 10% OFF YOUR FIRST ORDER</p>",
             "icon_svg": "none",
-            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"><\/circle>\n<\/svg>",
+            "custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"></circle>\n</svg>",
             "icon_width": 6,
             "icon_width_mb": 6
           }
@@ -26,9 +26,9 @@
         "item_mMxU6G": {
           "type": "item",
           "settings": {
-            "text": "<p>FREE DELIVERY FOR ODER OVER $120<\/p>",
+            "text": "<p>FREE DELIVERY FOR ODER OVER $120</p>",
             "icon_svg": "none",
-            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"><\/circle>\n<\/svg>",
+            "custom_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"10\" height=\"10\" viewbox=\"0 0 10 10\" fill=\"none\">\n  <circle cx=\"5.00161\" cy=\"5.00014\" r=\"4.41176\" fill=\"white\"></circle>\n</svg>",
             "icon_width": 6,
             "icon_width_mb": 6
           }
@@ -58,9 +58,10 @@
         "border_bottom": false,
         "icon_position_between": true,
         "color_scheme": "scheme-3711dd47-4350-440c-9573-1391d2eb3ee5",
-        "padding_top": 27,
-        "padding_bottom": 27,
-        "padding_rate": 75
+        "mg": "",
+        "mg_mb": "",
+        "pd": "27px,,27px,",
+        "pd_mb": "20px,,20px,"
       }
     },
     "banners_7Uz9iE": {
@@ -75,8 +76,6 @@
             "b_effect": "border-run",
             "colors_by_block": true,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
-            "hdt_overlay_color": "#000000",
-            "hdt_overlay_opacity": 20,
             "gap_r": 20,
             "gap_c": 100,
             "content_position": "center-start",
@@ -90,7 +89,7 @@
             "text_XqFyMU": {
               "type": "text",
               "settings": {
-                "text": "<p>New Arrival<\/p>",
+                "text": "<p>New Arrival</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -119,7 +118,7 @@
             "heading_MR3aQD": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Fashion For Her<\/p>",
+                "heading": "<p>Fashion For Her</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -146,7 +145,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/fashion-22",
+                "link": "shopify://collections/fashion-22",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -169,8 +168,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/banner1.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/banner1.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
@@ -192,8 +191,6 @@
             "b_effect": "border-run",
             "colors_by_block": true,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
-            "hdt_overlay_color": "#000000",
-            "hdt_overlay_opacity": 20,
             "gap_r": 20,
             "gap_c": 100,
             "content_position": "center-start",
@@ -207,7 +204,7 @@
             "text_6JNpqz": {
               "type": "text",
               "settings": {
-                "text": "<p>New Arrival<\/p>",
+                "text": "<p>New Arrival</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -236,7 +233,7 @@
             "heading_nrFRAq": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Fashion For Him<\/p>",
+                "heading": "<p>Fashion For Him</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -263,7 +260,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/fashion-22",
+                "link": "shopify://collections/fashion-22",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -286,8 +283,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/banner2_2d1cbdbf-40c9-4b9f-998a-fd76e860c2e6.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/banner2_2d1cbdbf-40c9-4b9f-998a-fd76e860c2e6.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
@@ -337,9 +334,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 78,
-        "padding_rate": 50
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,78px,",
+        "pd_mb": ",,39px,"
       }
     },
     "collections_list_nRh9hL": {
@@ -349,7 +347,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "denim",
-            "image": "shopify:\/\/shop_images\/collection1.png",
+            "image": "shopify://shop_images/collection1.png",
             "title": "Pants",
             "collection_link": ""
           },
@@ -359,7 +357,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "dress",
-            "image": "shopify:\/\/shop_images\/collection2.png",
+            "image": "shopify://shop_images/collection2.png",
             "title": "Dresses",
             "collection_link": ""
           },
@@ -369,7 +367,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "shoes",
-            "image": "shopify:\/\/shop_images\/shoes_554ca8e9-d705-4ce6-8927-d4902361a3ac.png",
+            "image": "shopify://shop_images/shoes_554ca8e9-d705-4ce6-8927-d4902361a3ac.png",
             "title": "Shoes",
             "collection_link": ""
           },
@@ -379,7 +377,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "hat",
-            "image": "shopify:\/\/shop_images\/collection4.png",
+            "image": "shopify://shop_images/collection4.png",
             "title": "Caps & Hats",
             "collection_link": ""
           },
@@ -389,7 +387,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "bags",
-            "image": "shopify:\/\/shop_images\/collection5.png",
+            "image": "shopify://shop_images/collection5.png",
             "title": "Handbags",
             "collection_link": ""
           },
@@ -399,7 +397,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "coats-jackets",
-            "image": "shopify:\/\/shop_images\/collection6.png",
+            "image": "shopify://shop_images/collection6.png",
             "title": "Sweaters & Jackets",
             "collection_link": ""
           },
@@ -409,7 +407,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "jewelry-2",
-            "image": "shopify:\/\/shop_images\/collection7.png",
+            "image": "shopify://shop_images/collection7.png",
             "title": "Jewelry",
             "collection_link": ""
           },
@@ -419,7 +417,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "fashion-22",
-            "image": "shopify:\/\/shop_images\/collection8.png",
+            "image": "shopify://shop_images/collection8.png",
             "title": "T-shirts",
             "collection_link": ""
           },
@@ -429,7 +427,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "accessories",
-            "image": "shopify:\/\/shop_images\/collection9.png",
+            "image": "shopify://shop_images/collection9.png",
             "title": "Glasses",
             "collection_link": ""
           },
@@ -507,9 +505,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "wrapper_container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "featured_collection_NdKBJi": {
@@ -569,7 +568,7 @@
             "sub_heading_section_dxQhVx": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -601,9 +600,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "custom_section_CQtTja": {
@@ -624,7 +624,6 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
-            "content_width": "auto",
             "content_position": "center",
             "content_position_mb": "center",
             "alignment": "center",
@@ -638,8 +637,8 @@
               "name": "t:blocks.media.name",
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/image1.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/image1.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             },
@@ -656,7 +655,7 @@
             "heading_dRJ4AX": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Spring-Summer Collections<\/p>",
+                "heading": "<p>Spring-Summer Collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -683,7 +682,7 @@
               "type": "button",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/fashion-22",
+                "link": "shopify://collections/fashion-22",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -725,7 +724,6 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
-            "content_width": "auto",
             "content_position": "center",
             "content_position_mb": "center",
             "alignment": "center",
@@ -739,8 +737,8 @@
               "name": "t:blocks.media.name",
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/image2.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/image2.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             },
@@ -757,7 +755,7 @@
             "heading_iciDbU": {
               "type": "heading",
               "settings": {
-                "heading": "<p>2025 Lookbook Collections<\/p>",
+                "heading": "<p>2025 Lookbook Collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -784,7 +782,7 @@
               "type": "button",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/fashion-22",
+                "link": "shopify://collections/fashion-22",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -829,9 +827,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "featured_collection_PTq36A": {
@@ -892,7 +891,6 @@
             "nav_shape": "default",
             "nav_size": "small",
             "nav_hide_mobile": false,
-            "carousel_center": true,
             "dotUI": false,
             "pag_style": "default",
             "pag_rounded": true,
@@ -930,7 +928,7 @@
             "sub_heading_section_URb48x": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -960,9 +958,10 @@
         "color_scheme": "scheme-3a1d714f-d575-43d9-a28d-34da88e3bfa4",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "blog_post_DcUjga": {
@@ -1043,7 +1042,7 @@
             "sub_heading_section_W6n6Q4": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>The freshest and most exciting news about fashion trending.<\/p>",
+                "text": "<p>The freshest and most exciting news about fashion trending.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1074,9 +1073,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "lookbook_carousel_VeWgrg": {
@@ -1085,7 +1085,7 @@
         "lookbook_LWng87": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins1.jpg",
+            "image": "shopify://shop_images/ins1.jpg",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1094,7 +1094,7 @@
         "lookbook_mYkjki": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins2.png",
+            "image": "shopify://shop_images/ins2.png",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1103,7 +1103,7 @@
         "lookbook_VqJTGD": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins3.png",
+            "image": "shopify://shop_images/ins3.png",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1112,7 +1112,7 @@
         "lookbook_NQi7Xf": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins4.png",
+            "image": "shopify://shop_images/ins4.png",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1121,7 +1121,7 @@
         "lookbook_zNfrP4": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins5.png",
+            "image": "shopify://shop_images/ins5.png",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1130,7 +1130,7 @@
         "lookbook_DaNAAh": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ins6.png",
+            "image": "shopify://shop_images/ins6.png",
             "img_effect": "zoom",
             "b_effect": "none"
           },
@@ -1165,7 +1165,7 @@
               "type": "_sub_heading_section",
               "name": "t:blocks.section_heading.sub_heading",
               "settings": {
-                "text": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+                "text": "<p>Inspire and let yourself be inspired, from one unique fashion to another.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1234,9 +1234,10 @@
         "color_scheme": "scheme-3a1d714f-d575-43d9-a28d-34da88e3bfa4",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,30px,"
       }
     },
     "shipping_9pXycT": {
@@ -1246,14 +1247,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "car",
-            "image_icon": "shopify:\/\/shop_images\/truck.svg",
+            "image_icon": "shopify://shop_images/truck.svg",
             "icon": ""
           },
           "blocks": {
             "heading_GVDr7i": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Fast Delivery<\/p>",
+                "heading": "<p>Fast Delivery</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1279,7 +1280,7 @@
             "text_dMrMq7": {
               "type": "text",
               "settings": {
-                "text": "<p>Free shipping on all  orders<\/p>",
+                "text": "<p>Free shipping on all  orders</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1318,14 +1319,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "help",
-            "image_icon": "shopify:\/\/shop_images\/card-pos.svg",
+            "image_icon": "shopify://shop_images/card-pos.svg",
             "icon": ""
           },
           "blocks": {
             "heading_QnJXNA": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Fast Delivery<\/p>",
+                "heading": "<p>Fast Delivery</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1351,7 +1352,7 @@
             "text_3BAQgh": {
               "type": "text",
               "settings": {
-                "text": "<p>We ensure secure payment with PEV<\/p>",
+                "text": "<p>We ensure secure payment with PEV</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1378,14 +1379,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "refesh",
-            "image_icon": "shopify:\/\/shop_images\/messages-3.svg",
+            "image_icon": "shopify://shop_images/messages-3.svg",
             "icon": ""
           },
           "blocks": {
             "heading_pcMQRt": {
               "type": "heading",
               "settings": {
-                "heading": "<p>24\/7 Online Support<\/p>",
+                "heading": "<p>24/7 Online Support</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1411,7 +1412,7 @@
             "text_cakRTT": {
               "type": "text",
               "settings": {
-                "text": "<p>24 hours a day, 7 days a week<\/p>",
+                "text": "<p>24 hours a day, 7 days a week</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1438,14 +1439,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "door-lock",
-            "image_icon": "shopify:\/\/shop_images\/refresh-left-square.svg",
+            "image_icon": "shopify://shop_images/refresh-left-square.svg",
             "icon": ""
           },
           "blocks": {
             "heading_PmHeea": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Free Returns<\/p>",
+                "heading": "<p>Free Returns</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1471,7 +1472,7 @@
             "text_cNBF8a": {
               "type": "text",
               "settings": {
-                "text": "<p>Simply return it within 30 days<\/p>",
+                "text": "<p>Simply return it within 30 days</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1534,9 +1535,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 20,
-        "padding_bottom": 100,
-        "padding_rate": 30
+        "mg": "",
+        "mg_mb": "",
+        "pd": "20px,,100px,",
+        "pd_mb": "6px,,30px,"
       }
     }
   },

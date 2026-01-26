@@ -165,7 +165,7 @@
             "menu_categories": "",
             "only_click_icon": false,
             "header_mobile_colors": "",
-            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>"
+            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>"
           },
           "blocks": {}
         }
@@ -180,14 +180,15 @@
       ],
       "custom_css": [
         "[data-index^=\"4\"] {display: none;}",
-        "@media (width >= 1350px) {.hdt-container-full {padding-inline: 3rem; }}",
-        "@media (768px <= width <= 1440px) {#hdt-nav-ul {--spacing-menu-item: 15px; }}"
+        "@media (width >= 1350px) {.hdt-main-header > .hdt-container-full {padding-inline: 3rem; }}",
+        "@media (768px <= width <= 1440px) {#hdt-nav-ul {--spacing-menu-item: 15px; }}",
+        "details:has(#sub-AbGF1UWQvQ3hNcysvd__mega_block_Jbe4K9) {--mega-width: 320px !important;}"
       ],
       "settings": {
         "header_layout": "logo_center",
         "header_fullwidth": true,
         "header_height": 80,
-        "logo": "shopify:\/\/shop_images\/kalles_2x_cd073c27-2919-4a0a-b695-ec7907a3a6bd.webp",
+        "logo": "shopify://shop_images/kalles_2x_cd073c27-2919-4a0a-b695-ec7907a3a6bd.webp",
         "logo_width": 95,
         "header_colors": "scheme-c4e30b13-8ad7-42f6-9c53-efa179aa46de",
         "main_menu": "main-menu-1",
@@ -217,13 +218,30 @@
         "header_space_top": 0,
         "header_space_top_mobile": 0,
         "sticky_type": "on_scroll_up",
-        "header_sticky_colors": "",
+        "header_sticky_colors": "scheme-c4e30b13-8ad7-42f6-9c53-efa179aa46de",
         "background_opacity_sticky": 1,
         "sticky_glass": false
+      }
+    },
+    "custom_liquid_AccAFW": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "custom_liquid": "{% render 'sticky-demos' %}",
+        "colors_by_section": false,
+        "color_scheme": "",
+        "background_opacity": 0,
+        "section_layout": "container",
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": ",,30px,",
+        "pd": "",
+        "pd_mb": ""
       }
     }
   },
   "order": [
-    "header_inline_blocks_xePFbC"
+    "header_inline_blocks_xePFbC",
+    "custom_liquid_AccAFW"
   ]
 }

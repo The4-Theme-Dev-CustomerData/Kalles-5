@@ -1,31 +1,5 @@
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
-      "disabled": true,
-      "settings": {
-        "use_dynamic_source": false,
-        "color_scheme": "",
-        "bg_overlay": 0,
-        "space_item": 0,
-        "mg": "",
-        "mg_mb": "",
-        "pd": "80px,,80px,",
-        "pd_mb": "49px,,49px,"
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "color_scheme": "",
-        "mg": "",
-        "mg_mb": "",
-        "pd": ",,30px,",
-        "pd_mb": ",,22px,"
-      }
-    },
     "hero_image_rMje3T": {
       "type": "hero-image",
       "blocks": {
@@ -438,32 +412,12 @@
         "pd": "",
         "pd_mb": ""
       }
-    },
-    "1755067183c661e3bf": {
-      "type": "apps",
-      "blocks": {
-        "ecomrise_shoppable_video_app_block_Wceyxa": {
-          "type": "shopify://apps/ecomrise/blocks/shoppable-video-app-block/acb8bab5-decc-4989-8fb5-41075963cdef",
-          "settings": {
-            "gallery_id": "689c34122a57efdb1b0128a2"
-          }
-        }
-      },
-      "block_order": [
-        "ecomrise_shoppable_video_app_block_Wceyxa"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
-    "heading",
-    "main",
     "hero_image_rMje3T",
     "hero_image_exxjGY",
     "hero_image_6tm9iP",
-    "hero_image_eLAgGB",
-    "1755067183c661e3bf"
+    "hero_image_eLAgGB"
   ]
 }
