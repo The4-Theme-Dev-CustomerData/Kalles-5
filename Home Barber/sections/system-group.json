@@ -60,14 +60,15 @@
       ],
       "settings": {
         "colors_by_section": true,
-        "color_scheme": "scheme-d1ad1259-8c1d-4fdf-97f7-172532123f68",
+        "color_scheme": "scheme-e0b73555-c767-4eda-aa6d-4e44e10aefce",
         "show_free_shipping_bar": true,
         "show_cart_note": true,
         "show_gift_wrap": true,
         "show_shipping_estimator": true,
         "show_cart_discount": true,
         "discount_error_message": "Enter a valid discount code",
-        "heading": "You may also like",
+        "show_cart_complementary": true,
+        "heading": "Customers also bought",
         "product_list": [],
         "replaces_products_selected": true,
         "limit": 5
@@ -272,6 +273,8 @@
             "image_ratio": "adapt_image",
             "image_size": true,
             "show_vendor": false,
+            "hdt_slide_center": false,
+            "hdt_opacity_out_container": false,
             "col_dk": "4",
             "col_tb": "3",
             "col_mb": "2",
@@ -503,16 +506,6 @@
         "scroll_delay": 800,
         "day_next": 7
       }
-    },
-    "back_top_FxX6Dy": {
-      "type": "back_top",
-      "name": "t:sections.back_to_top.name",
-      "settings": {
-        "enable_hidden_mobile": false,
-        "enable_progress_bar": true,
-        "border_cl": "#f5f5f5",
-        "border_cl_active": "#000000"
-      }
     }
   },
   "order": [
@@ -520,7 +513,6 @@
     "toolbar-mobile",
     "exit_popup_AH3cpU",
     "cookies_8EMjkp",
-    "newsletter_modal_Gxkjz4",
-    "back_top_FxX6Dy"
+    "newsletter_modal_Gxkjz4"
   ]
 }

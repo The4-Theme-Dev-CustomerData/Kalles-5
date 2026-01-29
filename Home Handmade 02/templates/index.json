@@ -6,7 +6,7 @@
         "slide_item_GJUjrM": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slider2_3816d1eb-8ca2-472d-b92e-fe31cf55aefa.jpg",
+            "image": "shopify://shop_images/slider2_3816d1eb-8ca2-472d-b92e-fe31cf55aefa.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-30de9455-11dc-45e8-82e8-68886e90c30b",
@@ -42,7 +42,7 @@
             "text_YrQhtV": {
               "type": "text",
               "settings": {
-                "text": "<p>KNITINGS AND ACCESSORIES<\/p>",
+                "text": "<p>KNITINGS AND ACCESSORIES</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -72,7 +72,7 @@
               "type": "text",
               "name": "t:blocks.text.name",
               "settings": {
-                "text": "<p>Vintage Collection<\/p>",
+                "text": "<p>Vintage Collection</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -102,7 +102,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/handmade",
+                "link": "shopify://collections/handmade",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -141,7 +141,7 @@
         "slide_item_KbULXn": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slider1_fc2e0cf5-8497-49f8-ae74-c512e5e803ee.jpg",
+            "image": "shopify://shop_images/slider1_fc2e0cf5-8497-49f8-ae74-c512e5e803ee.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-30de9455-11dc-45e8-82e8-68886e90c30b",
@@ -177,7 +177,7 @@
             "text_Y84Y8X": {
               "type": "text",
               "settings": {
-                "text": "<p>HOME DECOR<\/p>",
+                "text": "<p>HOME DECOR</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -207,7 +207,7 @@
               "type": "text",
               "name": "t:blocks.text.name",
               "settings": {
-                "text": "<p>Handmade Collection<\/p>",
+                "text": "<p>Handmade Collection</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -237,7 +237,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/handmade",
+                "link": "shopify://collections/handmade",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
@@ -317,49 +317,49 @@
           "type": "_collection_item",
           "settings": {
             "collection": "handmade",
-            "image": "shopify:\/\/shop_images\/home-decor.png",
+            "image": "shopify://shop_images/home-decor.png",
             "title": "Home Decor",
-            "collection_link": "shopify:\/\/collections\/handmade"
+            "collection_link": "shopify://collections/handmade"
           },
           "blocks": {}
         },
         "collection_item_NcAdLn": {
           "type": "_collection_item",
           "settings": {
-            "collection": "handmade",
-            "image": "shopify:\/\/shop_images\/jewellery.png",
+            "collection": "handmade-2",
+            "image": "shopify://shop_images/jewellery.png",
             "title": "Jewellery",
-            "collection_link": "shopify:\/\/collections\/handmade"
+            "collection_link": "shopify://collections/handmade"
           },
           "blocks": {}
         },
         "collection_item_mziKpV": {
           "type": "_collection_item",
           "settings": {
-            "collection": "handmade",
-            "image": "shopify:\/\/shop_images\/gift.png",
+            "collection": "bakery",
+            "image": "shopify://shop_images/gift.png",
             "title": "Gifts",
-            "collection_link": "shopify:\/\/collections\/handmade"
+            "collection_link": "shopify://collections/handmade"
           },
           "blocks": {}
         },
         "collection_item_cM9yJn": {
           "type": "_collection_item",
           "settings": {
-            "collection": "handmade",
-            "image": "shopify:\/\/shop_images\/home-living.png",
+            "collection": "hydrogen",
+            "image": "shopify://shop_images/home-living.png",
             "title": "Home & Living",
-            "collection_link": "shopify:\/\/collections\/handmade"
+            "collection_link": "shopify://collections/handmade"
           },
           "blocks": {}
         },
         "collection_item_83DcjA": {
           "type": "_collection_item",
           "settings": {
-            "collection": "handmade",
-            "image": "shopify:\/\/shop_images\/fashion-accessories.png",
+            "collection": "baber",
+            "image": "shopify://shop_images/fashion-accessories.png",
             "title": "Fashion Accessories",
-            "collection_link": "shopify:\/\/collections\/handmade"
+            "collection_link": "shopify://collections/handmade"
           },
           "blocks": {}
         },
@@ -370,7 +370,7 @@
             "design_heading": "1",
             "horizontal": false,
             "alignment": "center",
-            "heading_gap": 15,
+            "heading_gap": 5,
             "margin_bottom": 60
           },
           "blocks": {
@@ -392,11 +392,11 @@
               "type": "_sub_heading_section",
               "name": "t:blocks.section_heading.sub_heading",
               "settings": {
-                "text": "<p>Shop the latest products from the most popular collections<\/p>",
+                "text": "<p>Shop the latest products from the most popular collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
-                "text_color": "hdt-s-text",
+                "text_color": "hdt-text-secondary",
                 "font_size_text_lg": 15,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -463,7 +463,7 @@
         "background_opacity": 0,
         "section_layout": "container",
         "hdt_background_parallax": false,
-        "mg": ",,100px,",
+        "mg": ",,45px,",
         "mg_mb": ",,30px,",
         "pd": "",
         "pd_mb": ""
@@ -496,7 +496,8 @@
             "btn_style": "",
             "endable_btn_icon": true,
             "size": "xl",
-            "btn_fw": "semibold"
+            "btn_fw": "semibold",
+            "rounded": ""
           },
           "blocks": {}
         },
@@ -597,7 +598,7 @@
             "text_h7kaqb": {
               "type": "text",
               "settings": {
-                "text": "<p>GIFT PACKAGE<\/p>",
+                "text": "<p>GIFT PACKAGE</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -626,7 +627,7 @@
             "heading_Pr7896": {
               "type": "heading",
               "settings": {
-                "heading": "<p>All IN ONE BOX<\/p>",
+                "heading": "<p>All IN ONE BOX</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -653,7 +654,7 @@
               "type": "button",
               "settings": {
                 "label": "Discovery Now",
-                "link": "shopify:\/\/collections\/handmade",
+                "link": "shopify://collections/handmade",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -685,8 +686,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/banner-1.png",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/banner-1.png",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -745,7 +746,7 @@
             "text_eMKFrp": {
               "type": "text",
               "settings": {
-                "text": "<p>HOT DEAL<\/p>",
+                "text": "<p>HOT DEAL</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -775,7 +776,7 @@
             "heading_F9RJC6": {
               "type": "heading",
               "settings": {
-                "heading": "<p>70% SALE OFF<\/p>",
+                "heading": "<p>70% SALE OFF</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -793,8 +794,8 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/banner-2.png",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "image": "shopify://shop_images/banner-2.png",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "video_loop": true
               },
               "blocks": {}
@@ -895,7 +896,8 @@
                 "btn_style": "",
                 "endable_btn_icon": false,
                 "size": "m",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -946,7 +948,8 @@
                 "btn_style": "",
                 "endable_btn_icon": false,
                 "size": "m",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -997,7 +1000,8 @@
                 "btn_style": "",
                 "endable_btn_icon": false,
                 "size": "m",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -1044,7 +1048,7 @@
       ],
       "custom_css": [
         ".hdt-tabs-item-title {--radius-button: 6rem; color: rgb(var(--color-foreground));}",
-        "[aria-current^=\"true\"], .hdt-tabs-item-title:hover {border-color: rgb(var(--color-foreground));}",
+        "[aria-current^=\"true\"],.hdt-tabs-item-title:hover {border-color: rgb(var(--color-foreground));}",
         "@media (width >= 1350px) {.hdt-heading-block:before {width: 150px; }}"
       ],
       "name": "t:sections.tabs_collections.grid_name",
@@ -1073,8 +1077,8 @@
         "image_item_DDK79T": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_9560fe7b-0fc3-4698-b790-58d128a9743b.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/1_9560fe7b-0fc3-4698-b790-58d128a9743b.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1084,8 +1088,8 @@
         "image_item_ALdzT6": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_13a95945-742a-4361-990c-0a128b493d92.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/2_13a95945-742a-4361-990c-0a128b493d92.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1095,8 +1099,8 @@
         "image_item_MYBA3H": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_6261a39d-209b-4c0e-aaa4-3f1d58d60563.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/3_6261a39d-209b-4c0e-aaa4-3f1d58d60563.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1106,8 +1110,8 @@
         "image_item_ch9RFw": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_f9b49610-8ab4-41a0-8965-bd594a07c8f7.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/4_f9b49610-8ab4-41a0-8965-bd594a07c8f7.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1117,8 +1121,8 @@
         "image_item_4tNm3W": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5_0948a573-08e7-4e72-8712-31f18171c3b3.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/5_0948a573-08e7-4e72-8712-31f18171c3b3.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1128,8 +1132,8 @@
         "image_item_VnJz8X": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7_0aebef91-e341-44b5-a603-73dee7c82fa2.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/7_0aebef91-e341-44b5-a603-73dee7c82fa2.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1139,8 +1143,8 @@
         "image_item_Q63fwa": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8_eceb454a-9e16-4c1e-a54f-e72710584d6d.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/8_eceb454a-9e16-4c1e-a54f-e72710584d6d.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1150,8 +1154,8 @@
         "image_item_KKV7UE": {
           "type": "_gallery_item-packery-2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6_e5289eba-ce78-476e-8675-a5294b20e32a.png",
-            "item_link": "shopify:\/\/collections\/handmade",
+            "image": "shopify://shop_images/6_e5289eba-ce78-476e-8675-a5294b20e32a.png",
+            "item_link": "shopify://collections/handmade",
             "col_dk": "lg:hdt-custom-col-3",
             "col_tb": "md:hdt-custom-col-3",
             "col_mb": "hdt-custom-col-6"
@@ -1186,7 +1190,7 @@
               "type": "_sub_heading_section",
               "name": "t:blocks.section_heading.sub_heading",
               "settings": {
-                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!<\/p>",
+                "text": "<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1228,7 +1232,7 @@
         "background_opacity": 0,
         "section_layout": "wrapper_container",
         "hdt_background_parallax": false,
-        "mg": ",,50px,",
+        "mg": ",,100px,",
         "mg_mb": ",,30px,",
         "pd": "0,50px,0px,50px",
         "pd_mb": "25px,15px,25px,15px"
@@ -1241,7 +1245,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "car",
-            "image_icon": "shopify:\/\/shop_images\/icon1.png",
+            "image_icon": "shopify://shop_images/icon1.png",
             "icon": ""
           },
           "blocks": {
@@ -1259,7 +1263,7 @@
             "heading_LYFLeH": {
               "type": "heading",
               "settings": {
-                "heading": "<p>SAFE SHIPPING<\/p>",
+                "heading": "<p>SAFE SHIPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1285,7 +1289,7 @@
             "text_J3zVfw": {
               "type": "text",
               "settings": {
-                "text": "<p>Whether it's a sofa or a sheet set, delivery's<\/p><p>on the house.<\/p>",
+                "text": "<p>Whether it's a sofa or a sheet set, delivery's</p><p>on the house.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1313,7 +1317,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "car",
-            "image_icon": "shopify:\/\/shop_images\/icon2.png",
+            "image_icon": "shopify://shop_images/icon2.png",
             "icon": ""
           },
           "blocks": {
@@ -1331,7 +1335,7 @@
             "heading_Tr9EUX": {
               "type": "heading",
               "settings": {
-                "heading": "<p>SAFE SHIPPING<\/p>",
+                "heading": "<p>SAFE SHIPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1357,7 +1361,7 @@
             "text_WbkyMg": {
               "type": "text",
               "settings": {
-                "text": "<p>Shop zillions of finds, with new arrivals<\/p><p>added daily.<\/p>",
+                "text": "<p>Shop zillions of finds, with new arrivals</p><p>added daily.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1385,7 +1389,7 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "car",
-            "image_icon": "shopify:\/\/shop_images\/icon3.png",
+            "image_icon": "shopify://shop_images/icon3.png",
             "icon": ""
           },
           "blocks": {
@@ -1403,7 +1407,7 @@
             "heading_6QTXgX": {
               "type": "heading",
               "settings": {
-                "heading": "<p>BEAUTIFUL GIFT WRAPPING<\/p>",
+                "heading": "<p>BEAUTIFUL GIFT WRAPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1429,7 +1433,7 @@
             "text_6wmqRt": {
               "type": "text",
               "settings": {
-                "text": "<p>Use the Credit Card to save on your first<\/p><p>order over $250.<\/p>",
+                "text": "<p>Use the Credit Card to save on your first</p><p>order over $250.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1471,6 +1475,9 @@
         "shipping_crGhnR",
         "shipping_8e4w9w"
       ],
+      "custom_css": [
+        ".hdt-s-gradient{--color-foreground2: 123 123 123;}"
+      ],
       "name": "t:sections.shipping.name",
       "settings": {
         "content_align": "center",
@@ -1487,11 +1494,11 @@
         "dot_color": "",
         "dot_rounded": true,
         "colors_by_section": true,
-        "color_scheme": "scheme-c4e30b13-8ad7-42f6-9c53-efa179aa46de",
+        "color_scheme": "scheme-9e2cc102-90c2-4a1b-a0d3-f49d7a694d9a",
         "background_opacity": 0,
         "section_layout": "container",
         "hdt_background_parallax": false,
-        "mg": ",,50px,",
+        "mg": ",,100px,",
         "mg_mb": ",,30px,",
         "pd": "",
         "pd_mb": "25px,,25px,"

@@ -162,6 +162,18 @@
             "child_menu": ""
           },
           "blocks": {}
+        },
+        "menu_mobile": {
+          "type": "_menu_mobile",
+          "static": true,
+          "settings": {
+            "main_menu_mobile": "",
+            "menu_categories": "",
+            "only_click_icon": false,
+            "header_mobile_colors": "",
+            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -177,13 +189,15 @@
         "header_by_brand": true,
         "brand_name": "women",
         "header_fullwidth": true,
-        "logo": "shopify:\/\/shop_images\/Kalles-women.svg",
+        "logo": "shopify://shop_images/Kalles-women.svg",
         "logo_width": 190,
         "brand_transform": true,
         "header_height": 80,
         "header_colors": "scheme-1",
         "enabled_user": true,
         "enabled_wishlist": true,
+        "enabled_cart": true,
+        "cart_des": "1",
         "header_bottom_height": 50,
         "lazy_mn": true,
         "menu_position": "center",
@@ -203,25 +217,41 @@
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>",
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
       }
     },
     "header_e_commerce_blocks_thBUn6": {
       "type": "header-e-commerce-blocks",
+      "blocks": {
+        "menu_mobile": {
+          "type": "_menu_mobile",
+          "static": true,
+          "settings": {
+            "main_menu_mobile": "",
+            "menu_categories": "",
+            "only_click_icon": false,
+            "header_mobile_colors": "",
+            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>"
+          },
+          "blocks": {}
+        }
+      },
       "name": "t:sections.header.header_e_commerce.name",
       "settings": {
         "header_by_brand": true,
         "brand_name": "men",
         "header_fullwidth": true,
-        "logo": "shopify:\/\/shop_images\/Kalles-men.svg",
+        "logo": "shopify://shop_images/Kalles-men.svg",
         "logo_width": 190,
         "brand_transform": true,
         "header_height": 80,
         "header_colors": "",
         "enabled_user": true,
         "enabled_wishlist": true,
+        "enabled_cart": true,
+        "cart_des": "1",
         "header_bottom_height": 50,
         "lazy_mn": true,
         "menu_position": "center",
@@ -241,25 +271,41 @@
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>",
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
       }
     },
     "header_e_commerce_blocks_kaxJAT": {
       "type": "header-e-commerce-blocks",
+      "blocks": {
+        "menu_mobile": {
+          "type": "_menu_mobile",
+          "static": true,
+          "settings": {
+            "main_menu_mobile": "",
+            "menu_categories": "",
+            "only_click_icon": false,
+            "header_mobile_colors": "",
+            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>"
+          },
+          "blocks": {}
+        }
+      },
       "name": "t:sections.header.header_e_commerce.name",
       "settings": {
         "header_by_brand": true,
         "brand_name": "kids",
         "header_fullwidth": true,
-        "logo": "shopify:\/\/shop_images\/Kalles-kids.svg",
+        "logo": "shopify://shop_images/Kalles-kids.svg",
         "logo_width": 190,
         "brand_transform": true,
         "header_height": 80,
         "header_colors": "scheme-1",
         "enabled_user": true,
         "enabled_wishlist": true,
+        "enabled_cart": true,
+        "cart_des": "1",
         "header_bottom_height": 50,
         "lazy_mn": true,
         "menu_position": "center",
@@ -279,15 +325,32 @@
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>",
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
+      }
+    },
+    "custom_liquid_zc3iVE": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "custom_liquid": "{% render 'sticky-demos' %}",
+        "colors_by_section": false,
+        "color_scheme": "",
+        "background_opacity": 0,
+        "section_layout": "container",
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": ",,30px,",
+        "pd": "",
+        "pd_mb": ""
       }
     }
   },
   "order": [
     "header_e_commerce_blocks_GTUKeX",
     "header_e_commerce_blocks_thBUn6",
-    "header_e_commerce_blocks_kaxJAT"
+    "header_e_commerce_blocks_kaxJAT",
+    "custom_liquid_zc3iVE"
   ]
 }

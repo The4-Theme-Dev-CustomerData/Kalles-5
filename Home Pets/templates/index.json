@@ -272,7 +272,8 @@
       ],
       "custom_css": [
         "@media (width < 768px) {.hdt-button-block {--hdt-btn-padding-x: 20px; --hdt-btn-padding-x: 20px; font-size: 14px; }}",
-        ".hdt-slider .hdt-navigation button {--nav-color: rgb(0 0 0);}"
+        ".hdt-slider .hdt-navigation button {--nav-color: rgb(0 0 0);}",
+        ".hdt-h_custom {font-family: \"Poppins\", sans-serif;}"
       ],
       "settings": {
         "image_height": "fixed",

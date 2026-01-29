@@ -6,7 +6,7 @@
         "slide_item_GJUjrM": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergonomic_hero_banner.jpg",
+            "image": "shopify://shop_images/ergonomic_hero_banner.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-097102a4-54f1-4f21-97e6-3f9af5d9786d",
@@ -42,7 +42,7 @@
             "text_YrQhtV": {
               "type": "text",
               "settings": {
-                "text": "<p>The perfect balance of ergonomics and comfort.<\/p>",
+                "text": "<p>The perfect balance of ergonomics and comfort.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -71,7 +71,7 @@
             "heading_MzV9Ty": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Ergonomic Chair<\/p>",
+                "heading": "<p>Ergonomic Chair</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -98,7 +98,7 @@
               "type": "button",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/ergonomic",
+                "link": "shopify://collections/ergonomic",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
@@ -180,14 +180,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "car",
-            "image_icon": "shopify:\/\/shop_images\/truck_616d61da-8f9e-43dd-89db-605f879b969e.svg",
+            "image_icon": "shopify://shop_images/truck.svg",
             "icon": ""
           },
           "blocks": {
             "heading_yRp9TX": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Fast Delivery<\/p>",
+                "heading": "<p>Fast Delivery</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -213,7 +213,7 @@
             "text_EpCfW4": {
               "type": "text",
               "settings": {
-                "text": "<p>Free shipping on all US orders<\/p>",
+                "text": "<p>Free shipping on all US orders</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -240,14 +240,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "help",
-            "image_icon": "shopify:\/\/shop_images\/card-pos_829f8ff7-b480-4500-ad3a-918c30f39bf9.svg",
+            "image_icon": "shopify://shop_images/card-pos.svg",
             "icon": ""
           },
           "blocks": {
             "heading_wWAKAd": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Safe Payment<\/p>",
+                "heading": "<p>Safe Payment</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -273,7 +273,7 @@
             "text_pCcnWy": {
               "type": "text",
               "settings": {
-                "text": "<p>We ensure secure payment with PEV<\/p>",
+                "text": "<p>We ensure secure payment with PEV</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -300,14 +300,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "refesh",
-            "image_icon": "shopify:\/\/shop_images\/messages-3_c6d3ac0f-a4a5-42b5-91b5-db746df5b57f.svg",
+            "image_icon": "shopify://shop_images/messages-3.svg",
             "icon": ""
           },
           "blocks": {
             "heading_cMeJbJ": {
               "type": "heading",
               "settings": {
-                "heading": "<p>24\/7 Online Support<\/p>",
+                "heading": "<p>24/7 Online Support</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -333,7 +333,7 @@
             "text_dhHYyN": {
               "type": "text",
               "settings": {
-                "text": "<p>24 hours a day, 7 days a week<\/p>",
+                "text": "<p>24 hours a day, 7 days a week</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -360,14 +360,14 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "door-lock",
-            "image_icon": "shopify:\/\/shop_images\/refresh-left-square_6ec4bbab-59e4-4e8d-9c52-080ed66fba58.svg",
+            "image_icon": "shopify://shop_images/refresh-left-square.svg",
             "icon": ""
           },
           "blocks": {
             "heading_qiYydG": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Free Returns<\/p>",
+                "heading": "<p>Free Returns</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -393,7 +393,7 @@
             "text_YapdVJ": {
               "type": "text",
               "settings": {
-                "text": "<p>Simply return it within 30 days<\/p>",
+                "text": "<p>Simply return it within 30 days</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -454,6 +454,7 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
+        "hdt_background_parallax": false,
         "mg": "",
         "mg_mb": ",,30px,",
         "pd": "125px,,150px,",
@@ -494,8 +495,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 15,
             "spacing_v_mb": 0,
-            "content_width": "full",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -507,7 +508,7 @@
               "type": "text",
               "name": "t:blocks.text.name",
               "settings": {
-                "text": "<p>INTRODUCTION<\/p>",
+                "text": "<p>INTRODUCTION</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -538,7 +539,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>Sit in style, work in comfort<\/p>",
+                "heading": "<p>Sit in style, work in comfort</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -585,8 +586,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "auto",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "right",
             "alignment_mb": "center",
@@ -597,7 +598,7 @@
             "heading_BFxwMt": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Sustainable from the start<\/p>",
+                "heading": "<p>Sustainable from the start</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -623,7 +624,7 @@
             "text_WjKbaK": {
               "type": "text",
               "settings": {
-                "text": "<p>Office chairs are meticulously crafted to prioritize both comfort and support, adhering to ergonomic principles. Not only do they provide unmatched levels of comfort, but they also boast a sophisticated and contemporary design that complements any space flawlessly.<\/p>",
+                "text": "<p>Office chairs are meticulously crafted to prioritize both comfort and support, adhering to ergonomic principles. Not only do they provide unmatched levels of comfort, but they also boast a sophisticated and contemporary design that complements any space flawlessly.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -653,7 +654,7 @@
             "heading_L6RTUx": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Where comfort meets support<\/p>",
+                "heading": "<p>Where comfort meets support</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -679,7 +680,7 @@
             "text_89RPzK": {
               "type": "text",
               "settings": {
-                "text": "<p>Experience ultimate comfort and unparalleled support with our ergonomic chair, where design meets wellness<\/p>",
+                "text": "<p>Experience ultimate comfort and unparalleled support with our ergonomic chair, where design meets wellness</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -721,9 +722,9 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
-            "content_width": "full",
-            "content_position": "center",
-            "content_position_mb": "center",
+            "content_position": "auto",
+            "align_content": false,
+            "content_position_mb": "auto",
             "alignment": "center",
             "alignment_mb": "center",
             "background_color": "rgba(0,0,0,0)",
@@ -734,7 +735,7 @@
               "type": "image",
               "name": "t:blocks.image.name",
               "settings": {
-                "img": "shopify:\/\/shop_images\/ergonomic_banner_72df0ceb-2a23-48dc-acbc-12f9c828ead0.jpg",
+                "img": "shopify://shop_images/ergonomic_banner_72df0ceb-2a23-48dc-acbc-12f9c828ead0.jpg",
                 "image_ratio": "adapt_image",
                 "img_effect": "none",
                 "b_effect": "plus-zoom-overlay",
@@ -764,8 +765,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "auto",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "left",
             "alignment_mb": "center",
@@ -776,7 +777,7 @@
             "heading_E3RwHY": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Designed for the elements<\/p>",
+                "heading": "<p>Designed for the elements</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -802,7 +803,7 @@
             "text_AyMVfw": {
               "type": "text",
               "settings": {
-                "text": "<p>Aeron’s legacy of sustainability and innovation continues since its introduction nearly 30 years ago. It proved pioneering in both ergonomics and material innovation, without relying on the standard use of foam, fabric or leather found.<\/p>",
+                "text": "<p>Aeron’s legacy of sustainability and innovation continues since its introduction nearly 30 years ago. It proved pioneering in both ergonomics and material innovation, without relying on the standard use of foam, fabric or leather found.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -832,7 +833,7 @@
             "heading_HPJpUE": {
               "type": "heading",
               "settings": {
-                "heading": "<p>A more inclusive chair<\/p>",
+                "heading": "<p>A more inclusive chair</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -858,7 +859,7 @@
             "text_HUrfDe": {
               "type": "text",
               "settings": {
-                "text": "<p>Experience superior comfort and support with our ergonomic chair, designed to be more inclusive for everyone.<\/p>",
+                "text": "<p>Experience superior comfort and support with our ergonomic chair, designed to be more inclusive for everyone.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -905,7 +906,7 @@
         "multi_column_VMnpaj"
       ],
       "custom_css": [
-        "@media (min-width: 1150px) {.hdt-container {--container-max-width-padding-lg: 1700px; padding: 0 5rem; } .hdt-text-custom {line-height: 24px; } .hdt-column_inner {place-self: flex-start; }}",
+        "@media (min-width: 1150px) {.hdt-container {--container-max-width-padding-lg: 1700px; padding: 0 5rem; } .hdt-text-custom {line-height: 24px; }}",
         "@media (min-width: 768px) and (max-width: 1150px) {.hdt-column_inner {text-align: center; }}"
       ],
       "name": "t:sections.custom_section.name",
@@ -918,6 +919,7 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
+        "hdt_background_parallax": false,
         "mg": ",,100px,",
         "mg_mb": ",,40px,",
         "pd": "",
@@ -943,6 +945,7 @@
             "col_mb": "2",
             "space_items": "x",
             "pagination": true,
+            "pagination_color_scheme": "",
             "pagination_type": "load_more",
             "paginate_pos": "center",
             "dis_pagination": 60,
@@ -950,7 +953,8 @@
             "btn_style": "hdt-btn-accent",
             "endable_btn_icon": false,
             "size": "xl",
-            "btn_fw": "medium"
+            "btn_fw": "medium",
+            "rounded": ""
           },
           "blocks": {}
         },
@@ -981,7 +985,7 @@
             "sub_heading_section_URb48x": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1012,6 +1016,7 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
+        "hdt_background_parallax": false,
         "mg": "90px,,150px,",
         "mg_mb": "40px,,50px,",
         "pd": "",
@@ -1024,7 +1029,7 @@
         "lookbook_kmFA43": {
           "type": "_lookbook",
           "settings": {
-            "image": "shopify:\/\/shop_images\/c2251c42f6035ccaff7d532e6fdc4ae5_1.png",
+            "image": "shopify://shop_images/c2251c42f6035ccaff7d532e6fdc4ae5_1.png",
             "img_effect": "none",
             "b_effect": "none"
           },
@@ -1146,6 +1151,7 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
+        "hdt_background_parallax": false,
         "mg": ",,150px,",
         "mg_mb": ",,40px,",
         "pd": "",
@@ -1171,6 +1177,7 @@
             "col_mb": "2",
             "space_items": "x",
             "pagination": true,
+            "pagination_color_scheme": "",
             "pagination_type": "load_more",
             "paginate_pos": "center",
             "dis_pagination": 60,
@@ -1178,7 +1185,8 @@
             "btn_style": "hdt-btn-accent",
             "endable_btn_icon": false,
             "size": "xl",
-            "btn_fw": "medium"
+            "btn_fw": "medium",
+            "rounded": ""
           },
           "blocks": {}
         },
@@ -1209,7 +1217,7 @@
             "sub_heading_section_mGJzwg": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1239,6 +1247,7 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
+        "hdt_background_parallax": false,
         "mg": "0px,,150px,",
         "mg_mb": "0px,,40px,",
         "pd": "",
@@ -1289,7 +1298,9 @@
                 "date": "%b %d",
                 "content_align": "start",
                 "image_ratio": "-adapt_image",
-                "image_size": true
+                "image_size": true,
+                "img_effect": "none",
+                "b_effect": "none"
               },
               "blocks": {}
             }
@@ -1323,7 +1334,7 @@
             "sub_heading_section_W6n6Q4": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>The Importance of Ergonomics in the Modern Workplace<\/p>",
+                "text": "<p>The Importance of Ergonomics in the Modern Workplace</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -1352,6 +1363,7 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
+        "hdt_background_parallax": false,
         "mg": ",,150px,",
         "mg_mb": ",,40px,",
         "pd": "",

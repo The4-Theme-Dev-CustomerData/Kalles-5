@@ -26,13 +26,14 @@
       "disabled": true,
       "settings": {
         "use_dynamic_source": false,
-        "image": "shopify:\/\/shop_images\/shop-category.jpg",
+        "image": "shopify://shop_images/shop-category.jpg",
         "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
         "bg_overlay": 57,
         "space_item": 0,
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 62
+        "mg": "",
+        "mg_mb": "",
+        "pd": "50px,,50px,",
+        "pd_mb": "31px,,31px,"
       }
     },
     "main": {
@@ -41,9 +42,10 @@
       "settings": {
         "full_width": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 60,
-        "padding_rate": 75
+        "mg": "",
+        "mg_mb": "",
+        "pd": "50px,,60px,",
+        "pd_mb": "37px,,45px,"
       }
     },
     "banners_8wNa4n": {
@@ -53,37 +55,69 @@
           "type": "_banner-item",
           "name": "t:blocks.banner_item.name",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/multi-brand-kids",
+            "banner_url": "shopify://collections/multi-brand-kids",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
             "colors_by_block": true,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
+            "content_position_type": "container",
+            "position_x": 50,
+            "position_y": 50,
             "gap_r": 54,
             "gap_c": 54,
             "content_position": "end-center",
             "alignment": "center",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "gap_r_mb": 15,
             "gap_c_mb": 15,
             "content_position_mb": "end-center",
-            "alignment_mb": "center"
+            "alignment_mb": "center",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background_content": false,
+            "background_content_color": "#ffffff",
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
           },
           "blocks": {
             "button_YyQJtL": {
               "type": "button",
               "settings": {
                 "label": "BOYS",
-                "link": "shopify:\/\/collections\/multi-brand-kids",
+                "link": "shopify://collections/multi-brand-kids",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
                 "size": "custom custom-inline",
+                "text_size": "hdt-text-base",
                 "font_weight": "medium",
                 "font_size_btn": 18,
                 "padding_btn": 30,
                 "min_width_btn": 160,
                 "min_width_dt_btn": 230,
                 "min_height_btn": 30,
+                "rounded": "",
                 "icon": "none",
                 "icon_position": "after",
                 "icon_height": 16,
@@ -96,8 +130,9 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/44206fdfe652392979725b9fad05adb5b97bd39b.png",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/44206fdfe652392979725b9fad05adb5b97bd39b.png",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                "video_loop": true
               },
               "blocks": {}
             }
@@ -110,37 +145,69 @@
           "type": "_banner-item",
           "name": "t:blocks.banner_item.name",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/multi-brand-kids",
+            "banner_url": "shopify://collections/multi-brand-kids",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
             "colors_by_block": true,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
+            "content_position_type": "container",
+            "position_x": 50,
+            "position_y": 50,
             "gap_r": 54,
             "gap_c": 54,
             "content_position": "end-center",
             "alignment": "center",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "gap_r_mb": 15,
             "gap_c_mb": 15,
             "content_position_mb": "end-center",
-            "alignment_mb": "center"
+            "alignment_mb": "center",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background_content": false,
+            "background_content_color": "#ffffff",
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
           },
           "blocks": {
             "button_RNJ7dt": {
               "type": "button",
               "settings": {
                 "label": "GIRLS",
-                "link": "shopify:\/\/collections\/multi-brand-kids",
+                "link": "shopify://collections/multi-brand-kids",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
                 "size": "custom custom-inline",
+                "text_size": "hdt-text-base",
                 "font_weight": "medium",
                 "font_size_btn": 18,
                 "padding_btn": 30,
                 "min_width_btn": 160,
                 "min_width_dt_btn": 230,
                 "min_height_btn": 30,
+                "rounded": "",
                 "icon": "none",
                 "icon_position": "after",
                 "icon_height": 16,
@@ -153,8 +220,9 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/full-shot-girl-posing-with-hat.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/full-shot-girl-posing-with-hat.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                "video_loop": true
               },
               "blocks": {}
             }
@@ -167,37 +235,69 @@
           "type": "_banner-item",
           "name": "t:blocks.banner_item.name",
           "settings": {
-            "banner_url": "shopify:\/\/collections\/multi-brand-kids",
+            "banner_url": "shopify://collections/multi-brand-kids",
             "banner_target": false,
             "img_effect": "zoom",
             "b_effect": "plus-zoom-overlay",
             "colors_by_block": true,
             "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
+            "content_position_type": "container",
+            "position_x": 50,
+            "position_y": 50,
             "gap_r": 54,
             "gap_c": 54,
             "content_position": "end-center",
             "alignment": "center",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "gap_r_mb": 15,
             "gap_c_mb": 15,
             "content_position_mb": "end-center",
-            "alignment_mb": "center"
+            "alignment_mb": "center",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background_content": false,
+            "background_content_color": "#ffffff",
+            "bg_opacity": 0,
+            "box_square": false,
+            "content_rounded": false,
+            "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
+            "border_opacity": 0,
+            "border_style": "none",
+            "border_pd_dk": 0,
+            "padding_vertical": 30,
+            "padding_horizontal": 30,
+            "min_width_content": 350,
+            "border_pd": 0
           },
           "blocks": {
             "button_4RGg8p": {
               "type": "button",
               "settings": {
                 "label": "KIDS",
-                "link": "shopify:\/\/collections\/multi-brand-kids",
+                "link": "shopify://collections/multi-brand-kids",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
                 "size": "custom custom-inline",
+                "text_size": "hdt-text-base",
                 "font_weight": "medium",
                 "font_size_btn": 18,
                 "padding_btn": 30,
                 "min_width_btn": 160,
                 "min_width_dt_btn": 230,
                 "min_height_btn": 30,
+                "rounded": "",
                 "icon": "none",
                 "icon_position": "after",
                 "icon_height": 16,
@@ -210,8 +310,9 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/pexels-eduardo199o9-178988127-14474507.jpg",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/pexels-eduardo199o9-178988127-14474507.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                "video_loop": true
               },
               "blocks": {}
             }
@@ -259,9 +360,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 49
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "",
+        "pd_mb": ""
       }
     },
     "collections_list_HtGNjM": {
@@ -271,9 +374,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/711Rix6pr9L._SL1500.jpg",
+            "image": "shopify://shop_images/711Rix6pr9L._SL1500.jpg",
             "title": "Baby Care",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -281,9 +387,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/71T1sWOX2OL._AC_SX569.jpg",
+            "image": "shopify://shop_images/71T1sWOX2OL._AC_SX569.jpg",
             "title": "Boy Clothes",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -291,9 +400,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/61h2HXVRVSL._AC_SY550.jpg",
+            "image": "shopify://shop_images/61h2HXVRVSL._AC_SY550.jpg",
             "title": "Girl Clothes",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -301,9 +413,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/613iXiCLm1L._AC_SL1500.jpg",
+            "image": "shopify://shop_images/613iXiCLm1L._AC_SL1500.jpg",
             "title": "Toys",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -311,9 +426,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/61zT4uE5xqL._AC_SY575.jpg",
+            "image": "shopify://shop_images/61zT4uE5xqL._AC_SY575.jpg",
             "title": "Shoes",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -321,9 +439,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "multi-brand-kids",
-            "image": "shopify:\/\/shop_images\/81gjZYjIzyL._AC_SL1500.jpg",
+            "image": "shopify://shop_images/81gjZYjIzyL._AC_SL1500.jpg",
             "title": "Bags",
-            "collection_link": ""
+            "collection_link": "",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "6"
           },
           "blocks": {}
         },
@@ -393,9 +514,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 50
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "80px,,80px,",
+        "pd_mb": "40px,,40px,"
       }
     },
     "featured_collection_rDXbQr": {
@@ -417,6 +540,7 @@
             "col_mb": "2",
             "space_items": "x",
             "pagination": true,
+            "pagination_color_scheme": "",
             "pagination_type": "load_more",
             "paginate_pos": "center",
             "dis_pagination": 60,
@@ -424,7 +548,8 @@
             "btn_style": "hdt-btn-outline",
             "endable_btn_icon": false,
             "size": "m",
-            "btn_fw": "medium"
+            "btn_fw": "medium",
+            "rounded": ""
           },
           "blocks": {}
         },
@@ -455,7 +580,7 @@
             "sub_heading_section_hMGGb9": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+                "text": "<p>Here’s some of our most popular products people are in love with.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "custom",
@@ -485,9 +610,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 70,
-        "padding_bottom": 70,
-        "padding_rate": 0
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "70px,,70px,",
+        "pd_mb": "70px,,70px,"
       }
     },
     "custom_section_AGgEWk": {
@@ -508,8 +635,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "full",
-            "content_position": "center",
+            "content_position": "auto",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -521,7 +648,7 @@
               "type": "image",
               "name": "t:blocks.image.name",
               "settings": {
-                "img": "shopify:\/\/shop_images\/portrait-teen-boy-playing-with-dinosaur.jpg",
+                "img": "shopify://shop_images/portrait-teen-boy-playing-with-dinosaur.jpg",
                 "image_ratio": "adapt_image",
                 "img_effect": "zoom",
                 "b_effect": "plus-zoom-overlay",
@@ -546,7 +673,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>Cool Boys Collections<\/p>",
+                "heading": "<p>Cool Boys Collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -575,17 +702,26 @@
               "name": "t:blocks.button.name",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/multi-brand-kids",
+                "link": "shopify://collections/multi-brand-kids",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
                 "size": "m",
+                "text_size": "hdt-text-base",
                 "font_weight": "medium",
                 "font_size_btn": 14,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 100,
                 "min_height_btn": 40,
+                "rounded": "",
                 "icon": "none",
                 "icon_position": "after",
                 "icon_height": 14,
@@ -617,8 +753,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "full",
-            "content_position": "center",
+            "content_position": "auto",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -630,7 +766,7 @@
               "type": "image",
               "name": "t:blocks.image.name",
               "settings": {
-                "img": "shopify:\/\/shop_images\/full-shot-girl-posing-with-glasses-ice-cream.jpg",
+                "img": "shopify://shop_images/full-shot-girl-posing-with-glasses-ice-cream.jpg",
                 "image_ratio": "adapt_image",
                 "img_effect": "zoom",
                 "b_effect": "plus-zoom-overlay",
@@ -655,7 +791,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>Cute Girl Collections<\/p>",
+                "heading": "<p>Cute Girl Collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1",
@@ -684,17 +820,26 @@
               "name": "t:blocks.button.name",
               "settings": {
                 "label": "SHOP NOW",
-                "link": "shopify:\/\/collections\/multi-brand-kids",
+                "link": "shopify://collections/multi-brand-kids",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
                 "size": "m",
+                "text_size": "hdt-text-base",
                 "font_weight": "medium",
                 "font_size_btn": 14,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 100,
                 "min_height_btn": 40,
+                "rounded": "",
                 "icon": "none",
                 "icon_position": "after",
                 "icon_height": 14,
@@ -729,9 +874,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 50
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "80px,,80px,",
+        "pd_mb": "40px,,40px,"
       }
     },
     "tabs_collection_PkGU9t": {
@@ -741,7 +888,9 @@
           "type": "_tab-collection",
           "settings": {
             "title": "Best  Sellers",
-            "collection": "multi-brand-men"
+            "collection": "multi-brand-men",
+            "hdt_show_icon_image": false,
+            "hdt_icon_spacing": 8
           },
           "blocks": {
             "product_grid_kdFyiV": {
@@ -760,6 +909,7 @@
                 "col_mb": "2",
                 "space_items": "x",
                 "pagination": false,
+                "pagination_color_scheme": "",
                 "pagination_type": "load_more",
                 "paginate_pos": "center",
                 "dis_pagination": 60,
@@ -767,7 +917,8 @@
                 "btn_style": "hdt-btn-outline",
                 "endable_btn_icon": false,
                 "size": "l",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -780,7 +931,9 @@
           "type": "_tab-collection",
           "settings": {
             "title": "Top Rated",
-            "collection": ""
+            "collection": "",
+            "hdt_show_icon_image": false,
+            "hdt_icon_spacing": 8
           },
           "blocks": {
             "product_grid_nKfEz7": {
@@ -799,6 +952,7 @@
                 "col_mb": "2",
                 "space_items": "x",
                 "pagination": false,
+                "pagination_color_scheme": "",
                 "pagination_type": "load_more",
                 "paginate_pos": "center",
                 "dis_pagination": 60,
@@ -806,7 +960,8 @@
                 "btn_style": "hdt-btn-outline",
                 "endable_btn_icon": false,
                 "size": "l",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -819,7 +974,9 @@
           "type": "_tab-collection",
           "settings": {
             "title": "Sales",
-            "collection": ""
+            "collection": "",
+            "hdt_show_icon_image": false,
+            "hdt_icon_spacing": 8
           },
           "blocks": {
             "product_grid_8XDEe4": {
@@ -838,6 +995,7 @@
                 "col_mb": "2",
                 "space_items": "x",
                 "pagination": false,
+                "pagination_color_scheme": "",
                 "pagination_type": "load_more",
                 "paginate_pos": "center",
                 "dis_pagination": 60,
@@ -845,7 +1003,8 @@
                 "btn_style": "hdt-btn-outline",
                 "endable_btn_icon": false,
                 "size": "l",
-                "btn_fw": "medium"
+                "btn_fw": "medium",
+                "rounded": ""
               },
               "blocks": {}
             }
@@ -906,9 +1065,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 70,
-        "padding_bottom": 70,
-        "padding_rate": 0
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "70px,,70px,",
+        "pd_mb": "70px,,70px,"
       }
     },
     "custom_line_Y36Mdk": {
@@ -921,9 +1082,10 @@
         "line_cl": "rgba(0,0,0,0)",
         "line_pos": "center",
         "full_width": false,
-        "padding_top": 80,
-        "padding_bottom": 0,
-        "padding_rate": 50
+        "mg": "",
+        "mg_mb": "",
+        "pd": "80px,,,",
+        "pd_mb": "40px,,,"
       }
     },
     "custom_section_a4pDTU": {
@@ -945,8 +1107,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "auto",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -970,8 +1132,8 @@
             "spacing_v_tb": 40,
             "spacing_h_mb": 0,
             "spacing_v_mb": 40,
-            "content_width": "full",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -982,7 +1144,7 @@
             "heading_WqxeAN": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Signup to be the first to hear about exclusive deals<\/p>",
+                "heading": "<p>Signup to be the first to hear about exclusive deals</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1047,8 +1209,8 @@
             "spacing_v_tb": 0,
             "spacing_h_mb": 0,
             "spacing_v_mb": 0,
-            "content_width": "auto",
             "content_position": "center",
+            "align_content": false,
             "content_position_mb": "center",
             "alignment": "center",
             "alignment_mb": "center",
@@ -1078,9 +1240,11 @@
         "color_scheme": "scheme-c9476b69-abc7-454f-a946-2d5a9f5f3a37",
         "background_opacity": 1,
         "section_layout": "wrapper_container",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "padding_rate": 0
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": "",
+        "pd": "100px,,100px,",
+        "pd_mb": "100px,,100px,"
       }
     }
   },

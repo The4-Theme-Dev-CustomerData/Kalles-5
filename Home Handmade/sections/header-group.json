@@ -50,7 +50,7 @@
       ],
       "custom_css": [
         "strong {color: #ec0101; font-weight: 400;}",
-        ".hdt-top-bar__item {line-height: normal; padding-block-start: 5px;}"
+        ".hdt-top-bar__item {line-height: normal;}"
       ],
       "settings": {
         "height": 41,
@@ -69,6 +69,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Home",
+            "mega_menu_colors": "",
+            "mega_width": "full",
+            "mega_position": "bottom",
+            "mega_custom_width": 1200,
+            "mega_presets": "html",
             "html": "",
             "page": "demos",
             "blog": "",
@@ -80,13 +86,7 @@
             "navUI": true,
             "collection_colors": "",
             "product_list_title": "BEST SELLER",
-            "child_menu": "",
-            "title": "Home",
-            "mega_menu_colors": "",
-            "mega_width": "full",
-            "mega_position": "bottom",
-            "mega_custom_width": 1200,
-            "mega_presets": "html"
+            "child_menu": ""
           },
           "blocks": {}
         },
@@ -94,6 +94,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Shop",
+            "mega_menu_colors": "scheme-1",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_shop",
             "html": "",
             "page": "",
             "blog": "",
@@ -108,13 +114,7 @@
             "navUI": true,
             "collection_colors": "scheme-1",
             "product_list_title": "BEST SELLER",
-            "child_menu": "",
-            "title": "Shop",
-            "mega_menu_colors": "scheme-1",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200,
-            "mega_presets": "mega_shop"
+            "child_menu": ""
           },
           "blocks": {}
         },
@@ -122,6 +122,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Products",
+            "mega_menu_colors": "",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_product",
             "html": "",
             "page": "",
             "blog": "",
@@ -133,13 +139,7 @@
             "navUI": true,
             "collection_colors": "",
             "product_list_title": "BEST SELLER",
-            "child_menu": "",
-            "title": "Products",
-            "mega_menu_colors": "",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200,
-            "mega_presets": "mega_product"
+            "child_menu": ""
           },
           "blocks": {}
         },
@@ -147,6 +147,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Sale",
+            "mega_menu_colors": "scheme-1",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_sale",
             "html": "",
             "page": "",
             "blog": "",
@@ -166,13 +172,7 @@
             "navUI": true,
             "collection_colors": "",
             "product_list_title": "",
-            "child_menu": "",
-            "title": "Sale",
-            "mega_menu_colors": "scheme-1",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200,
-            "mega_presets": "mega_sale"
+            "child_menu": ""
           },
           "blocks": {}
         },
@@ -180,6 +180,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Pages",
+            "mega_menu_colors": "",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_page",
             "html": "",
             "page": "",
             "blog": "",
@@ -191,13 +197,7 @@
             "navUI": true,
             "collection_colors": "",
             "product_list_title": "BEST SELLER",
-            "child_menu": "",
-            "title": "Pages",
-            "mega_menu_colors": "",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200,
-            "mega_presets": "mega_page"
+            "child_menu": ""
           },
           "blocks": {}
         },
@@ -205,6 +205,12 @@
           "type": "_mega_block",
           "name": "Mega Block",
           "settings": {
+            "title": "Blog",
+            "mega_menu_colors": "scheme-1",
+            "mega_width": "custom",
+            "mega_position": "center_on_screen",
+            "mega_custom_width": 1200,
+            "mega_presets": "mega_blog",
             "html": "",
             "page": "",
             "blog": "handmade",
@@ -216,13 +222,19 @@
             "navUI": true,
             "collection_colors": "",
             "product_list_title": "BEST SELLER",
-            "child_menu": "",
-            "title": "Blog",
-            "mega_menu_colors": "scheme-1",
-            "mega_width": "custom",
-            "mega_position": "center_on_screen",
-            "mega_custom_width": 1200,
-            "mega_presets": "mega_blog"
+            "child_menu": ""
+          },
+          "blocks": {}
+        },
+        "menu_mobile": {
+          "type": "_menu_mobile",
+          "static": true,
+          "settings": {
+            "main_menu_mobile": "",
+            "menu_categories": "",
+            "only_click_icon": false,
+            "header_mobile_colors": "",
+            "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base\" style=\"line-height: 24px;\"><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>"
           },
           "blocks": {}
         }
@@ -254,28 +266,47 @@
         "open_event": "hover",
         "menu_type": "split",
         "header_menu_colors": "",
+        "h_icon": "kalles",
+        "hover_icon": "2",
         "search_type": "icon",
         "enabled_user": true,
         "enabled_wishlist": true,
+        "enabled_cart": true,
+        "cart_des": "1",
         "header_socials": false,
         "header_height_mb": 60,
         "logo_width_mb": 95,
-        "main_menu_mobile": "",
-        "header_categories": true,
-        "menu_categories": "shop-categories",
-        "lazy_mn_mb": true,
-        "only_click_icon": false,
-        "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex\" style=\"margin-bottom: 10px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-sm hdt-text-secondary\" style=\"line-height: 24px;\"><span>Email: <b class=\"hdt-font-medium\">info@fashionshop.com</b></span><span>Phone: <b class=\"hdt-font-medium\">(212) 555-1234</b></span></span>",
         "header_transparent": false,
         "header_transparent_colors": "",
+        "background_opacity_transparent": 0,
+        "header_space_top": 0,
+        "header_space_top_mobile": 0,
         "sticky_type": "on_scroll_up",
+        "header_sticky_colors": "",
+        "background_opacity_sticky": 1,
         "sticky_glass": false
+      }
+    },
+    "custom_liquid_jHhAdL": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "custom_liquid": "{% render 'sticky-demos' %}",
+        "colors_by_section": false,
+        "color_scheme": "",
+        "background_opacity": 0,
+        "section_layout": "container",
+        "hdt_background_parallax": false,
+        "mg": "",
+        "mg_mb": ",,30px,",
+        "pd": "",
+        "pd_mb": ""
       }
     }
   },
   "order": [
     "top_bar_3qfcq8",
-    "header_inline_xePFbC"
+    "header_inline_xePFbC",
+    "custom_liquid_jHhAdL"
   ]
 }

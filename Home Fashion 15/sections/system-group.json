@@ -1,4 +1,13 @@
-{
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
   "name": "t:sections.name_group.system",
   "type": "custom.system",
   "sections": {
@@ -43,7 +52,7 @@
           "type": "img_trust",
           "settings": {
             "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "svg": "visa,paypal,master,american_express,amazon",
             "height": 25
           }
         }

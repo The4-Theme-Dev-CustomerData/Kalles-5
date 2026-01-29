@@ -1,4 +1,13 @@
-{
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
   "sections": {
     "slideshow_EVrUzi": {
       "type": "slideshow",
@@ -6,19 +15,30 @@
         "slide_item_GJUjrM": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slider2_4c79d4ca-8714-4833-8aca-065995e93380.jpg",
+            "image": "shopify://shop_images/slider2_4c79d4ca-8714-4833-8aca-065995e93380.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-1",
+            "content_position_type": "auto",
+            "position_x": 23,
+            "position_y": 50,
             "content_position": "center-start",
             "alignment": "left",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "content_position_mb": "center-start",
             "alignment_mb": "left",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
             "background_content": false,
+            "background_content_color": "#ffffff",
             "bg_opacity": 0,
             "box_square": false,
             "content_rounded": false,
             "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
             "border_opacity": 0,
             "border_style": "none",
             "border_pd_dk": 0,
@@ -32,7 +52,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>Hot Deal<\/p>",
+                "text": "<p>Hot Deal</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -42,8 +62,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -55,16 +73,16 @@
               "name": "Spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 6,
-                "space_md": 6,
-                "space": 6
+                "space_lg": 14,
+                "space_md": 14,
+                "space": 10
               },
               "blocks": {}
             },
             "heading_MzV9Ty": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Bohemia Collection<\/p>",
+                "heading": "<p>Bohemia Collection</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -82,8 +100,8 @@
               "name": "Spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 10,
-                "space_md": 10,
+                "space_lg": 14,
+                "space_md": 14,
                 "space": 10
               },
               "blocks": {}
@@ -92,17 +110,26 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "custom custom-inline",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
+                "size": "xl",
+                "text_size": "hdt-text-lg",
                 "font_weight": "normal",
                 "font_size_btn": 16,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 182,
                 "min_height_btn": 26,
+                "rounded": "",
                 "icon": "arrow_right",
                 "icon_position": "after",
                 "icon_height": 20,
@@ -122,19 +149,30 @@
         "slide_item_GJUjrO": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slider1_2b05b88b-82d0-44b5-b0dc-b909b6a5b73d.jpg",
+            "image": "shopify://shop_images/slider1_2b05b88b-82d0-44b5-b0dc-b909b6a5b73d.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
+            "content_position_type": "auto",
+            "position_x": 23,
+            "position_y": 50,
             "content_position": "center-start",
             "alignment": "left",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "content_position_mb": "center-start",
             "alignment_mb": "left",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
             "background_content": false,
+            "background_content_color": "#ffffff",
             "bg_opacity": 0,
             "box_square": false,
             "content_rounded": false,
             "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
             "border_opacity": 0,
             "border_style": "none",
             "border_pd_dk": 0,
@@ -148,7 +186,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>Hot Deal<\/p>",
+                "text": "<p>Hot Deal</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -158,8 +196,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -170,16 +206,16 @@
               "type": "spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 6,
-                "space_md": 6,
-                "space": 6
+                "space_lg": 14,
+                "space_md": 14,
+                "space": 10
               },
               "blocks": {}
             },
             "heading_EtdhMP": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Spring Collection 2025<\/p><p><\/p>",
+                "heading": "<p>Spring Collection 2025</p><p></p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -196,9 +232,9 @@
               "type": "spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 16,
-                "space_md": 16,
-                "space": 16
+                "space_lg": 14,
+                "space_md": 14,
+                "space": 10
               },
               "blocks": {}
             },
@@ -206,17 +242,26 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "custom custom-inline",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
+                "size": "xl",
+                "text_size": "hdt-text-lg",
                 "font_weight": "normal",
                 "font_size_btn": 16,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 182,
                 "min_height_btn": 26,
+                "rounded": "",
                 "icon": "arrow_right",
                 "icon_position": "after",
                 "icon_height": 20,
@@ -236,19 +281,30 @@
         "slide_item_GJUjrL": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slider3_49f8799e-636a-485a-883b-98fc451653d9.jpg",
+            "image": "shopify://shop_images/slider3_49f8799e-636a-485a-883b-98fc451653d9.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
+            "content_position_type": "auto",
+            "position_x": 23,
+            "position_y": 50,
             "content_position": "center-start",
             "alignment": "left",
+            "position_x_mb": 50,
+            "position_y_mb": 50,
             "content_position_mb": "center-start",
             "alignment_mb": "left",
+            "overlay_content": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
             "background_content": false,
+            "background_content_color": "#ffffff",
             "bg_opacity": 0,
             "box_square": false,
             "content_rounded": false,
             "use_border_content": false,
+            "border_color": "#ffffff",
+            "background_border": "#ffffff",
             "border_opacity": 0,
             "border_style": "none",
             "border_pd_dk": 0,
@@ -262,7 +318,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>New Arrivals<\/p>",
+                "text": "<p>New Arrivals</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -272,8 +328,6 @@
                 "text_color": "hdt-s-text",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 18,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -285,16 +339,16 @@
               "name": "Spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 6,
-                "space_md": 6,
-                "space": 6
+                "space_lg": 14,
+                "space_md": 14,
+                "space": 10
               },
               "blocks": {}
             },
             "heading_KHcfyE": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Active Wear Collection<\/p>",
+                "heading": "<p>Active Wear Collection</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -312,8 +366,8 @@
               "name": "Spacer",
               "settings": {
                 "direction": false,
-                "space_lg": 10,
-                "space_md": 10,
+                "space_lg": 14,
+                "space_md": 14,
                 "space": 10
               },
               "blocks": {}
@@ -322,17 +376,26 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections",
+                "link": "shopify://collections/fashion",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-hover-accent",
-                "font_size": "custom custom-inline",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
+                "size": "xl",
+                "text_size": "hdt-text-lg",
                 "font_weight": "normal",
                 "font_size_btn": 16,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 182,
                 "min_height_btn": 26,
+                "rounded": "",
                 "icon": "arrow_right",
                 "icon_position": "after",
                 "icon_height": 20,
@@ -384,9 +447,10 @@
         "color_scheme": "scheme-23cf8966-8e57-4acd-9bb3-bb85f222fbb9",
         "background_opacity": 0,
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 75
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,75px,"
       }
     },
     "collections_list_3yR4cq": {
@@ -395,8 +459,8 @@
         "collection_item_TY6w4T": {
           "type": "_collection_item",
           "settings": {
-            "collection": "trend",
-            "image": "shopify:\/\/shop_images\/top_bdd6f4d4-e1eb-4833-ac94-6c2472fc7f92.png",
+            "collection": "top",
+            "image": "shopify://shop_images/top_bdd6f4d4-e1eb-4833-ac94-6c2472fc7f92.png",
             "title": "Tops",
             "collection_link": ""
           },
@@ -405,8 +469,8 @@
         "collection_item_xVDHBt": {
           "type": "_collection_item",
           "settings": {
-            "collection": "hat",
-            "image": "shopify:\/\/shop_images\/bottoms.png",
+            "collection": "bottoms",
+            "image": "shopify://shop_images/bottoms.png",
             "title": "Bottoms",
             "collection_link": ""
           },
@@ -416,7 +480,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "bags",
-            "image": "shopify:\/\/shop_images\/bags_de0b9d73-53ea-4f2b-a5a6-d9222c7c439b.png",
+            "image": "shopify://shop_images/bags_de0b9d73-53ea-4f2b-a5a6-d9222c7c439b.png",
             "title": "Bags",
             "collection_link": ""
           },
@@ -426,7 +490,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "shoes",
-            "image": "shopify:\/\/shop_images\/shoes_ec5a1064-6981-4e0b-8603-b393cf4ff96e.png",
+            "image": "shopify://shop_images/shoes_ec5a1064-6981-4e0b-8603-b393cf4ff96e.png",
             "title": "Shoes",
             "collection_link": ""
           },
@@ -436,7 +500,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "coats-jackets",
-            "image": "shopify:\/\/shop_images\/coat-jackets.png",
+            "image": "shopify://shop_images/coat-jackets.png",
             "title": "Coats & Jackets",
             "collection_link": ""
           },
@@ -446,7 +510,7 @@
           "type": "_collection_item",
           "settings": {
             "collection": "accessories",
-            "image": "shopify:\/\/shop_images\/accessories_e2f1ec34-7a50-471f-88f2-e9183ab8bda5.png",
+            "image": "shopify://shop_images/accessories_e2f1ec34-7a50-471f-88f2-e9183ab8bda5.png",
             "title": "Accessories",
             "collection_link": ""
           },
@@ -470,7 +534,10 @@
                 "heading": "Shop The Collections",
                 "line_height": "",
                 "heading_size": "h4",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             },
@@ -478,7 +545,7 @@
               "type": "_sub_heading_section",
               "name": "Subheading",
               "settings": {
-                "text": "<p>Shop the latest products from the most popular collections<\/p>",
+                "text": "<p>Shop the latest products from the most popular collections</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "lg",
@@ -528,6 +595,7 @@
         "col_tb": "3",
         "col_mb": "2",
         "space_items": "10",
+        "layout_mode": "carousel",
         "loop": false,
         "autoplay": 0,
         "pauseOnHover": false,
@@ -548,9 +616,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 50
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,100px,",
+        "pd_mb": ",,50px,"
       }
     },
     "featured_collection_PTq36A": {
@@ -587,7 +656,7 @@
           "type": "section-heading",
           "static": true,
           "settings": {
-            "design_heading": "5",
+            "design_heading": "1",
             "horizontal": false,
             "alignment": "center",
             "heading_gap": 0,
@@ -600,7 +669,10 @@
                 "heading": "New Arrival Products",
                 "line_height": "",
                 "heading_size": "h4",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             }
@@ -618,9 +690,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "wrapper_container",
-        "padding_top": 0,
-        "padding_bottom": 90,
-        "padding_rate": 75
+        "mg": "",
+        "mg_mb": "",
+        "pd": ",,90px,",
+        "pd_mb": ",,67px,"
       }
     },
     "custom_section_UtHPLd": {
@@ -641,6 +714,7 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
+            "content_width": "auto",
             "content_position": "center",
             "content_position_mb": "center",
             "alignment": "left",
@@ -652,7 +726,7 @@
             "heading_qAcFac": {
               "type": "heading",
               "settings": {
-                "heading": "<p>LOOKBOOK COLLECTIONS<\/p>",
+                "heading": "<p>LOOKBOOK COLLECTIONS</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -678,7 +752,7 @@
             "text_6xG6Xe": {
               "type": "text",
               "settings": {
-                "text": "<p>Cepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan<\/p>",
+                "text": "<p>Cepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -688,8 +762,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -710,17 +782,26 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/fashion-new",
+                "link": "shopify://collections/fashion-new",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "",
-                "font_size": "custom custom-inline",
+                "color_btn": "#ffffff",
+                "color_hover_btn": "#ffffff",
+                "background_btn": "#222222",
+                "background_hover_btn": "#333333",
+                "border_w_btn": "",
+                "border_btn": "#222222",
+                "border_hover_btn": "#333333",
+                "size": "xl",
+                "text_size": "hdt-text-base",
                 "font_weight": "semibold",
                 "font_size_btn": 14,
                 "padding_btn": 30,
                 "min_width_btn": 100,
                 "min_width_dt_btn": 184,
                 "min_height_btn": 25,
+                "rounded": "",
                 "icon": "arrow_right",
                 "icon_position": "after",
                 "icon_height": 14,
@@ -752,6 +833,7 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 15,
+            "content_width": "auto",
             "content_position": "center-end",
             "content_position_mb": "center",
             "alignment": "right",
@@ -765,8 +847,9 @@
               "name": "Media",
               "settings": {
                 "source": "image",
-                "image": "shopify:\/\/shop_images\/Group_19.png",
-                "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+                "image": "shopify://shop_images/Group_19.png",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                "video_loop": true
               },
               "blocks": {}
             }
@@ -790,9 +873,10 @@
         "color_scheme": "scheme-d6d6f807-34e9-4bde-ba1d-79bd3796a24b",
         "background_opacity": 1,
         "section_layout": "container",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 100
+        "mg": "",
+        "mg_mb": "",
+        "pd": "30px,,30px,",
+        "pd_mb": "30px,,30px,"
       }
     },
     "tabs_collection_TVptGX": {
@@ -933,7 +1017,10 @@
                 "heading": "Trending Products",
                 "line_height": "",
                 "heading_size": "h4",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             }
@@ -961,9 +1048,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 80,
-        "padding_bottom": 100,
-        "padding_rate": 50
+        "mg": "",
+        "mg_mb": "",
+        "pd": "80px,,100px,",
+        "pd_mb": "40px,,50px,"
       }
     },
     "custom_section_rNqGRf": {
@@ -984,6 +1072,7 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 0,
+            "content_width": "auto",
             "content_position": "center-start",
             "content_position_mb": "end-center",
             "alignment": "left",
@@ -1006,7 +1095,7 @@
             "heading_EJYUjf": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Keep up to Date with Our<br\/>New Collection and Exclusive Offers<\/p>",
+                "heading": "<p>Keep up to Date with Our<br/>New Collection and Exclusive Offers</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -1040,6 +1129,7 @@
             "spacing_v_tb": 30,
             "spacing_h_mb": 15,
             "spacing_v_mb": 0,
+            "content_width": "auto",
             "content_position": "center",
             "content_position_mb": "center",
             "alignment": "left",
@@ -1052,6 +1142,8 @@
               "type": "_liquid",
               "name": "Liquid",
               "settings": {
+                "option_type": "liquid",
+                "page": "",
                 "text": "<p style=\"height:0px;overflow:hidden\">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error distinctio deserunt iure, ipsum perferendis aut veniam! Quae deserunt est quasi odit, esse consequuntur animi eos modi pariatur po ssimus rerum!<p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
@@ -1069,9 +1161,10 @@
               "type": "_newsletter",
               "settings": {
                 "color_scheme": "scheme-c9476b69-abc7-454f-a946-2d5a9f5f3a37",
-                "des_newsletter": "5",
-                "newl_size": "medium",
+                "des_newsletter": "9",
+                "alignment": "left",
                 "button_lb": "Subscribe",
+                "size": "m",
                 "btn_fw": "semibold",
                 "agree_form": false,
                 "content": "I agree with the terms and conditions",
@@ -1119,10 +1212,11 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "section_background": "shopify:\/\/shop_images\/1_15c3f4a3-4acc-4e8a-bb44-550263d87851.jpg",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 50
+        "section_background": "shopify://shop_images/1_15c3f4a3-4acc-4e8a-bb44-550263d87851.jpg",
+        "mg": "",
+        "mg_mb": "",
+        "pd": "",
+        "pd_mb": ""
       }
     },
     "shipping_9pXycT": {
@@ -1138,7 +1232,7 @@
             "heading_GVDr7i": {
               "type": "heading",
               "settings": {
-                "heading": "<p>SAFE SHIPPING<\/p>",
+                "heading": "<p>SAFE SHIPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1164,7 +1258,7 @@
             "text_dMrMq7": {
               "type": "text",
               "settings": {
-                "text": "<p>Whether it's a sofa or a sheet set, delivery's<br\/>on the house.<\/p>",
+                "text": "<p>Whether it's a sofa or a sheet set, delivery's<br/>on the house.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1174,8 +1268,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -1193,13 +1285,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "medal",
-            "icon": "<svg class=\" t4s-icon-diamond\" viewbox=\"0 0 28 32\" width=\"28\" height=\"32\"><path d=\"M 27.467 10.667 l -6.293 -7.467 h -14.4 l -6.293 7.467 l -0.48 0.533 l 0.427 0.533 l 13.547 17.067 l 13.973 -17.6 l -0.48 -0.533 Z M 26.08 10.667 h -10.72 l 5.333 -6.347 l 5.387 6.347 Z M 13.92 10.667 l -5.547 -6.4 h 10.987 l -5.44 6.4 Z M 7.147 4.427 l 5.387 6.24 h -10.667 l 5.28 -6.24 Z M 13.44 11.733 v 14.667 l -11.68 -14.667 h 11.68 Z M 14.507 26.4 v -14.667 h 11.627 l -11.627 14.667 Z\"><\/path><\/svg>"
+            "icon": "<svg class=\" t4s-icon-diamond\" viewbox=\"0 0 28 32\" width=\"28\" height=\"32\"><path d=\"M 27.467 10.667 l -6.293 -7.467 h -14.4 l -6.293 7.467 l -0.48 0.533 l 0.427 0.533 l 13.547 17.067 l 13.973 -17.6 l -0.48 -0.533 Z M 26.08 10.667 h -10.72 l 5.333 -6.347 l 5.387 6.347 Z M 13.92 10.667 l -5.547 -6.4 h 10.987 l -5.44 6.4 Z M 7.147 4.427 l 5.387 6.24 h -10.667 l 5.28 -6.24 Z M 13.44 11.733 v 14.667 l -11.68 -14.667 h 11.68 Z M 14.507 26.4 v -14.667 h 11.627 l -11.627 14.667 Z\"></path></svg>"
           },
           "blocks": {
             "heading_K8g4ny": {
               "type": "heading",
               "settings": {
-                "heading": "<p>PREMIUM DESIGN<\/p>",
+                "heading": "<p>PREMIUM DESIGN</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1225,7 +1317,7 @@
             "text_CUr68b": {
               "type": "text",
               "settings": {
-                "text": "<p>Shop zillions of finds, with new arrivals<br\/>added daily.<\/p>",
+                "text": "<p>Shop zillions of finds, with new arrivals<br/>added daily.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1235,8 +1327,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -1254,13 +1344,13 @@
           "type": "_shipping",
           "settings": {
             "icon_themes": "refesh",
-            "icon": "<svg class=\" t4s-icon-gift\" viewbox=\"0 0 32 32\" width=\"32\" height=\"36\"><path d=\"M 22.544 9.602 c 0.889 -0.782 1.453 -1.924 1.453 -3.198 c 0 -2.352 -1.913 -4.265 -4.265 -4.265 c -1.605 0 -3.004 0.892 -3.732 2.205 c -0.728 -1.313 -2.127 -2.205 -3.732 -2.205 c -2.352 0 -4.265 1.913 -4.265 4.265 c 0 1.274 0.564 2.416 1.453 3.198 h -6.251 v 20.259 h 25.59 v -20.259 h -6.251 Z M 27.729 10.668 v 8.53 h -11.196 v -8.53 h 0.681 l 2.588 4.53 l 0.926 -0.529 l -2.286 -4.001 h 9.287 Z M 16 8.544 l 0.604 1.058 h -1.209 l 0.604 -1.058 Z M 19.732 3.205 c 1.764 0 3.199 1.435 3.199 3.199 s -1.435 3.198 -3.199 3.198 c -1.764 0 -3.199 -1.434 -3.199 -3.198 s 1.435 -3.199 3.199 -3.199 Z M 9.069 6.404 c 0 -1.764 1.435 -3.199 3.199 -3.199 s 3.199 1.435 3.199 3.199 c 0 1.763 -1.435 3.198 -3.199 3.198 s -3.199 -1.434 -3.199 -3.198 Z M 13.558 10.668 l -2.286 4 l 0.926 0.529 l 2.588 -4.53 h 0.681 v 8.53 h -11.196 v -8.53 h 9.287 Z M 4.271 20.265 h 11.196 v 8.53 h -11.196 v -8.53 Z M 16.533 28.794 v -8.53 h 11.196 v 8.53 h -11.196 Z\"><\/path><\/svg>"
+            "icon": "<svg class=\" t4s-icon-gift\" viewbox=\"0 0 32 32\" width=\"32\" height=\"36\"><path d=\"M 22.544 9.602 c 0.889 -0.782 1.453 -1.924 1.453 -3.198 c 0 -2.352 -1.913 -4.265 -4.265 -4.265 c -1.605 0 -3.004 0.892 -3.732 2.205 c -0.728 -1.313 -2.127 -2.205 -3.732 -2.205 c -2.352 0 -4.265 1.913 -4.265 4.265 c 0 1.274 0.564 2.416 1.453 3.198 h -6.251 v 20.259 h 25.59 v -20.259 h -6.251 Z M 27.729 10.668 v 8.53 h -11.196 v -8.53 h 0.681 l 2.588 4.53 l 0.926 -0.529 l -2.286 -4.001 h 9.287 Z M 16 8.544 l 0.604 1.058 h -1.209 l 0.604 -1.058 Z M 19.732 3.205 c 1.764 0 3.199 1.435 3.199 3.199 s -1.435 3.198 -3.199 3.198 c -1.764 0 -3.199 -1.434 -3.199 -3.198 s 1.435 -3.199 3.199 -3.199 Z M 9.069 6.404 c 0 -1.764 1.435 -3.199 3.199 -3.199 s 3.199 1.435 3.199 3.199 c 0 1.763 -1.435 3.198 -3.199 3.198 s -3.199 -1.434 -3.199 -3.198 Z M 13.558 10.668 l -2.286 4 l 0.926 0.529 l 2.588 -4.53 h 0.681 v 8.53 h -11.196 v -8.53 h 9.287 Z M 4.271 20.265 h 11.196 v 8.53 h -11.196 v -8.53 Z M 16.533 28.794 v -8.53 h 11.196 v 8.53 h -11.196 Z\"></path></svg>"
           },
           "blocks": {
             "heading_4YwXcW": {
               "type": "heading",
               "settings": {
-                "heading": "<p>BEAUTIFUL GIFT WRAPPING<\/p>",
+                "heading": "<p>BEAUTIFUL GIFT WRAPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1286,7 +1376,7 @@
             "text_XtgbKd": {
               "type": "text",
               "settings": {
-                "text": "<p>Use the Credit Card to save on your first<br\/>order over $250.<\/p>",
+                "text": "<p>Use the Credit Card to save on your first<br/>order over $250.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1296,8 +1386,6 @@
                 "text_color": "hdt-text-secondary",
                 "countdown": "2025-12-30 15:00:00",
                 "txt_day": "days",
-                "effect": "carousel",
-                "au_time": 3,
                 "font_size_text_lg": 16,
                 "font_size_text": 14,
                 "letter_spacing_text": 0
@@ -1310,6 +1398,18 @@
             "spacer_CFWFcq",
             "text_XtgbKd"
           ]
+        },
+        "section-heading-shipping": {
+          "type": "section-heading",
+          "static": true,
+          "settings": {
+            "design_heading": "1",
+            "horizontal": false,
+            "alignment": "left",
+            "heading_gap": 15,
+            "margin_bottom": 30
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -1335,9 +1435,27 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "padding_rate": 100
+        "mg": "",
+        "mg_mb": "",
+        "pd": "100px,,100px,",
+        "pd_mb": "100px,,100px,"
+      }
+    },
+    "1755067183c661e3bf": {
+      "type": "apps",
+      "blocks": {
+        "ecomrise_shoppable_video_app_block_Wceyxa": {
+          "type": "shopify://apps/ecomrise-upsell-bundle/blocks/shoppable-video-app-block/acb8bab5-decc-4989-8fb5-41075963cdef",
+          "settings": {
+            "gallery_id": "689c34122a57efdb1b0128a2"
+          }
+        }
+      },
+      "block_order": [
+        "ecomrise_shoppable_video_app_block_Wceyxa"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -1348,6 +1466,7 @@
     "custom_section_UtHPLd",
     "tabs_collection_TVptGX",
     "custom_section_rNqGRf",
-    "shipping_9pXycT"
+    "shipping_9pXycT",
+    "1755067183c661e3bf"
   ]
 }
