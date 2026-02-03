@@ -228,7 +228,7 @@
         "logo": "shopify:\/\/shop_images\/kalles.svg",
         "logo_width": 95,
         "header_colors": "scheme-c176c868-c395-48b7-8fb7-ff534f42d174",
-        "main_menu": "main-menu-1",
+        "main_menu": "main-menu",
         "lazy_mn": false,
         "menu_position": "center",
         "menu_size": "lg",

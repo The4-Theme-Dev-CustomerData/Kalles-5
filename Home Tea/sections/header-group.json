@@ -186,7 +186,7 @@
         "logo": "shopify:\/\/shop_images\/logo_black.png",
         "logo_width": 130,
         "header_colors": "",
-        "main_menu": "main-menu-1",
+        "main_menu": "main-menu",
         "lazy_mn": false,
         "menu_position": "center",
         "menu_size": "base",

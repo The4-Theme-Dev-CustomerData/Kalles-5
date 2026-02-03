@@ -241,7 +241,7 @@
         "logo": "shopify:\/\/shop_images\/logo_black.png",
         "logo_width": 95,
         "header_colors": "scheme-e3da6fb4-2e75-46a7-98be-2c98a2859807",
-        "main_menu": "main-menu-1",
+        "main_menu": "main-menu",
         "lazy_mn": false,
         "menu_position": "center",
         "menu_size": "lg",

@@ -224,7 +224,7 @@
           "type": "_menu_mobile",
           "static": true,
           "settings": {
-            "main_menu_mobile": "main-menu-1",
+            "main_menu_mobile": "main-menu",
             "menu_categories": "",
             "only_click_icon": false,
             "header_mobile_colors": "",
@@ -252,7 +252,7 @@
         "logo": "shopify:\/\/shop_images\/logo_black.png",
         "logo_width": 95,
         "header_colors": "",
-        "main_menu": "main-menu-1",
+        "main_menu": "main-menu",
         "lazy_mn": false,
         "menu_position": "center",
         "menu_size": "lg",
