@@ -120,7 +120,7 @@
         "slide_item_GJUjrL": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify://shop_images/slide3.webp",
+            "image": "shopify://shop_images/slide3.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
@@ -234,7 +234,7 @@
         "slide_item_GJUjrO": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify://shop_images/slide2.webp",
+            "image": "shopify://shop_images/slide2.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",

@@ -1,61 +1,35 @@
 {
   "sections": {
-    "slideshow_EVrUzi": {
-      "type": "slideshow",
+    "banners_LARFew": {
+      "type": "banners",
       "blocks": {
-        "slide_item_GJUjrM": {
-          "type": "_slide-item",
+        "banner_item_MJERAh": {
+          "type": "_banner-item",
           "settings": {
-            "image": "shopify://shop_images/main-slide_6c16a25b-8839-455b-a2c7-cab25f426a0a.jpg",
-            "url": "",
+            "banner_url": "",
             "banner_target": false,
-            "color_scheme": "scheme-1",
+            "img_effect": "zoom",
+            "b_effect": "none",
+            "colors_by_block": true,
+            "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
+            "gap_r": 20,
+            "gap_c": 20,
             "content_position": "center",
             "alignment": "center",
+            "gap_r_mb": 20,
+            "gap_c_mb": 20,
             "content_position_mb": "center",
-            "alignment_mb": "center",
-            "background_content": false,
-            "bg_opacity": 0,
-            "box_square": false,
-            "content_rounded": false,
-            "use_border_content": false,
-            "border_opacity": 0,
-            "border_style": "none",
-            "border_pd_dk": 0,
-            "padding_vertical": 30,
-            "padding_horizontal": 30,
-            "min_width_content": 350,
-            "border_pd": 0
+            "alignment_mb": "center"
           },
           "blocks": {
-            "text_YrQhtV": {
-              "type": "text",
-              "name": "Text",
-              "settings": {
-                "text": "<p>SUMMER COLLECTION</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "custom",
-                "line_height": "",
-                "font_weight": "semibold",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 20,
-                "font_size_text": 16,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            },
-            "heading_MzV9Ty": {
+            "heading_33jxQw": {
               "type": "heading",
               "settings": {
-                "heading": "<p>HUGE SALE 70% OFF</p>",
+                "heading": "<p><strong>CLEARANCE SALE OFF TO 70%</strong></p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
-                "line_height": "",
-                "font_weight": "semibold",
+                "line_height": "auto",
+                "font_weight": "normal",
                 "heading_size": "h1",
                 "text_color": "hdt-s-text",
                 "font_size_heading_lg": 50,
@@ -64,409 +38,183 @@
               },
               "blocks": {}
             },
-            "spacer_fFNyjC": {
-              "type": "spacer",
-              "name": "Spacer",
+            "text_GCAgKa": {
+              "type": "text",
               "settings": {
-                "direction": false,
-                "space_lg": 10,
-                "space_md": 10,
-                "space": 10
+                "text": "<p><em>Spring Collection 2025</em></p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "ffamily": "--f_family_3",
+                "text_size": "2xl",
+                "line_height": "",
+                "font_weight": "normal",
+                "text_color": "hdt-s-text",
+                "countdown": "2025-12-30 15:00:00",
+                "txt_day": "days",
+                "font_size_text_lg": 16,
+                "font_size_text": 14,
+                "letter_spacing_text": 0
               },
               "blocks": {}
             },
-            "button_group_jkyyGz": {
-              "type": "_button_group",
-              "name": "Button Group",
+            "spacer_c6ER6P": {
+              "type": "spacer",
               "settings": {
-                "vertical_btns": false
+                "direction": false,
+                "space_lg": 20,
+                "space_md": 20,
+                "space": 20
               },
-              "blocks": {
-                "button_6RUMBq": {
-                  "type": "button",
-                  "settings": {
-                    "label": "Men",
-                    "link": "shopify://collections/men",
-                    "open_in_new_tab": false,
-                    "full_width": false,
-                    "btn_style": "",
-                    "size": "custom custom-inline",
-                    "font_weight": "semibold",
-                    "font_size_btn": 14,
-                    "padding_btn": 61,
-                    "min_width_btn": 100,
-                    "min_width_dt_btn": 152,
-                    "min_height_btn": 25,
-                    "icon": "none",
-                    "icon_position": "after",
-                    "icon_height": 14,
-                    "icon_spacing": 5
-                  },
-                  "blocks": {}
-                },
-                "button_aQGJXt": {
-                  "type": "button",
-                  "settings": {
-                    "label": "Women",
-                    "link": "shopify://collections/women",
-                    "open_in_new_tab": false,
-                    "full_width": false,
-                    "btn_style": "",
-                    "size": "custom custom-inline",
-                    "font_weight": "semibold",
-                    "font_size_btn": 14,
-                    "padding_btn": 61,
-                    "min_width_btn": 100,
-                    "min_width_dt_btn": 152,
-                    "min_height_btn": 25,
-                    "icon": "none",
-                    "icon_position": "after",
-                    "icon_height": 14,
-                    "icon_spacing": 5
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "button_6RUMBq",
-                "button_aQGJXt"
-              ]
-            }
-          },
-          "block_order": [
-            "text_YrQhtV",
-            "heading_MzV9Ty",
-            "spacer_fFNyjC",
-            "button_group_jkyyGz"
-          ]
-        }
-      },
-      "block_order": [
-        "slide_item_GJUjrM"
-      ],
-      "custom_css": [
-        ".hdt-button-block {max-width: 152px;}",
-        ".hdt-btn {padding-block: 5px;}"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 700,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 400,
-        "is_fade": false,
-        "loop": false,
-        "autoplay": 0,
-        "pauseOnHover": false,
-        "navUI": false,
-        "nav_visible": "always",
-        "nav_style": "default",
-        "nav_shape": "default",
-        "nav_size": "small",
-        "nav_hide_mobile": false,
-        "dotUI": true,
-        "pag_style": "default",
-        "pag_position": "center",
-        "pag_rounded": true,
-        "pag_space": 10,
-        "pag_mgt": 20,
-        "pag_hide_mobile": false,
-        "colors_by_section": false,
-        "color_scheme": "",
-        "background_opacity": 0,
-        "full_width": true,
-        "mg": "",
-        "mg_mb": "",
-        "pd": ",,30px,",
-        "pd_mb": ",,30px,"
-      }
-    },
-    "custom_section_NVWAfK": {
-      "type": "custom-section",
-      "blocks": {
-        "multi_column_tzFLr7": {
-          "type": "_multi_column",
-          "settings": {
-            "column_dk": "4",
-            "column_tb": "4",
-            "column_mb": "12",
-            "column_dk_10": "5",
-            "column_tb_10": "5",
-            "column_mb_10": "10",
-            "spacing_h_dk": 15,
-            "spacing_v_dk": 19,
-            "spacing_h_tb": 15,
-            "spacing_v_tb": 15,
-            "spacing_h_mb": 15,
-            "spacing_v_mb": 15,
-            "content_width": "auto",
-            "content_position": "center",
-            "content_position_mb": "center",
-            "alignment": "center",
-            "alignment_mb": "center",
-            "background_color": "#f2f2f4",
-            "rounded": "none"
-          },
-          "blocks": {
-            "text_nzBD9Q": {
-              "type": "text",
+              "blocks": {}
+            },
+            "button_Cm8BDy": {
+              "type": "button",
               "settings": {
-                "text": "<p><strong>FREE SHIPPING </strong>ALL ORDERS OVER $100</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "sm",
-                "line_height": "",
-                "font_weight": "normal",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
+                "label": "Shop now",
+                "link": "shopify://collections",
+                "open_in_new_tab": false,
+                "full_width": false,
+                "btn_style": "hdt-btn-outline-hover-accent",
+                "size": "xl",
+                "font_weight": "semibold",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            },
+            "banner-media": {
+              "type": "_media",
+              "static": true,
+              "settings": {
+                "source": "image",
+                "image": "shopify://shop_images/bg-loobook.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
           },
           "block_order": [
-            "text_nzBD9Q"
+            "heading_33jxQw",
+            "text_GCAgKa",
+            "spacer_c6ER6P",
+            "button_Cm8BDy"
           ]
         },
-        "multi_column_VYjn8w": {
-          "type": "_multi_column",
-          "settings": {
-            "column_dk": "4",
-            "column_tb": "4",
-            "column_mb": "12",
-            "column_dk_10": "5",
-            "column_tb_10": "5",
-            "column_mb_10": "10",
-            "spacing_h_dk": 15,
-            "spacing_v_dk": 9,
-            "spacing_h_tb": 15,
-            "spacing_v_tb": 15,
-            "spacing_h_mb": 15,
-            "spacing_v_mb": 15,
-            "content_width": "auto",
-            "content_position": "center",
-            "content_position_mb": "center",
-            "alignment": "center",
-            "alignment_mb": "center",
-            "background_color": "#f2f2f4",
-            "rounded": "none"
-          },
-          "blocks": {
-            "text_bjNJEW": {
-              "type": "text",
-              "settings": {
-                "text": "<p>SUMMER <strong>SALE OFF </strong>TO <strong>50%</strong></p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "sm",
-                "line_height": "",
-                "font_weight": "normal",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_bjNJEW"
-          ]
-        },
-        "multi_column_wteWfM": {
-          "type": "_multi_column",
-          "settings": {
-            "column_dk": "4",
-            "column_tb": "4",
-            "column_mb": "12",
-            "column_dk_10": "5",
-            "column_tb_10": "5",
-            "column_mb_10": "10",
-            "spacing_h_dk": 15,
-            "spacing_v_dk": 19,
-            "spacing_h_tb": 15,
-            "spacing_v_tb": 15,
-            "spacing_h_mb": 15,
-            "spacing_v_mb": 15,
-            "content_width": "auto",
-            "content_position": "center",
-            "content_position_mb": "center",
-            "alignment": "center",
-            "alignment_mb": "center",
-            "background_color": "#f2f2f4",
-            "rounded": "none"
-          },
-          "blocks": {
-            "text_GYNqGn": {
-              "type": "text",
-              "settings": {
-                "text": "<p>WE SUPPORT <strong>24 HOURS </strong>A DAY</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "sm",
-                "line_height": "",
-                "font_weight": "normal",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_GYNqGn"
-          ]
-        }
-      },
-      "block_order": [
-        "multi_column_tzFLr7",
-        "multi_column_VYjn8w",
-        "multi_column_wteWfM"
-      ],
-      "custom_css": [
-        "strong {font-weight: var(--font-semibold);}"
-      ],
-      "name": "Custom section",
-      "settings": {
-        "layout": "12",
-        "item_spacing": 30,
-        "item_spacing_tb": 15,
-        "item_spacing_mb": 15,
-        "colors_by_section": false,
-        "color_scheme": "",
-        "background_opacity": 0,
-        "section_layout": "container",
-        "mg": "",
-        "mg_mb": "",
-        "pd": ",,30px,",
-        "pd_mb": ",,30px,"
-      }
-    },
-    "collections_list_manual_eErqxt": {
-      "type": "collections-list-manual",
-      "blocks": {
-        "collection_manual_item_AEWjQE": {
-          "type": "_collection_manual-item",
-          "settings": {
-            "collection": "women",
-            "image": "shopify://shop_images/cat-women_f9496226-8e73-4f50-9b36-f0bc9c685aee.jpg",
-            "title": "women",
-            "collection_link": "",
-            "column_width": "3",
-            "row_count": 1,
-            "tb_column_width": "4",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          },
-          "blocks": {}
-        },
-        "collection_manual_item_tXNANF": {
-          "type": "_collection_manual-item",
-          "settings": {
-            "collection": "watch",
-            "image": "shopify://shop_images/cat-watch_814bb698-c923-4ce4-9045-2a137e04ef49.jpg",
-            "title": "watch collection",
-            "collection_link": "",
-            "column_width": "6",
-            "row_count": 2,
-            "tb_column_width": "4",
-            "tb_row_count": 1,
-            "mb_column_width": "2",
-            "mb_row_count": 2
-          },
-          "blocks": {}
-        },
-        "collection_manual_item_PJrx7J": {
-          "type": "_collection_manual-item",
-          "settings": {
-            "collection": "men",
-            "image": "shopify://shop_images/cat-men_a5377fb4-7c07-4331-b746-4f16fb4e1165.jpg",
-            "title": "men",
-            "collection_link": "",
-            "column_width": "3",
-            "row_count": 1,
-            "tb_column_width": "4",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          },
-          "blocks": {}
-        },
-        "collection_manual_item_YDPY8G": {
-          "type": "_collection_manual-item",
-          "settings": {
-            "collection": "accessories",
-            "image": "shopify://shop_images/cat-accessories_7b0a98e4-0c86-4d36-bc02-394a499a7f4a.jpg",
-            "title": "accessories",
-            "collection_link": "",
-            "column_width": "3",
-            "row_count": 1,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          },
-          "blocks": {}
-        },
-        "collection_manual_item_D67f4i": {
-          "type": "_collection_manual-item",
-          "settings": {
-            "collection": "shoes",
-            "image": "shopify://shop_images/cat-shoes.jpg",
-            "title": "shoes",
-            "collection_link": "",
-            "column_width": "3",
-            "row_count": 1,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          },
-          "blocks": {}
-        },
-        "collections-list-manual-heading": {
+        "banner-heading": {
           "type": "section-heading",
-          "disabled": true,
           "static": true,
           "settings": {
-            "design_heading": "2",
+            "design_heading": "1",
             "horizontal": false,
-            "alignment": "center",
-            "heading_gap": 0,
+            "alignment": "left",
+            "heading_gap": 15,
             "margin_bottom": 30
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "collection_manual_item_AEWjQE",
-        "collection_manual_item_tXNANF",
-        "collection_manual_item_PJrx7J",
-        "collection_manual_item_YDPY8G",
-        "collection_manual_item_D67f4i"
-      ],
-      "custom_css": [
-        ".hdt-collection-wrapper {color: white; background-color: black;}"
+        "banner_item_MJERAh"
       ],
       "settings": {
+        "image_height": "full",
+        "fixed_height": 400,
+        "image_height_mb": "full",
+        "fixed_height_mb": 300,
+        "space_items": "x",
+        "space_items_tb": "15px",
+        "space_items_mb": "15px",
+        "col_dk": "1",
+        "col_tb": "1",
+        "col_mb": "1",
+        "scrollsnap": false,
+        "colors_by_section": false,
+        "color_scheme": "",
+        "background_opacity": 0,
+        "section_layout": "full_width",
+        "pd": ",,30px,",
+        "pd_mb": ",,30px,",
+        "mg": "",
+        "mg_mb": ""
+      }
+    },
+    "collections_list_NycGKR": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_gdBJcF": {
+          "type": "_collection_item",
+          "settings": {
+            "collection": "footwear",
+            "image": "shopify://shop_images/cat-bn-01.jpg",
+            "title": "Footwear",
+            "collection_link": ""
+          },
+          "blocks": {}
+        },
+        "collection_item_HMkVJM": {
+          "type": "_collection_item",
+          "settings": {
+            "collection": "watch",
+            "image": "shopify://shop_images/cat-bn-03.jpg",
+            "title": "Watches",
+            "collection_link": ""
+          },
+          "blocks": {}
+        },
+        "collection_item_WRG8hX": {
+          "type": "_collection_item",
+          "settings": {
+            "collection": "bags",
+            "image": "shopify://shop_images/cat-bn-02.jpg",
+            "title": "Bags",
+            "collection_link": ""
+          },
+          "blocks": {}
+        },
+        "collection_item_ac3XYp": {
+          "type": "_collection_item",
+          "settings": {
+            "collection": "hat",
+            "image": "shopify://shop_images/cat-bn-04.jpg",
+            "title": "Caps & Hats",
+            "collection_link": ""
+          },
+          "blocks": {}
+        },
+        "section-heading-collections-list": {
+          "type": "section-heading",
+          "static": true,
+          "settings": {
+            "design_heading": "1",
+            "horizontal": false,
+            "alignment": "left",
+            "heading_gap": 15,
+            "margin_bottom": 30
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "collection_item_gdBJcF",
+        "collection_item_HMkVJM",
+        "collection_item_WRG8hX",
+        "collection_item_ac3XYp"
+      ],
+      "custom_css": [
+        "{padding-inline: 15px;}",
+        "@media (min-width: 768px) {{padding-inline: 30px; }}"
+      ],
+      "settings": {
+        "collection_list": [],
         "collection_des": "1",
         "content_size": "base",
-        "font_size_text_lg": 22,
-        "font_size_text_md": 14,
-        "font_size_text": 14,
-        "font_weight_text": 400,
-        "letter_spacing_text": 0,
         "content_weight": "semibold",
         "content_position": "end-center",
         "content_space": 20,
@@ -475,335 +223,681 @@
         "image_rounded": false,
         "enable_border": false,
         "image_padding": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
         "img_effect": "zoom",
-        "b_effect": "none",
-        "row_height": 300,
-        "row_height_tb": 300,
-        "row_height_mb": 200,
-        "space_items": "var(--spacing-x)",
-        "space_items_tb": "var(--spacing-x)",
-        "space_items_mb": "var(--spacing-x)",
+        "b_effect": "border-run",
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "1",
+        "space_items": "x",
+        "layout_mode": "carousel",
+        "loop": false,
+        "autoplay": 0,
+        "pauseOnHover": false,
+        "navUI": true,
+        "nav_position": "default",
+        "nav_visible": "hover",
+        "nav_style": "default",
+        "nav_shape": "rounded",
+        "nav_size": "small",
+        "nav_hide_mobile": false,
+        "dotUI": false,
+        "pag_style": "default",
+        "pag_rounded": false,
+        "pag_space": 10,
+        "pag_mgt": 10,
+        "pag_hide_mobile": false,
         "colors_by_section": false,
         "color_scheme": "scheme-1",
         "background_opacity": 0,
-        "section_layout": "wrapper_container",
+        "section_layout": "full_width",
+        "pd": ",,30px,",
+        "pd_mb": ",,30px,",
         "mg": "",
-        "mg_mb": "",
-        "pd": ",,100px,",
-        "pd_mb": ",,75px,"
+        "mg_mb": ""
       }
     },
-    "tabs_collection_dVJh7M": {
-      "type": "tabs-collection",
+    "banners_3CAnrV": {
+      "type": "banners",
       "blocks": {
-        "tab_collection_RVXXQG": {
-          "type": "_tab-collection",
+        "banner_item_prrCn3": {
+          "type": "_banner-item",
           "settings": {
-            "title": "Women",
-            "collection": "women"
+            "banner_url": "shopify://collections/bags",
+            "banner_target": false,
+            "img_effect": "zoom",
+            "b_effect": "none",
+            "colors_by_block": false,
+            "color_scheme": "",
+            "gap_r": 20,
+            "gap_c": 20,
+            "content_position": "end-start",
+            "alignment": "left",
+            "gap_r_mb": 20,
+            "gap_c_mb": 20,
+            "content_position_mb": "end-start",
+            "alignment_mb": "left"
           },
           "blocks": {
-            "product_grid_HCgNFh": {
-              "type": "_product-grid",
+            "text_An6kGP": {
+              "type": "text",
               "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "adapt_image",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "10",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
+                "text": "<p>VIEW COLLECTIONS</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "ffamily": "",
+                "text_size": "custom",
+                "line_height": "",
+                "font_weight": "medium",
+                "text_color": "hdt-s-text",
+                "countdown": "2025-12-30 15:00:00",
+                "txt_day": "days",
+                "font_size_text_lg": 16,
+                "font_size_text": 14,
+                "letter_spacing_text": 1
+              },
+              "blocks": {}
+            },
+            "heading_7DDRrM": {
+              "type": "heading",
+              "settings": {
+                "heading": "<p>LOOKBOOK</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "",
+                "font_weight": "semibold",
+                "heading_size": "h3",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "text_mme6TH": {
+              "type": "text",
+              "settings": {
+                "text": "<p>your world of fashion in numbers</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "ffamily": "",
+                "text_size": "base",
+                "line_height": "",
+                "font_weight": "normal",
+                "text_color": "hdt-text-secondary",
+                "countdown": "2025-12-30 15:00:00",
+                "txt_day": "days",
+                "font_size_text_lg": 16,
+                "font_size_text": 14,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "banner-media": {
+              "type": "_media",
+              "static": true,
+              "settings": {
+                "source": "image",
+                "image": "shopify://shop_images/bn-01.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
           },
           "block_order": [
-            "product_grid_HCgNFh"
+            "text_An6kGP",
+            "heading_7DDRrM",
+            "text_mme6TH"
           ]
         },
-        "tab_collection_V9iBfE": {
-          "type": "_tab-collection",
+        "banner_product_item_QFfrPw": {
+          "type": "_banner-product-item",
           "settings": {
-            "title": "Men",
-            "collection": "men"
+            "product": "la-boheme-rose-gold",
+            "colors_by_block": false,
+            "color_scheme": ""
+          },
+          "blocks": {}
+        },
+        "banner_item_JMKVxM": {
+          "type": "_banner-item",
+          "disabled": true,
+          "settings": {
+            "banner_url": "",
+            "banner_target": false,
+            "img_effect": "none",
+            "b_effect": "none",
+            "colors_by_block": false,
+            "color_scheme": "",
+            "gap_r": 20,
+            "gap_c": 20,
+            "content_position": "center",
+            "alignment": "center",
+            "gap_r_mb": 20,
+            "gap_c_mb": 20,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
           },
           "blocks": {
-            "product_grid_cPgd36": {
-              "type": "_product-grid",
+            "heading_KbVtVU": {
+              "type": "heading",
               "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "x",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
+                "heading": "<p>SALE OFF UP TO 70%</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "auto",
+                "font_weight": "normal",
+                "heading_size": "h5",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "text_Uze7Xm": {
+              "type": "text",
+              "settings": {
+                "text": "<p>SS 2025 New Arrival</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "ffamily": "",
+                "text_size": "4xl",
+                "line_height": "",
+                "font_weight": "normal",
+                "text_color": "hdt-s-text",
+                "countdown": "2025-12-30 15:00:00",
+                "txt_day": "days",
+                "font_size_text_lg": 16,
+                "font_size_text": 14,
+                "letter_spacing_text": 0
+              },
+              "blocks": {}
+            },
+            "spacer_6Cdgaa": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 50,
+                "space_md": 50,
+                "space": 50
+              },
+              "blocks": {}
+            },
+            "button_7gQNCY": {
+              "type": "button",
+              "settings": {
+                "label": "Shop now",
+                "link": "",
+                "open_in_new_tab": false,
+                "full_width": false,
                 "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
+                "size": "m",
+                "font_weight": "normal",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            },
+            "banner-media": {
+              "type": "_media",
+              "static": true,
+              "settings": {
+                "source": "image",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
           },
           "block_order": [
-            "product_grid_cPgd36"
+            "heading_KbVtVU",
+            "text_Uze7Xm",
+            "spacer_6Cdgaa",
+            "button_7gQNCY"
           ]
         },
-        "tab_collection_pEWVW7": {
-          "type": "_tab-collection",
+        "banner_item_hxQtaw": {
+          "type": "_banner-item",
           "settings": {
-            "title": "Accessories",
-            "collection": "accessories"
+            "banner_url": "shopify://collections/men",
+            "banner_target": false,
+            "img_effect": "zoom",
+            "b_effect": "none",
+            "colors_by_block": false,
+            "color_scheme": "",
+            "gap_r": 20,
+            "gap_c": 20,
+            "content_position": "center",
+            "alignment": "center",
+            "gap_r_mb": 20,
+            "gap_c_mb": 20,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
           },
           "blocks": {
-            "product_grid_Ur64ki": {
-              "type": "_product-grid",
+            "heading_iefWam": {
+              "type": "heading",
               "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "x",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
+                "heading": "<p>MEN'S COLLECTION</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "auto",
+                "font_weight": "medium",
+                "heading_size": "h_custom",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 18,
+                "font_size_heading": 14,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "heading_NhKt4d": {
+              "type": "heading",
+              "settings": {
+                "heading": "<p>UP TO <br/>70%</p>",
+                "hidden_br_mobile": false,
+                "hidden_on_mobile": false,
+                "line_height": "hdt-lh-1",
+                "font_weight": "semibold",
+                "heading_size": "h_custom",
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 34,
+                "letter_spacing_heading": 0
+              },
+              "blocks": {}
+            },
+            "spacer_cQJY4Y": {
+              "type": "spacer",
+              "settings": {
+                "direction": false,
+                "space_lg": 10,
+                "space_md": 10,
+                "space": 10
+              },
+              "blocks": {}
+            },
+            "button_mKNLWQ": {
+              "type": "button",
+              "settings": {
+                "label": "Shop now",
+                "link": "shopify://collections/men",
+                "open_in_new_tab": false,
+                "full_width": false,
+                "btn_style": "hdt-btn-outline",
                 "size": "xl",
-                "btn_fw": "medium"
+                "font_weight": "semibold",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40,
+                "icon": "none",
+                "icon_position": "after",
+                "icon_height": 16,
+                "icon_spacing": 5
+              },
+              "blocks": {}
+            },
+            "banner-media": {
+              "type": "_media",
+              "static": true,
+              "settings": {
+                "source": "image",
+                "image": "shopify://shop_images/pr-big-26.jpg",
+                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}
             }
           },
           "block_order": [
-            "product_grid_Ur64ki"
+            "heading_iefWam",
+            "heading_NhKt4d",
+            "spacer_cQJY4Y",
+            "button_mKNLWQ"
           ]
         },
-        "tab_collection_ABpgjh": {
-          "type": "_tab-collection",
-          "settings": {
-            "title": "Top",
-            "collection": "best-seller"
-          },
-          "blocks": {
-            "product_grid_iFnfy3": {
-              "type": "_product-grid",
-              "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "10",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "product_grid_iFnfy3"
-          ]
-        },
-        "tab_collection_tjcVXc": {
-          "type": "_tab-collection",
-          "settings": {
-            "title": "Bottoms",
-            "collection": "shoes"
-          },
-          "blocks": {
-            "product_grid_7f7NdE": {
-              "type": "_product-grid",
-              "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "10",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "product_grid_7f7NdE"
-          ]
-        },
-        "tab_collection_QJypYn": {
-          "type": "_tab-collection",
-          "settings": {
-            "title": "Shoes",
-            "collection": ""
-          },
-          "blocks": {
-            "product_grid_prfrf7": {
-              "type": "_product-grid",
-              "settings": {
-                "collection": "",
-                "products_count": 8,
-                "product_list": [
-                  "copy-of-3ce-body-whitening-shampoo",
-                  "deluxe-brand-uomo-slide-hi-tops",
-                  "deluxe-brand-donna-super-star-scarpe",
-                  "gold-foil-chunky-leather-sneakers",
-                  "adidas-copa-primeknit-sneakers",
-                  "capri-fiore-lowtop-men-koio-shoes",
-                  "birkenstock-boston-suede",
-                  "classic-slip-on-shoes",
-                  "converse-chuck-taylor-uomo-verde"
-                ],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "10",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "product_grid_prfrf7"
-          ]
-        },
-        "tab_collection_xDpyWX": {
-          "type": "_tab-collection",
-          "settings": {
-            "title": "Jewellry",
-            "collection": "jewelry-2"
-          },
-          "blocks": {
-            "product_grid_pzciDK": {
-              "type": "_product-grid",
-              "settings": {
-                "collection": "{{ closest.collection }}",
-                "products_count": 8,
-                "product_list": [],
-                "pr_border": "none",
-                "product_des": "1",
-                "image_ratio": "asos",
-                "image_size": true,
-                "show_vendor": true,
-                "col_dk": "4",
-                "col_tb": "4",
-                "col_mb": "2",
-                "space_items": "10",
-                "pagination": true,
-                "pagination_type": "load_more",
-                "paginate_pos": "center",
-                "dis_pagination": 30,
-                "btn_label": "Load More",
-                "btn_style": "",
-                "endable_btn_icon": true,
-                "size": "xl",
-                "btn_fw": "medium"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "product_grid_pzciDK"
-          ]
-        },
-        "tabs-collection-heading": {
+        "banner-heading": {
           "type": "section-heading",
           "static": true,
           "settings": {
             "design_heading": "1",
+            "horizontal": false,
+            "alignment": "left",
+            "heading_gap": 15,
+            "margin_bottom": 30
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "banner_item_prrCn3",
+        "banner_product_item_QFfrPw",
+        "banner_item_JMKVxM",
+        "banner_item_hxQtaw"
+      ],
+      "custom_css": [
+        ".hdt-row-grid {--spacing-y: 30px;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 470,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "space_items": "var(--spacing-x)",
+        "space_items_tb": "var(--spacing-x)",
+        "space_items_mb": "var(--spacing-x)",
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "scrollsnap": false,
+        "colors_by_section": false,
+        "color_scheme": "",
+        "background_opacity": 0,
+        "section_layout": "container",
+        "pd": ",,100px,",
+        "pd_mb": ",,49px,",
+        "mg": "",
+        "mg_mb": ""
+      }
+    },
+    "lookbook_grid_CrLYyr": {
+      "type": "lookbook-grid",
+      "blocks": {
+        "lookbook_3A8jyM": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-01.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_Yph93z": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 25,
+                "top": 57,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "cluse-la-boheme-rose-gold",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_Yph93z"
+          ]
+        },
+        "lookbook_JaQtEh": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-02.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_HJm8w7": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 50,
+                "top": 50,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "flowy-washed-shorts",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_HJm8w7"
+          ]
+        },
+        "lookbook_AxjQpR": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-03.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_CyV3ac": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 75,
+                "top": 75,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "crossover-black-watch",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_CyV3ac"
+          ]
+        },
+        "lookbook_in9m3x": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-04.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_NMmatY": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 42,
+                "top": 42,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "high-waist-skinny-jean",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_NMmatY"
+          ]
+        },
+        "lookbook_JdcDRX": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-05.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_cBHBV9": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 23,
+                "top": 26,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "copy-of-farr-push-up-yoga-set",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_cBHBV9"
+          ]
+        },
+        "lookbook_yxNGKz": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-06.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_9QaQLT": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 23,
+                "top": 26,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "carissa-baby-doll-mini-dress",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_9QaQLT"
+          ]
+        },
+        "lookbook_rKdRzm": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-07.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_YcNmJn": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 23,
+                "top": 57,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "converse-chuck-taylor-uomo-verde",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_YcNmJn"
+          ]
+        },
+        "lookbook_TEpGhK": {
+          "type": "_lookbook",
+          "settings": {
+            "image": "shopify://shop_images/bg-pin-08.jpg",
+            "img_effect": "zoom",
+            "b_effect": "none"
+          },
+          "blocks": {
+            "pin_product_Yix4Ve": {
+              "type": "_pin-product",
+              "settings": {
+                "pin_bg": "#222222",
+                "pin_text": "#ffffff",
+                "left": 55,
+                "top": 64,
+                "pin_size": "medium",
+                "pin_type": "showtext",
+                "text": "1",
+                "product": "chrono-gunmetal-sandstone-watch",
+                "product_des": "1",
+                "image_ratio": "adapt_image",
+                "image_size": true,
+                "show_vendor": false,
+                "placement": "top"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "pin_product_Yix4Ve"
+          ]
+        },
+        "lookbook-heading": {
+          "type": "section-heading",
+          "static": true,
+          "settings": {
+            "design_heading": "2",
             "horizontal": false,
             "alignment": "center",
             "heading_gap": 0,
             "margin_bottom": 30
           },
           "blocks": {
-            "heading_section_q6rnKF": {
+            "heading_section_VYetiQ": {
               "type": "_heading_section",
+              "name": "Heading",
               "settings": {
-                "heading": "best seller products",
+                "heading": "INSTAGRAM SHOP",
                 "line_height": "",
                 "heading_size": "h5",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             },
-            "sub_heading_section_NyeKjG": {
+            "sub_heading_section_HDR6gP": {
               "type": "_sub_heading_section",
+              "name": "Subheading",
               "settings": {
-                "text": "<p><em>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!</em></p>",
+                "text": "<p><em>Make your Instagram shop</em></p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -816,256 +910,47 @@
             }
           },
           "block_order": [
-            "heading_section_q6rnKF",
-            "sub_heading_section_NyeKjG"
+            "heading_section_VYetiQ",
+            "sub_heading_section_HDR6gP"
           ]
         }
       },
       "block_order": [
-        "tab_collection_RVXXQG",
-        "tab_collection_V9iBfE",
-        "tab_collection_pEWVW7",
-        "tab_collection_ABpgjh",
-        "tab_collection_tjcVXc",
-        "tab_collection_QJypYn",
-        "tab_collection_xDpyWX"
+        "lookbook_3A8jyM",
+        "lookbook_JaQtEh",
+        "lookbook_AxjQpR",
+        "lookbook_in9m3x",
+        "lookbook_JdcDRX",
+        "lookbook_yxNGKz",
+        "lookbook_rKdRzm",
+        "lookbook_TEpGhK"
       ],
       "custom_css": [
-        "[loadmore-btn-wrapp] {--section-prate: 100;}",
-        ".hdt-loamore-btn {border-radius: 60px;}",
-        "@media (width >= 1440px) {.hdt-loamore-btn {margin-bottom: 30px; }}"
+        ".hdt-lookbook-item .hdt-image {border-radius: 10px; overflow: hidden;}"
       ],
-      "name": "t:sections.tabs_collections.grid_name",
+      "name": "t:sections.lookbook.name_2",
       "settings": {
-        "tabs_des": "underline",
-        "tabs_list_pos": "center",
-        "tab_item_size": "lg",
-        "tab_item_border": "solid",
-        "border_width": 2,
-        "spacing_tabs_items": 30,
-        "tabs_head_spacing": 30,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "15",
+        "space_items_mb": "5",
+        "image_ratio": "adapt_image",
+        "image_size": true,
         "colors_by_section": false,
         "color_scheme": "",
         "background_opacity": 0,
-        "section_layout": "container",
+        "section_layout": "full_width",
+        "pd": ",,80px,",
+        "pd_mb": ",,60px,",
         "mg": "",
-        "mg_mb": "",
-        "pd": ",,100px,",
-        "pd_mb": ",,50px,"
-      }
-    },
-    "banner_VyWanM": {
-      "type": "banners",
-      "blocks": {
-        "banner_item_CCbabr": {
-          "type": "_banner-item",
-          "settings": {
-            "banner_url": "shopify://collections/women",
-            "banner_target": false,
-            "img_effect": "rotate",
-            "b_effect": "none",
-            "colors_by_block": false,
-            "color_scheme": "scheme-1",
-            "gap_r": 20,
-            "gap_c": 20,
-            "content_position": "center",
-            "alignment": "center",
-            "gap_r_mb": 20,
-            "gap_c_mb": 20,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          },
-          "blocks": {
-            "liquid_HiCy9a": {
-              "type": "_liquid",
-              "name": "Liquid",
-              "settings": {
-                "option_type": "liquid",
-                "page": "",
-                "text": "LOOKBOOK {{ 'now' | date: \"%Y\"}}",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "custom",
-                "font_weight": "medium",
-                "text_color": "hdt-s-text",
-                "font_size_text_lg": 24,
-                "font_size_text": 24,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            },
-            "text_hrzh66": {
-              "type": "text",
-              "settings": {
-                "text": "<p>MAKE LOVE THIS LOOK</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "base",
-                "line_height": "",
-                "font_weight": "semibold",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            },
-            "banner-media": {
-              "type": "_media",
-              "static": true,
-              "settings": {
-                "source": "image",
-                "image": "shopify://shop_images/5_2022-03-02.jpg",
-                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "liquid_HiCy9a",
-            "text_hrzh66"
-          ]
-        },
-        "banner_item_8P4VCT": {
-          "type": "_banner-item",
-          "settings": {
-            "banner_url": "shopify://collections/automated-collection",
-            "banner_target": false,
-            "img_effect": "translateToTop",
-            "b_effect": "none",
-            "colors_by_block": false,
-            "color_scheme": "scheme-1",
-            "gap_r": 20,
-            "gap_c": 20,
-            "content_position": "center",
-            "alignment": "center",
-            "gap_r_mb": 20,
-            "gap_c_mb": 20,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          },
-          "blocks": {
-            "text_qct3Q9": {
-              "type": "text",
-              "name": "Text",
-              "settings": {
-                "text": "<p>HUGE SALE</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "2xl",
-                "line_height": "",
-                "font_weight": "medium",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            },
-            "heading_yDKf6F": {
-              "type": "heading",
-              "settings": {
-                "heading": "<p>50% OFF</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "line_height": "hdt-lh-1-2",
-                "font_weight": "semibold",
-                "heading_size": "h_custom",
-                "text_color": "hdt-s-text",
-                "font_size_heading_lg": 50,
-                "font_size_heading": 34,
-                "letter_spacing_heading": 0
-              },
-              "blocks": {}
-            },
-            "text_cWpiPn": {
-              "type": "text",
-              "name": "Text",
-              "settings": {
-                "text": "<p>HURRY UP</p>",
-                "hidden_br_mobile": false,
-                "hidden_on_mobile": false,
-                "ffamily": "",
-                "text_size": "2xl",
-                "line_height": "",
-                "font_weight": "medium",
-                "text_color": "hdt-s-text",
-                "countdown": "2025-12-30 15:00:00",
-                "txt_day": "days",
-                "font_size_text_lg": 16,
-                "font_size_text": 14,
-                "letter_spacing_text": 0
-              },
-              "blocks": {}
-            },
-            "banner-media": {
-              "type": "_media",
-              "static": true,
-              "settings": {
-                "source": "image",
-                "image": "shopify://shop_images/6_2022-03-02_50f70a60-cd60-4f21-a6c5-9cac17242994.jpg",
-                "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_qct3Q9",
-            "heading_yDKf6F",
-            "text_cWpiPn"
-          ]
-        },
-        "banner-heading": {
-          "type": "section-heading",
-          "disabled": true,
-          "static": true,
-          "settings": {
-            "design_heading": "2",
-            "horizontal": false,
-            "alignment": "left",
-            "heading_gap": 18,
-            "margin_bottom": 30
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "banner_item_CCbabr",
-        "banner_item_8P4VCT"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "space_items": "x",
-        "space_items_tb": "15px",
-        "space_items_mb": "15px",
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "1",
-        "scrollsnap": false,
-        "colors_by_section": true,
-        "color_scheme": "scheme-77e4ef58-56a9-4631-876a-12098ba7d57d",
-        "background_opacity": 0,
-        "section_layout": "container",
-        "mg": "",
-        "mg_mb": "",
-        "pd": ",,100px,",
-        "pd_mb": ",,75px,"
+        "mg_mb": ""
       }
     },
     "blog_post_DcUjga": {
       "type": "blog-post",
       "blocks": {
-        "article_carousel_wnf68V": {
+        "article_carousel_4hyaCh": {
           "type": "_article-carousel",
           "settings": {
             "blog": "fashion",
@@ -1079,7 +964,7 @@
             "navUI": true,
             "nav_position": "default",
             "nav_visible": "hover",
-            "nav_style": "default",
+            "nav_style": "outline",
             "nav_shape": "rounded",
             "nav_size": "small",
             "nav_hide_mobile": false,
@@ -1117,27 +1002,30 @@
           "type": "section-heading",
           "static": true,
           "settings": {
-            "design_heading": "1",
+            "design_heading": "2",
             "horizontal": false,
             "alignment": "center",
             "heading_gap": 0,
             "margin_bottom": 30
           },
           "blocks": {
-            "heading_section_UMR9jJ": {
+            "heading_section_L9JKEV": {
               "type": "_heading_section",
               "settings": {
-                "heading": "latest blog posts",
+                "heading": "LATEST FROM BLOG",
                 "line_height": "",
                 "heading_size": "h5",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             },
-            "sub_heading_section_W6n6Q4": {
+            "sub_heading_section_7yG4HK": {
               "type": "_sub_heading_section",
               "settings": {
-                "text": "<p><em>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor!</em></p>",
+                "text": "<p><em>The freshest and most exciting news</em></p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "text_size": "base",
@@ -1150,23 +1038,23 @@
             }
           },
           "block_order": [
-            "heading_section_UMR9jJ",
-            "sub_heading_section_W6n6Q4"
+            "heading_section_L9JKEV",
+            "sub_heading_section_7yG4HK"
           ]
         }
       },
       "block_order": [
-        "article_carousel_wnf68V"
+        "article_carousel_4hyaCh"
       ],
       "settings": {
         "colors_by_section": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "container",
-        "mg": "",
-        "mg_mb": "",
         "pd": ",,100px,",
-        "pd_mb": ",,75px,"
+        "pd_mb": ",,75px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "lookbook_carousel_VeWgrg": {
@@ -1462,10 +1350,13 @@
             "heading_section_34iCHk": {
               "type": "_heading_section",
               "settings": {
-                "heading": "@ follow us on instagram",
+                "heading": "@ FOLLOW US ON INSTAGRAM",
                 "line_height": "",
                 "heading_size": "h5",
-                "text_color": "hdt-s-text"
+                "text_color": "hdt-s-text",
+                "font_size_heading_lg": 50,
+                "font_size_heading": 24,
+                "letter_spacing_heading": 0
               },
               "blocks": {}
             }
@@ -1473,6 +1364,19 @@
           "block_order": [
             "heading_section_34iCHk"
           ]
+        },
+        "lookbook-content": {
+          "type": "_lookbook-content",
+          "static": true,
+          "settings": {
+            "lookbook_content_center": true,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "content_top": 50,
+            "content_left": 50,
+            "color_background": "#000000"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -1498,7 +1402,7 @@
         "navUI": true,
         "nav_position": "default",
         "nav_visible": "hover",
-        "nav_style": "default",
+        "nav_style": "outline",
         "nav_shape": "rounded",
         "nav_size": "small",
         "nav_hide_mobile": false,
@@ -1512,10 +1416,10 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "full_width",
-        "mg": "",
-        "mg_mb": "",
         "pd": "",
-        "pd_mb": ""
+        "pd_mb": "",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "shipping_9pXycT": {
@@ -1776,7 +1680,6 @@
         "shipping_Qqget3",
         "shipping_iBieM3"
       ],
-      "disabled": true,
       "settings": {
         "content_align": "left",
         "align_center": false,
@@ -1795,10 +1698,10 @@
         "color_scheme": "scheme-1",
         "background_opacity": 0,
         "section_layout": "container",
-        "mg": "",
-        "mg_mb": "",
         "pd": "40px,,40px,",
-        "pd_mb": "40px,,40px,"
+        "pd_mb": "40px,,40px,",
+        "mg": "",
+        "mg_mb": ""
       }
     },
     "1755067183c661e3bf": {
@@ -1820,11 +1723,10 @@
     }
   },
   "order": [
-    "slideshow_EVrUzi",
-    "custom_section_NVWAfK",
-    "collections_list_manual_eErqxt",
-    "tabs_collection_dVJh7M",
-    "banner_VyWanM",
+    "banners_LARFew",
+    "collections_list_NycGKR",
+    "banners_3CAnrV",
+    "lookbook_grid_CrLYyr",
     "blog_post_DcUjga",
     "lookbook_carousel_VeWgrg",
     "shipping_9pXycT",
