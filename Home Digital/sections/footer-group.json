@@ -369,7 +369,7 @@
               "type": "_footer-image",
               "name": "t:blocks.footer_image.name",
               "settings": {
-                "img": "shopify:\/\/shop_images\/payment.webp",
+                "img": "shopify:\/\/shop_images\/payment.png",
                 "custom_width": "custom",
                 "image_w": 200,
                 "image_w_tb": 200,

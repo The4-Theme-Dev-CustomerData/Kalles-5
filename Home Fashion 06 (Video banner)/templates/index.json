@@ -1101,7 +1101,7 @@
               "static": true,
               "settings": {
                 "source": "image",
-                "image": "shopify://shop_images/bn-02.webp",
+                "image": "shopify://shop_images/bn-02.jpg",
                 "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
               },
               "blocks": {}

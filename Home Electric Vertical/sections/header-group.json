@@ -260,7 +260,7 @@
         "hdt_liquid_html": "<hdt-font-1>Share information about your brand with your customers.<\/hdt-font-1> <hdt-font-2>Describe a product, make announcements, or welcome customers to your store.<\/hdt-font-2>",
         "header_bottom_height": 50,
         "header_bottom_colors": "scheme-1b1f0b91-ad0e-44e4-bd77-dd633dd0a5d6",
-        "main_menu": "main-menu-1",
+        "main_menu": "main-menu",
         "lazy_mn": true,
         "menu_position": "start",
         "menu_size": "base",

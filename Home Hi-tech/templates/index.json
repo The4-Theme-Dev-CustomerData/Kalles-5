@@ -6,7 +6,7 @@
         "slide_item_GJUjrM": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hi-tech2_f30caee2-e429-41e1-8b7f-b9cfd14bbdb9.jpg",
+            "image": "shopify://shop_images/hi-tech2_f30caee2-e429-41e1-8b7f-b9cfd14bbdb9.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-ead2bcfe-bd5c-411d-9bf0-f5a3101acc9e",
@@ -42,7 +42,7 @@
             "text_YrQhtV": {
               "type": "text",
               "settings": {
-                "text": "<p>CAMERA AND ACCESSORIES<\/p>",
+                "text": "<p>CAMERA AND ACCESSORIES</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "--f_family_2",
@@ -71,7 +71,7 @@
             "heading_MzV9Ty": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Vintage Style Collection<\/p>",
+                "heading": "<p>Vintage Style Collection</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -98,7 +98,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/hi-tech",
+                "link": "shopify://collections/hi-tech",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -137,7 +137,7 @@
         "slide_item_JGtGyG": {
           "type": "_slide-item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hi-tech.jpg",
+            "image": "shopify://shop_images/hi-tech.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-ead2bcfe-bd5c-411d-9bf0-f5a3101acc9e",
@@ -173,7 +173,7 @@
             "text_cFq9RJ": {
               "type": "text",
               "settings": {
-                "text": "<p>HOT DEAL<\/p>",
+                "text": "<p>HOT DEAL</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "--f_family_2",
@@ -202,7 +202,7 @@
             "heading_YJixAb": {
               "type": "heading",
               "settings": {
-                "heading": "<p>Morso New Headphone<\/p>",
+                "heading": "<p>Morso New Headphone</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -229,7 +229,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop Now",
-                "link": "shopify:\/\/collections\/hi-tech",
+                "link": "shopify://collections/hi-tech",
                 "open_in_new_tab": false,
                 "full_width": false,
                 "btn_style": "hdt-btn-link",
@@ -312,9 +312,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "audio",
-            "image": "shopify:\/\/shop_images\/b1.png",
+            "image": "shopify://shop_images/b1.png",
+            "hdt_collection_list_svg": "",
+            "svg_width": 60,
+            "svg_width_mb": 40,
             "title": "Speaker",
-            "collection_link": "shopify:\/\/collections\/hi-tech",
+            "collection_link": "shopify://collections/hi-tech",
             "col_dk": "6",
             "col_tb": "6",
             "col_mb": "6"
@@ -325,9 +328,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "electric",
-            "image": "shopify:\/\/shop_images\/b2.png",
+            "image": "shopify://shop_images/b2.png",
+            "hdt_collection_list_svg": "",
+            "svg_width": 60,
+            "svg_width_mb": 40,
             "title": "Headphone",
-            "collection_link": "shopify:\/\/collections\/hi-tech",
+            "collection_link": "shopify://collections/hi-tech",
             "col_dk": "6",
             "col_tb": "6",
             "col_mb": "6"
@@ -338,9 +344,12 @@
           "type": "_collection_item",
           "settings": {
             "collection": "electric",
-            "image": "shopify:\/\/shop_images\/b3.png",
+            "image": "shopify://shop_images/b3.png",
+            "hdt_collection_list_svg": "",
+            "svg_width": 60,
+            "svg_width_mb": 40,
             "title": "Turntable Audio",
-            "collection_link": "shopify:\/\/collections\/hi-tech",
+            "collection_link": "shopify://collections/hi-tech",
             "col_dk": "6",
             "col_tb": "6",
             "col_mb": "6"
@@ -438,6 +447,7 @@
             "pagination": true,
             "pagination_color_scheme": "",
             "pagination_type": "load_more",
+            "enable_progressbar": false,
             "paginate_pos": "center",
             "dis_pagination": 40,
             "btn_label": "Load More",
@@ -445,7 +455,12 @@
             "endable_btn_icon": true,
             "size": "m",
             "btn_fw": "semibold",
-            "rounded": ""
+            "rounded": "",
+            "font_size_btn": 14,
+            "padding_btn": 30,
+            "min_width_btn": 100,
+            "min_width_dt_btn": 100,
+            "min_height_btn": 40
           },
           "blocks": {}
         },
@@ -501,7 +516,7 @@
         "heading_RTbGLV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Hear every note with EXTRA BASS<\/p>",
+            "heading": "<p>Hear every note with EXTRA BASS</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": false,
             "line_height": "hdt-lh-1-2",
@@ -527,7 +542,7 @@
         "text_FM8HPY": {
           "type": "text",
           "settings": {
-            "text": "<p>With exceptional bass and advanced noise cancelation, <br\/>WH-XB900N headphones put the focus firmly on<br\/>the music. Let your party for one begin.<\/p>",
+            "text": "<p>With exceptional bass and advanced noise cancelation, <br/>WH-XB900N headphones put the focus firmly on<br/>the music. Let your party for one begin.</p>",
             "hidden_br_mobile": false,
             "hidden_on_mobile": true,
             "ffamily": "",
@@ -558,7 +573,7 @@
           "name": "t:blocks.button.name",
           "settings": {
             "label": "Discovery Now",
-            "link": "shopify:\/\/collections\/hi-tech",
+            "link": "shopify://collections/hi-tech",
             "open_in_new_tab": false,
             "full_width": false,
             "btn_style": "",
@@ -598,7 +613,7 @@
       ],
       "name": "t:sections.hero-image.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/bn33.png",
+        "image": "shopify://shop_images/bn33.png",
         "link_img": "",
         "target": false,
         "image_height": "fixed",
@@ -674,6 +689,7 @@
                 "pagination": false,
                 "pagination_color_scheme": "",
                 "pagination_type": "load_more",
+                "enable_progressbar": false,
                 "paginate_pos": "center",
                 "dis_pagination": 30,
                 "btn_label": "Load More",
@@ -681,7 +697,12 @@
                 "endable_btn_icon": true,
                 "size": "m",
                 "btn_fw": "semibold",
-                "rounded": ""
+                "rounded": "",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40
               },
               "blocks": {}
             }
@@ -717,6 +738,7 @@
                 "pagination": false,
                 "pagination_color_scheme": "",
                 "pagination_type": "load_more",
+                "enable_progressbar": false,
                 "paginate_pos": "center",
                 "dis_pagination": 30,
                 "btn_label": "Load More",
@@ -724,7 +746,12 @@
                 "endable_btn_icon": true,
                 "size": "m",
                 "btn_fw": "semibold",
-                "rounded": ""
+                "rounded": "",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40
               },
               "blocks": {}
             }
@@ -760,6 +787,7 @@
                 "pagination": false,
                 "pagination_color_scheme": "",
                 "pagination_type": "load_more",
+                "enable_progressbar": false,
                 "paginate_pos": "center",
                 "dis_pagination": 30,
                 "btn_label": "Load More",
@@ -767,7 +795,12 @@
                 "endable_btn_icon": true,
                 "size": "m",
                 "btn_fw": "semibold",
-                "rounded": ""
+                "rounded": "",
+                "font_size_btn": 14,
+                "padding_btn": 30,
+                "min_width_btn": 100,
+                "min_width_dt_btn": 100,
+                "min_height_btn": 40
               },
               "blocks": {}
             }
@@ -812,10 +845,12 @@
         "tab_collection_rwhV7X"
       ],
       "custom_css": [
-        ".hdt-tabs-item-title {--radius-button: 0; --border-width: 1px;}"
+        ".hdt-tabs-item-title {--radius-button: 0; --border-width: 1px;}",
+        ".hdt-tabs-item-title:hover .hdt-collection-title-text, .hdt-tabs-item-title[aria-current=true] .hdt-collection-title-text {color: rgb(var(--color-foreground));}"
       ],
       "name": "t:sections.tabs_collections.grid_name",
       "settings": {
+        "enable_tabs_on_heading": false,
         "tabs_des": "has_border",
         "tabs_list_pos": "center",
         "tab_item_size": "base",
@@ -864,7 +899,7 @@
             "heading_84pxPW": {
               "type": "heading",
               "settings": {
-                "heading": "<p>SUBSCRIBE TO OUR NEWSLETTERS<\/p>",
+                "heading": "<p>SUBSCRIBE TO OUR NEWSLETTERS</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -891,7 +926,7 @@
               "type": "heading",
               "name": "t:blocks.heading.name",
               "settings": {
-                "heading": "<p>Keep up to Date with Our New Collection and Exclusive Offers<\/p>",
+                "heading": "<p>Keep up to Date with Our New Collection and Exclusive Offers</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "hdt-lh-1-2",
@@ -990,7 +1025,7 @@
         "color_scheme": "",
         "background_opacity": 0,
         "section_layout": "wrapper_container",
-        "section_background": "shopify:\/\/shop_images\/banner-Hi-tech_9f03cdd6-c788-49bf-b3a4-5728bb84c0d4.png",
+        "section_background": "shopify://shop_images/banner-Hi-tech_9f03cdd6-c788-49bf-b3a4-5728bb84c0d4.png",
         "hdt_background_parallax": false,
         "mg": "80px,50px,80px,50px,",
         "mg_mb": "50px,0,50px,0",
@@ -1011,7 +1046,7 @@
             "heading_PqAVai": {
               "type": "heading",
               "settings": {
-                "heading": "<p>FREE SHIPPING<\/p>",
+                "heading": "<p>FREE SHIPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1037,7 +1072,7 @@
             "text_q76VXX": {
               "type": "text",
               "settings": {
-                "text": "<p>Whether it's a sofa or a sheet set, delivery's<br\/>on the house.<\/p>",
+                "text": "<p>Whether it's a sofa or a sheet set, delivery's<br/>on the house.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1070,7 +1105,7 @@
             "heading_PtYdA8": {
               "type": "heading",
               "settings": {
-                "heading": "<p>PREMIUM DESIGN<\/p>",
+                "heading": "<p>PREMIUM DESIGN</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1096,7 +1131,7 @@
             "text_AcM8zh": {
               "type": "text",
               "settings": {
-                "text": "<p>Shop zillions of finds, with new arrivals<br\/>added daily.<\/p>",
+                "text": "<p>Shop zillions of finds, with new arrivals<br/>added daily.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
@@ -1129,7 +1164,7 @@
             "heading_RaX9tb": {
               "type": "heading",
               "settings": {
-                "heading": "<p>BEAUTIFUL GIFT WRAPPING<\/p>",
+                "heading": "<p>BEAUTIFUL GIFT WRAPPING</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "line_height": "",
@@ -1155,7 +1190,7 @@
             "text_FWkCn7": {
               "type": "text",
               "settings": {
-                "text": "<p>Use the Credit Card to save on your first<br\/>order over $250.<\/p>",
+                "text": "<p>Use the Credit Card to save on your first<br/>order over $250.</p>",
                 "hidden_br_mobile": false,
                 "hidden_on_mobile": false,
                 "ffamily": "",
