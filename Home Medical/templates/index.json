@@ -1991,8 +1991,6 @@
         "logo_item_7Vw8VR"
       ],
       "custom_css": [
-        "#shopify-block-ASHdKdDkwZmtENGJMV__logo_item_TtXtfh > div,#shopify-block-AdTdUbnlxbGNGZ0lvc__logo_item_m7jABE > div {max-width: 90px; justify-content: center;}",
-        "#shopify-block-ARncrZDB3OXBhd2Vla__logo_item_wrECCV > div {max-width: 120px;}",
         "@media (width < 1350px) {.hdt-heading-block {text-align: center; }}"
       ],
       "name": "t:sections.logo_list.name",
